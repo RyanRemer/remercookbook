@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class CategorySelectorWrap extends StatefulWidget {
   final Iterable<String?> categories;
   final CategorySelection? defaultSelection;
-  final ValueChanged<CategorySelection?>? onSelect;
+  final ValueChanged<CategorySelection>? onSelect;
 
   const CategorySelectorWrap({
     required this.categories,
@@ -33,8 +33,9 @@ class _CategorySelectorWrapState extends State<CategorySelectorWrap> {
         ),
         onSelected: (value) {
           setState(() {
-            selection = CategoryAllSelection();
-            widget.onSelect?.call(selection);
+            CategorySelection allSelection = CategoryAllSelection();
+            selection = allSelection;
+            widget.onSelect?.call(allSelection);
           });
         }));
 
@@ -48,8 +49,10 @@ class _CategorySelectorWrapState extends State<CategorySelectorWrap> {
           ),
           onSelected: (value) {
             setState(() {
-              selection = CategoryValueSelection(category);
-              widget.onSelect?.call(selection);
+              CategorySelection valueSelection =
+                  CategoryValueSelection(category);
+              selection = valueSelection;
+              widget.onSelect?.call(valueSelection);
             });
           }));
     }

@@ -5,7 +5,13 @@ import 'package:remer_cookbook/recipe_book.dart';
 
 class HomePageHeader extends StatefulWidget {
   final RecipeBook recipeBook;
-  const HomePageHeader({required this.recipeBook, Key? key}) : super(key: key);
+  final ValueChanged<CategorySelection>? onCategorySelection;
+
+  const HomePageHeader({
+    required this.recipeBook,
+    this.onCategorySelection,
+    Key? key,
+  }) : super(key: key);
 
   @override
   State<HomePageHeader> createState() => _HomePageHeaderState();
@@ -21,7 +27,10 @@ class _HomePageHeaderState extends State<HomePageHeader> {
         const HomePageSearch(),
         Padding(
           padding: const EdgeInsets.all(8.0),
-          child: CategorySelectorWrap(categories: alphabeticalCategories),
+          child: CategorySelectorWrap(
+            categories: alphabeticalCategories,
+            onSelect: widget.onCategorySelection,
+          ),
         ),
       ],
     );
