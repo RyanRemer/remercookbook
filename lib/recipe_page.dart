@@ -154,6 +154,7 @@ class RecipePage extends StatelessWidget {
           imageUrl,
           height: 240,
           fit: BoxFit.cover,
+          alignment: Alignment.topLeft,
         ),
       ),
     );
@@ -195,9 +196,8 @@ class RecipePage extends StatelessWidget {
 
     return Padding(
       padding: const EdgeInsets.only(left: 8.0, right: 8.0),
-      child: Text(
-        "*This is a test for some notes that I wrote on a bagel in the month of May, May you always be happy with your son.",
-        style: TextStyle(fontStyle: FontStyle.italic),
+      child: Text(notes,
+        style: const TextStyle(fontStyle: FontStyle.italic),
       ),
     );
   }
