@@ -1,12 +1,12 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:remer_cookbook/category_selector_wrap.dart';
+import 'package:remer_cookbook/home/category_selector_wrap.dart';
 import 'package:remer_cookbook/home/home_page_header.dart';
 import 'package:remer_cookbook/recipe.dart';
 import 'package:remer_cookbook/recipe_book.dart';
-import 'package:remer_cookbook/recipe_card.dart';
-import 'package:remer_cookbook/recipe_page.dart';
+import 'package:remer_cookbook/home/recipe_card.dart';
+import 'package:remer_cookbook/recipe_page/recipe_page.dart';
 
 class HomePageContent extends StatefulWidget {
   final RecipeBook recipeBook;
