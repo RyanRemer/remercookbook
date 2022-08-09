@@ -21,11 +21,16 @@ class HomePageContent extends StatefulWidget {
 }
 
 class _HomePageContentState extends State<HomePageContent> {
-  List<Recipe>? recipes;
+  TextEditingController searchTextController = TextEditingController();
+  CategorySelection categorySelection = CategoryAllSelection();
+  String searchQuery = "";
 
   @override
   Widget build(BuildContext context) {
-    List<Recipe> recipes = this.recipes ?? widget.recipeBook.recipes;
+    List<Recipe> recipes = getRecipesByFilters(
+      categorySelection,
+      searchQuery,
+    );
 
     return LayoutBuilder(builder: (context, constraints) {
       double recipeMinWidth = 320;
@@ -39,8 +44,11 @@ class _HomePageContentState extends State<HomePageContent> {
         itemBuilder: (context, index) {
           if (index == 0) {
             return HomePageHeader(
+              searchTextController: searchTextController,
               recipeBook: widget.recipeBook,
+              categorySelection: categorySelection,
               onCategorySelection: onCategorySelect,
+              onSearchQueryChanged: onSearchQueryChanged,
             );
           } else {
             int rowIndex = index - 1;
@@ -62,11 +70,35 @@ class _HomePageContentState extends State<HomePageContent> {
     });
   }
 
-  void onCategorySelect(CategorySelection categorySelection) {
-    List<Recipe> recipes = getRecipesbyCategorySelection(categorySelection);
+  void onSearchQueryChanged(String searchQuery) {
     setState(() {
-      this.recipes = recipes;
+      this.searchQuery = searchQuery;
     });
+  }
+
+  void onCategorySelect(CategorySelection categorySelection) {
+    setState(() {
+      this.categorySelection = categorySelection;
+    });
+  }
+
+  List<Recipe> getRecipesByFilters(
+      CategorySelection categorySelection, String searchQuery) {
+    List<Recipe> recipesByCategory =
+        getRecipesbyCategorySelection(categorySelection);
+
+    if (searchQuery.isEmpty) {
+      return recipesByCategory;
+    }
+
+    return recipesByCategory
+        .where((recipe) => recipeContainsQuery(recipe, searchQuery))
+        .toList();
+  }
+
+  bool recipeContainsQuery(Recipe recipe, String query) {
+    String lowercaseQuery = query.toLowerCase();
+    return recipe.name.toLowerCase().contains(lowercaseQuery);
   }
 
   List<Recipe> getRecipesbyCategorySelection(

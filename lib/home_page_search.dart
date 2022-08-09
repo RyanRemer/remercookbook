@@ -2,7 +2,14 @@ import 'package:flutter/material.dart';
 
 class HomePageSearch extends StatelessWidget {
   static const double imageSectionHeight = 400;
-  const HomePageSearch({Key? key}) : super(key: key);
+  final ValueChanged<String>? onSearchQueryChange;
+  final TextEditingController textEditingController;
+
+  const HomePageSearch({
+    Key? key,
+    required this.textEditingController,
+    this.onSearchQueryChange,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -34,12 +41,31 @@ class HomePageSearch extends StatelessWidget {
               Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.center,
-                children: const [
-                  Center(
-                      child: Text(
-                    "Remer Cookbook",
-                    style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-                  )),
+                children: [
+                  const Center(
+                    child: Text(
+                      "Remer Cookbook",
+                      style:
+                          TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+                    ),
+                  ),
+                  SizedBox(
+                    width: 320,
+                    child: TextField(
+                      controller: textEditingController,
+                      decoration: InputDecoration(
+                        prefixIcon: const Icon(Icons.search),
+                        suffixIcon: IconButton(
+                          icon: const Icon(Icons.clear),
+                          onPressed: () {
+                            textEditingController.clear();
+                            onSearchQueryChange?.call("");
+                          },
+                        ),
+                      ),
+                      onChanged: onSearchQueryChange,
+                    ),
+                  )
                 ],
               ),
             ],
