@@ -2,8 +2,8 @@ import 'dart:convert';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:remer_cookbook/home_page_content.dart';
-import 'package:remer_cookbook/home_page_header.dart';
+import 'package:remer_cookbook/home/home_page_content.dart';
+import 'package:remer_cookbook/home/home_page_header.dart';
 import 'package:remer_cookbook/recipe.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:remer_cookbook/recipe_book.dart';

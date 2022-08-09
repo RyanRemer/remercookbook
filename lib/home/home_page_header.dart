@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:remer_cookbook/category_selector_wrap.dart';
-import 'package:remer_cookbook/home_page_search.dart';
+import 'package:remer_cookbook/home/home_page_search.dart';
 import 'package:remer_cookbook/recipe_book.dart';
 
 class HomePageHeader extends StatefulWidget {
