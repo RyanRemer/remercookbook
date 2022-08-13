@@ -1,15 +1,16 @@
-import 'package:flutter/foundation.dart';
 import 'package:remer_cookbook/recipe.dart';
 
 class RecipeBook {
   final List<Recipe> recipes = [];
   final Set<String?> categories = {};
-  final Map<String?, List<Recipe>> recipeMap = {};
+  final Map<String?, List<Recipe>> categoryRecipeMap = {};
+  final Map<String, Recipe> nameRecipeMap = {};
 
   void add(Recipe recipe) {
     recipes.add(recipe);
     categories.add(recipe.category);
-    recipeMap.putIfAbsent(recipe.category, () => []).add(recipe);
+    categoryRecipeMap.putIfAbsent(recipe.category, () => []).add(recipe);
+    nameRecipeMap[recipe.name] = recipe;
   }
 
   List<String?> getAlphabetizedCategories() {

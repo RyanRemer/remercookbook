@@ -1,7 +1,10 @@
+import 'dart:html';
 import 'dart:math';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:remer_cookbook/home/category_selector_wrap.dart';
+import 'package:remer_cookbook/home/home_page.dart';
 import 'package:remer_cookbook/home/home_page_header.dart';
 import 'package:remer_cookbook/recipe.dart';
 import 'package:remer_cookbook/recipe_book.dart';
@@ -9,10 +12,16 @@ import 'package:remer_cookbook/home/recipe_card.dart';
 import 'package:remer_cookbook/recipe_page/recipe_page.dart';
 
 class HomePageContent extends StatefulWidget {
+  static const String route = "/home";
+
   final RecipeBook recipeBook;
+  final CategorySelection? initalSelection;
+  final String? initalQuery;
 
   const HomePageContent({
     required this.recipeBook,
+    this.initalSelection,
+    this.initalQuery,
     Key? key,
   }) : super(key: key);
 
@@ -22,11 +31,16 @@ class HomePageContent extends StatefulWidget {
 
 class _HomePageContentState extends State<HomePageContent> {
   TextEditingController searchTextController = TextEditingController();
-  CategorySelection categorySelection = CategoryAllSelection();
-  String searchQuery = "";
+  CategorySelection? categorySelection;
+  String? searchQuery;
 
   @override
   Widget build(BuildContext context) {
+    CategorySelection categorySelection = this.categorySelection ??
+        widget.initalSelection ??
+        CategoryAllSelection();
+    String searchQuery = this.searchQuery ?? widget.initalQuery ?? "";
+
     List<Recipe> recipes = getRecipesByFilters(
       categorySelection,
       searchQuery,
@@ -108,7 +122,7 @@ class _HomePageContentState extends State<HomePageContent> {
 
     if (categorySelection is CategoryValueSelection) {
       String? category = categorySelection.value;
-      List<Recipe>? recipes = widget.recipeBook.recipeMap[category];
+      List<Recipe>? recipes = widget.recipeBook.categoryRecipeMap[category];
       return recipes ?? allRecipes;
     } else {
       return allRecipes;
@@ -139,10 +153,12 @@ class _HomePageContentState extends State<HomePageContent> {
       ),
     );
   }
-}
 
-void openRecipe(BuildContext context, Recipe recipe) {
-  Navigator.of(context).push(MaterialPageRoute(builder: (context) {
-    return RecipePage(recipe: recipe);
-  }));
+  Future<void> openRecipe(BuildContext context, Recipe recipe) async {
+    await RecipePage.navigateTo(context, recipe.name);
+
+    if (kIsWeb) {
+      window.history.replaceState("recipePage", "Home", "/");
+    }
+  }
 }

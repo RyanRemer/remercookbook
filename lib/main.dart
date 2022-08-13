@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:remer_cookbook/recipe_page/recipe_page.dart';
 import 'home/home_page.dart';
+import 'package:url_strategy/url_strategy.dart';
+
+typedef UriRouteParser = Widget? Function(Uri uri);
 
 void main() {
+  setPathUrlStrategy();
   runApp(const MyApp());
 }
 
@@ -11,13 +16,28 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+    List<UriRouteParser> routeParsers = [RecipePage.buildRecipePageFromUri];
+
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Remer Cookbook',
       theme: ThemeData(
         primarySwatch: Colors.orange,
       ),
-      home: const HomePage(),
+      onGenerateRoute: (RouteSettings settings) {
+        Uri uri = Uri.parse(settings.name!);
+
+        for (UriRouteParser routeParser in routeParsers) {
+          Widget? widget = routeParser(uri);
+          if (widget != null) {
+            return MaterialPageRoute(builder: (context) => widget);
+          }
+        }
+
+        return MaterialPageRoute(
+          builder: (context) => const HomePage(),
+        );
+      },
     );
   }
 }
