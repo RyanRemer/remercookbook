@@ -17,19 +17,22 @@ class RecipeImage extends StatelessWidget {
       return emptyImage;
     }
 
-    return LayoutBuilder(
-      builder: (context, constraints) {
-        return Image.network(
-          imageUrl,
-          height: constraints.maxHeight,
-          width: constraints.maxWidth,
-          fit: BoxFit.cover,
-          errorBuilder: (context, _obeject, _stacktrace) {
-            log("NetworkImageError: $imageUrl");
-            return emptyImage;
-          },
-        );
-      },
+    return Hero(
+      tag: ObjectKey(imageUrl),
+      child: LayoutBuilder(
+        builder: (context, constraints) {
+          return Image.network(
+            imageUrl,
+            height: constraints.maxHeight,
+            width: constraints.maxWidth,
+            fit: BoxFit.cover,
+            errorBuilder: (context, _obeject, _stacktrace) {
+              log("NetworkImageError: $imageUrl");
+              return emptyImage;
+            },
+          );
+        },
+      ),
     );
   }
 
