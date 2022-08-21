@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:remer_cookbook/recipe_image/recipe_image.dart';
 
 import '../recipe.dart';
 
@@ -15,28 +16,13 @@ class RecipeCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    String? imageUrl = recipe.imageUrl;
-
-    if (imageUrl == null || imageUrl.isEmpty) {
-      return buildRecipeCardWithoutImage(context, recipe);
-    }
-
     return Padding(
       padding: cardPadding,
       child: ClipRRect(
         borderRadius: cardBorderRadius,
         child: Stack(
           children: [
-            LayoutBuilder(
-              builder: (context, constraints) {
-                return Image.network(
-                  imageUrl,
-                  height: constraints.maxHeight,
-                  width: constraints.maxWidth,
-                  fit: BoxFit.cover,
-                );
-              },
-            ),
+            RecipeImage(imageUrl: recipe.imageUrl),
             Container(
               decoration: const BoxDecoration(
                 gradient: LinearGradient(
@@ -66,32 +52,6 @@ class RecipeCard extends StatelessWidget {
                 ),
               ),
             ),
-            Material(
-              color: Colors.transparent,
-              child: InkWell(
-                onTap: onTap,
-              ),
-            ),
-          ],
-        ),
-      ),
-    );
-  }
-
-  buildRecipeCardWithoutImage(BuildContext context, Recipe recipe) {
-    return Padding(
-      padding: cardPadding,
-      child: ClipRRect(
-        borderRadius: cardBorderRadius,
-        child: Stack(
-          children: [
-            Container(
-              color: Colors.grey.shade200,
-              child: const Center(
-                child: Icon(Icons.restaurant),
-              ),
-            ),
-            buildText(recipe, context),
             Material(
               color: Colors.transparent,
               child: InkWell(

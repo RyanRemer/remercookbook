@@ -38,8 +38,8 @@ class Recipe {
     try {
       return Recipe(
         name: map['name'] ?? "",
-        ingredients: List<String>.from(map['ingredients'] ?? []),
-        directions: List<String>.from(map['directions'] ?? []),
+        ingredients: (map['ingredients'] as String).split("\n"),
+        directions: (map['directions'] as String).split("\n"),
         notes: map['notes'] ?? "",
         yields: map['yields'],
         category: map['category'],

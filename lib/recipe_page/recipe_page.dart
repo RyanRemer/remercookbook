@@ -5,6 +5,7 @@ import 'dart:math';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:remer_cookbook/recipe_book_loader.dart';
+import 'package:remer_cookbook/recipe_image/recipe_image.dart';
 
 import '../recipe.dart';
 
@@ -26,7 +27,7 @@ class RecipePage extends StatelessWidget {
       // Change the url without navigating to the page, for easy link sharing
       window.history.pushState('recipePage', recipeName, uri.toString());
     }
-    
+
     return Navigator.pushNamed(context, uri.toString());
   }
 
@@ -66,37 +67,7 @@ class RecipePage extends StatelessWidget {
                         bottom: 128,
                         top: 48),
                     children: [
-                      Padding(
-                        padding: const EdgeInsets.symmetric(vertical: 8),
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text(
-                              recipe.name,
-                              style: Theme.of(context).textTheme.titleLarge,
-                            ),
-                            buildSubtitle(context, recipe),
-                          ],
-                        ),
-                      ),
-                      buildImage(context, recipe),
-                      Padding(
-                        padding: const EdgeInsets.symmetric(vertical: 8),
-                        child: Text(
-                          "Ingredients",
-                          style: Theme.of(context).textTheme.titleMedium,
-                        ),
-                      ),
-                      ...recipe.ingredients.map((ingredient) => buildBullet(
-                          context,
-                          const SizedBox(
-                              width: 24,
-                              height: 24,
-                              child: Text(
-                                "•",
-                                textAlign: TextAlign.center,
-                              )),
-                          Text(ingredient))),
+                      buildResponsiveSection(context, recipe, constraints),
                       Padding(
                         padding: const EdgeInsets.symmetric(vertical: 8),
                         child: Text(
@@ -115,6 +86,103 @@ class RecipePage extends StatelessWidget {
           );
         },
       ),
+    );
+  }
+
+  Widget buildResponsiveSection(
+      BuildContext context, Recipe recipe, BoxConstraints constraints) {
+    if (constraints.maxWidth > 500) {
+      return buildImageOnRight(context, recipe, constraints);
+    } else {
+      return buildImageInColumn(context, recipe, constraints);
+    }
+  }
+
+  Widget buildImageInColumn(
+      BuildContext context, Recipe recipe, BoxConstraints constraints) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        buildTitle(recipe, context),
+        Padding(
+          padding: const EdgeInsets.symmetric(vertical: 8),
+          child: buildImage(context, recipe),
+        ),
+        Padding(
+          padding: const EdgeInsets.symmetric(vertical: 8),
+          child: Text(
+            "Ingredients",
+            style: Theme.of(context).textTheme.titleMedium,
+          ),
+        ),
+        ...buildIngredients(recipe, context)
+      ],
+    );
+  }
+
+  Widget buildImageOnRight(
+    BuildContext context,
+    Recipe recipe,
+    BoxConstraints constraints,
+  ) {
+    return Padding(
+      padding: const EdgeInsets.only(top: 8.0),
+      child: Row(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Padding(
+                  padding: const EdgeInsets.only(bottom: 8),
+                  child: buildTitle(recipe, context),
+                ),
+                Padding(
+                  padding: const EdgeInsets.symmetric(vertical: 8),
+                  child: Text(
+                    "Ingredients",
+                    style: Theme.of(context).textTheme.titleMedium,
+                  ),
+                ),
+                ...buildIngredients(recipe, context),
+              ],
+            ),
+          ),
+          Expanded(
+            child: Padding(
+              padding: const EdgeInsets.only(left: 8.0),
+              child: buildImage(context, recipe),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Iterable<Widget> buildIngredients(Recipe recipe, BuildContext context) {
+    return recipe.ingredients.map((ingredient) => buildBullet(
+        context,
+        const SizedBox(
+            width: 24,
+            height: 24,
+            child: Text(
+              "•",
+              textAlign: TextAlign.center,
+            )),
+        Text(ingredient)));
+  }
+
+  Column buildTitle(Recipe recipe, BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          recipe.name,
+          style: Theme.of(context).textTheme.titleLarge,
+        ),
+        buildSubtitle(context, recipe),
+      ],
     );
   }
 
@@ -196,23 +264,21 @@ class RecipePage extends StatelessWidget {
     );
   }
 
-  Widget buildImage(BuildContext context, Recipe recipe) {
-    String? imageUrl = recipe.imageUrl;
-
-    if (imageUrl == null || imageUrl.isEmpty) {
-      return const SizedBox.shrink();
-    }
-
-    return Padding(
-      padding: const EdgeInsets.symmetric(vertical: 16),
-      child: ClipRRect(
-        borderRadius: BorderRadius.circular(16),
-        child: Image.network(
-          imageUrl,
-          height: 240,
-          fit: BoxFit.cover,
-          alignment: Alignment.topLeft,
-        ),
+  Widget buildImage(
+    BuildContext context,
+    Recipe recipe,
+  ) {
+    return ClipRRect(
+      borderRadius: BorderRadius.circular(16),
+      child: LayoutBuilder(
+        builder: (context, constraints) {
+          return ConstrainedBox(
+              constraints: const BoxConstraints(
+                minWidth: 240,
+                maxHeight: 240,
+              ),
+              child: RecipeImage(imageUrl: recipe.imageUrl));
+        },
       ),
     );
   }

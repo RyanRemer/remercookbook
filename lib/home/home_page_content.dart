@@ -1,10 +1,10 @@
+// ignore: avoid_web_libraries_in_flutter
 import 'dart:html';
 import 'dart:math';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:remer_cookbook/home/category_selector_wrap.dart';
-import 'package:remer_cookbook/home/home_page.dart';
 import 'package:remer_cookbook/home/home_page_header.dart';
 import 'package:remer_cookbook/recipe.dart';
 import 'package:remer_cookbook/recipe_book.dart';
@@ -68,7 +68,7 @@ class _HomePageContentState extends State<HomePageContent> {
             int rowIndex = index - 1;
             int recipeStartIndex = rowIndex * recipesPerRow;
             int recipeEndIndex = recipeStartIndex + recipesPerRow;
-            recipeEndIndex = min(recipeEndIndex, recipeCount - 1);
+            recipeEndIndex = min(recipeEndIndex, recipeCount);
 
             return SizedBox(
               height: 320,
