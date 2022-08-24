@@ -65,7 +65,7 @@ class RecipePage extends StatelessWidget {
                         left: sidePadding,
                         right: sidePadding,
                         bottom: 128,
-                        top: 48),
+                        top: 64),
                     children: [
                       buildResponsiveSection(context, recipe, constraints),
                       Padding(
