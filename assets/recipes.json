@@ -27,7 +27,7 @@
         "yields": null,
         "category": "Sauces",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5106/picture.png20170402-32677-xwiqz1.png"
     },
     {
         "name": "7-UP Jello Salad",
@@ -47,7 +47,7 @@
         "yields": null,
         "category": "Miscellaneous",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8772/picture.jpg20160902-17666-hq4orm.jpg"
     },
     {
         "name": "Apple Balsamic Chicken",
@@ -77,7 +77,7 @@
         "yields": null,
         "category": "Sauces",
         "original_author": "Buzz Feed",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0046/6820/picture.jpeg20151020-3769-jo3mjs.jpg"
     },
     {
         "name": "Apple Pie",
@@ -87,7 +87,7 @@
         "yields": "",
         "category": "Thanksgiving",
         "original_author": "Tiffany Egbert",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/1677/picture.jpg20170921-15485-1an7rfj.jpg"
     },
     {
         "name": "Apple Salad",
@@ -127,7 +127,7 @@
         "yields": null,
         "category": "Breakfast",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4718/picture.jpg20160519-24369-gea0p4.jpg"
     },
     {
         "name": "Baked Chicken Breasts",
@@ -157,17 +157,17 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5112/picture.png20170402-4227-19qe7nt.png"
     },
     {
-        "name": "Baked Tomato and Egg cups",
+        "name": "Baked Tomato and Egg Cups",
         "ingredients": "3 Roma tomatoes, halved and seeded (look for larger Roma tomatoes)\n6 eggs (smaller eggs fit better)\nsalt and pepper to taste\nfresh herbs\ntoasted bread for serving",
         "directions": "Preheat oven to 450º\nPlace tomatoes on a baking sheet. You might need to slice a tiny bit off the bottom of each tomato to keep them level on the pan.\nCrack eggs and gently place in the cavity of each tomato.\nSeason with salt and pepper. I added dried red pepper flakes for a little heat.\nBake for 6-7 minutes if you like your eggs runny. 8-10 for soft set.\nRemove from oven and top with fresh chopped herbs.\nServe as is or on top of a crusty piece of toasted bread. This is also wonderful stuffed into a toasted bagel.",
         "notes": null,
         "yields": "6",
         "category": "Breakfast",
         "original_author": "www.abeautifulbite.com",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4718/picture.jpg20160519-24369-gea0p4.jpg"
     },
     {
         "name": "Baked Ziti",
@@ -187,7 +187,7 @@
         "yields": "",
         "category": "Dinner",
         "original_author": "Tiffany Egbert",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/1685/picture.jpg20170921-15485-jk7gp1.jpg"
     },
     {
         "name": "Banana Chocolate Chip Bread",
@@ -247,7 +247,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "raininghotcoupons.com",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0047/0422/picture.jpeg20151027-30815-13ac2p2.jpg"
     },
     {
         "name": "Banana Quick Bread",
@@ -267,7 +267,7 @@
         "yields": "20 cupcakes",
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0060/8278/picture.jpg20160621-17744-15el9y2.jpg"
     },
     {
         "name": "Bar-B-Que Meat Loaf",
@@ -367,7 +367,7 @@
         "yields": null,
         "category": "Miscellaneous",
         "original_author": "AG Doll Magazine",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8775/picture.jpg20160902-32698-156rhw3.jpg"
     },
     {
         "name": "Braided Cheesy Garlic Bread",
@@ -377,37 +377,27 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4721/picture.jpg20160519-31101-trhof6.jpg"
     },
     {
-        "name": "Bread Sticks",
+        "name": "Breadsticks at Tiffany's",
         "ingredients": "1 Tbsp. yeast\n1-1/2 cup warm water\n1 Tbsp. honey\n1 tsp. salt\n3-1/2 - 4 cup flour\n1/2 cup margarine",
         "directions": "Melt butter in 9x10 inch pan.\nIn a bowl, dissolve yeast in water, stir in honey.\nMix salt and flour; stir into water mixture.\nKnead dough for 10 minutes.\nRoll into a rectangle the size of the pan.\nSprinkle with garlic salt or onion salt or sesame seeds and Parmesan cheese.\nLet rise for 15 minutes.\nBake at 425 degrees for 20 minutes.",
         "notes": "",
         "yields": "",
         "category": "Sides, Salads, and Breads",
-        "original_author": null,
+        "original_author": "Tiffany Egbert",
         "imageUrl": ""
     },
     {
-        "name": "Bread Sticks",
-        "ingredients": "Dough:\n1 tsp Sugar\n1 envelope Instant yeast\n4 cups Bread flour\n1.5 tsp Salt\n1.5 cups Warm water\n2 Tbsp Olive oil\nTopping:\n1/4 tsp Garlic powder\n1/2 tsp Salt\n4 Tbsp Butter\n1/2 cup finely Grated Parmesan cheese",
-        "directions": "In the bowl of a stand mixer, add water, sugar, and yeast. allow to,stand for 5 minutes, or until yeast bubbles up.\nAdd flour, salt, olive oil, and remaining water to yeast mixture. Using the dough hook attachment, mix until the dough pulls away from the sides of the bowl to form a ball. If the mixture is too wet, add a Tbsp of flour at a time until this happens.\nCover bowl with plastic wrap or towel, and allow to rest in a warm place until dough doubles in volume (approx. 1.5 hours).\nPreheat oven to 425 degrees.\nDivide dough in two, and then cut into eight pieces. Using your hands roll each piece into a cylinder. Using a sharp paring knife, cut the dough into eight equal 10\" bread sticks. Gently shape the dough so that they look like bread sticks, and transfer to a lined baking sheet coated in cooking spray. Make sure to slightly space them apart.\nBake for 7-8 minutes, until just slightly golden.\nMelt butter with salt and garlic powder. Brush over warm bread sticks, and top with a generous sprinkling of Parmesan cheese.",
-        "notes": null,
-        "yields": null,
-        "category": "Sides, Salads, and Breads",
-        "original_author": "Tastemade",
-        "imageUrl": ""
-    },
-    {
-        "name": "Breadsticks",
+        "name": "Breadsticks at Tastemade",
         "ingredients": "Dough:\n1 tsp Sugar\n1 Envelope instant yeast\n4 cups Bread flour\n1.5 tsp Salt\n1.5 cups Warm water\n2 Tbsp Olive oil\nTopping:\n1/4 tsp Garlic powder\n1/2 tsp Salt\n4 Tbsp Butter\n1/2 cup Finely grated Parmesan cheese",
-        "directions": "In the bowl of a stand mixer, add water, sugar, and yeast. Allow to stand for 5 minutes, or until yeast bubbles up.\nAdd flour, salt, olive oil, and remaining water to yeast mixture. Using the dough hook attachment, mix until the dough pulls away from the sides of the bowl to form a ball. If the mixture is too wet, add a Tbsp of flour at a time.\nCover bowl with plastic wrap or towel, and allow to rest in a warm place until dough doubles in volume (approx. 1.5 hours).\nPreheat oven to 425F.\nDivide dough into two, and then cut into eight pieces. Using your hands roll each piece into a cylinder. Using a sharp paring knife, cut the dough so that they look like bread sticks, and transfer to a lined baking sheet coated in cooking spray. Make sure to slightly space them apart.\nBake for 7-8 minutes, until just slightly golden.\nMelt butter with salt and garlic powder. Brush over warm bread sticks, and top with a generous sprinkling of Parmesan cheese.",
+        "directions": "In the bowl of a stand mixer, add water, sugar, and yeast. Allow to stand for 5 minutes, or until yeast bubbles up.\nAdd flour, salt, olive oil, and remaining water to yeast mixture. Using the dough hook attachment, mix until the dough pulls away from the sides of the bowl to form a ball. If the mixture is too wet, add a Tbsp of flour at a time.\nCover bowl with plastic wrap or towel, and allow to rest in a warm place until dough doubles in volume (approx. 1.5 hours).\nPreheat oven to 425 F.\nDivide dough into two, and then cut into eight pieces. Using your hands roll each piece into approx. a 10 inch cylinder. Using a sharp paring knife, cut the dough so that they look like bread sticks, and transfer to a lined baking sheet coated in cooking spray. Make sure to slightly space them apart.\nBake for 7-8 minutes, until just slightly golden.\nMelt butter with salt and garlic powder. Brush over warm bread sticks, and top with a generous sprinkling of Parmesan cheese.",
         "notes": null,
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/0849/picture.jpg20170920-2119-avwnsu.jpg"
     },
     {
         "name": "Breakfast Ramekins",
@@ -417,7 +407,7 @@
         "yields": null,
         "category": "Breakfast",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5127/picture.png20170402-11681-b87dnb.png"
     },
     {
         "name": "Broccoli Cheese Soup",
@@ -427,7 +417,7 @@
         "yields": "serves 4",
         "category": "Dinner",
         "original_author": "Tari McDonald",
-        "imageUrl": ""
+        "imageUrl": "https://www.the-girl-who-ate-everything.com/wp-content/uploads/2015/09/panera-broccoli-soup-4.jpg"
     },
     {
         "name": "Brown Sugar Bourbon Pork Chops with Apple Pan Sauce, Scallion Mashed Potatoes & Roasted Brussels Sprouts",
@@ -487,7 +477,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5109/picture.png20170402-11681-27fcw0.png"
     },
     {
         "name": "Caramel Candy Brownies",
@@ -547,7 +537,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0115/2835/picture.png20180502-17440-a9rtbx.png"
     },
     {
         "name": "Cheese and Potato Soup",
@@ -617,7 +607,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0061/8656/picture.jpg20160717-17658-wyksea.jpg"
     },
     {
         "name": "Cherry-Almond Oatmeal",
@@ -667,7 +657,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5119/picture.png20180424-13409-15eqtk6.png"
     },
     {
         "name": "Chicken Roll-ups",
@@ -737,7 +727,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8756/picture.jpg20160902-9179-1yiy31y.jpg"
     },
     {
         "name": "Chocolate Banana Popsicles",
@@ -747,7 +737,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8758/picture.jpg20160902-9179-nymcgj.jpg"
     },
     {
         "name": "Chocolate Crater Cupcakes",
@@ -757,7 +747,7 @@
         "yields": "30",
         "category": "Desserts",
         "original_author": "",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0047/0424/picture.jpeg20151027-22829-1dw1fz9.jpg"
     },
     {
         "name": "Chocolate Frosting",
@@ -777,7 +767,7 @@
         "yields": "12 cookies",
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0115/2830/picture.png20180502-19192-17a4wsw.png"
     },
     {
         "name": "Chocolate Orange Cake",
@@ -787,7 +777,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5118/picture.png20170402-4227-7fst5l.png"
     },
     {
         "name": "Chocolate Sheet Cake",
@@ -827,7 +817,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/0848/picture.jpg20170920-28634-oo080x.jpg"
     },
     {
         "name": "Chocolate-Drizzled Peanut Butter Bars",
@@ -847,7 +837,7 @@
         "yields": null,
         "category": "Sauces",
         "original_author": "Food diy instagram",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0056/1640/picture.jpeg20160306-18416-1g3dajx.jpg"
     },
     {
         "name": "Cinnamon Filling",
@@ -857,7 +847,7 @@
         "yields": null,
         "category": "Breakfast",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8769/picture.jpg20160902-27760-oud4w7.jpg"
     },
     {
         "name": "Cinnamon French Toast Bites",
@@ -867,7 +857,7 @@
         "yields": null,
         "category": "Breakfast",
         "original_author": "Recipe_Tin",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0046/6823/picture.png20151022-3769-15gew0y.png"
     },
     {
         "name": "Cinnamon Muffins",
@@ -887,7 +877,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5117/picture.png20170402-11681-k5dj5n.png"
     },
     {
         "name": "Cinnamon Roll Pancakes",
@@ -897,7 +887,7 @@
         "yields": null,
         "category": "Breakfast",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8769/picture.jpg20160902-27760-oud4w7.jpg"
     },
     {
         "name": "Cinnamon Rolls",
@@ -927,7 +917,7 @@
         "yields": "",
         "category": "Miscellaneous",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/1701/picture.jpg20170921-15485-13fbz2m.jpg"
     },
     {
         "name": "Confetti Calamari",
@@ -937,7 +927,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5123/picture.png20170402-11681-1ld0di8.png"
     },
     {
         "name": "Conga Bars",
@@ -967,7 +957,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4719/picture.jpg20160519-24369-17vd8ep.jpg"
     },
     {
         "name": "Cranberry Dijon Pork Tenderloin with Mashed Potatoes & Roasted Green Beans",
@@ -1007,7 +997,7 @@
         "yields": null,
         "category": "Breakfast",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8769/picture.jpg20160902-27760-oud4w7.jpg"
     },
     {
         "name": "Cream Puff Filling and Chocolate Sauce",
@@ -1137,7 +1127,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "a sweet pea chef",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0056/1667/picture.jpeg20160306-18416-1p3j1a3.jpg"
     },
     {
         "name": "Deep Dish Chocolate Chip Cookie",
@@ -1147,7 +1137,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "www.pimchofyum.com",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0056/1645/picture.png20160307-32369-11uigng.png"
     },
     {
         "name": "Dole Whip",
@@ -1157,7 +1147,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5105/picture.jpg20170402-4362-4paifb.jpg"
     },
     {
         "name": "Donuts",
@@ -1287,7 +1277,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8762/picture.jpg20160902-9179-n5f4ca.jpg"
     },
     {
         "name": "Fast Mac and Cheese",
@@ -1297,7 +1287,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4723/picture.jpg20160519-2430-rob8vy.jpg"
     },
     {
         "name": "Figgy Balsamic Steak with Roasted Carrots & Thyme Brussels Sprouts",
@@ -1327,7 +1317,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5128/picture.png20170402-32677-135auiz.png"
     },
     {
         "name": "Forgotten cookies",
@@ -1397,7 +1387,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "food diy",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0046/4366/picture.jpeg20151016-9783-127j469.jpg"
     },
     {
         "name": "Fruit Jello Slices",
@@ -1427,7 +1417,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0115/2834/picture.png20180502-17440-1di7t06.png"
     },
     {
         "name": "Garlic Edamame",
@@ -1437,7 +1427,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/0848/picture.jpg20170920-28634-oo080x.jpg"
     },
     {
         "name": "German Chocolate Cake Cookies",
@@ -1507,7 +1497,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8778/picture.jpg20160902-9179-1w8x6eh.jpg"
     },
     {
         "name": "Guiltless Alfredo Sauce",
@@ -1540,6 +1530,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Hawaiian Huli Huli Chicken",
+        "ingredients": "1 cup Brown sugar, packed\n3/4 cup Ketchup\n3/4 cup Soy sauce\n1 Tbsp White vinegar\n5 Cloves garlic, minced\n1 Tbsp Fresh ginger, minced\n8 chicken thighs, boneless skinless\n1 pineapple, trimmed and cut into spears (core removed)\n1 tablespoon vegetable oil\n1/4 cup green onions, thinly sliced",
+        "directions": "Whisk together brown sugar, ketchup, soy sauce, sherry, garlic, and ginger.\nReserve half the sauce in a covered bowl in the refrigerator.\nAdd the remaining sauce and chicken to a large zip lock bag and marinate overnight or 8 hours.\nOn medium-high heat, cook the chicken on grill for 5-6 minutes on each side.\nCoat pineapple spears with vegetable oil and grill alongside the chicken.\nBrush remaining sauce over the chicken while grilling the second side (do not serve remaining sauce if you use brush on partially raw chicken).\nGarnish with green onions.",
+        "notes": "Quick version: switch out ginger and garlic for the powdered version of each. Skip marinating and cook directly in pan with sauce. Cook with chicken tenders cut into chunks.",
+        "yields": "8 Servings",
+        "category": "Dinner",
+        "original_author": "Dinner then Dessert",
+        "imageUrl": "https://dinnerthendessert.com/wp-content/uploads/2022/03/Hawaiian-Huli-Huli-Chicken-L.jpg"
+    },
+    {
         "name": "Heat and Sweet Beignets",
         "ingredients": "2 1/4 tsp Active dry yeast\n1 1/2 cup Warm water\n1/2 White sugar\n1 tsp Salt\n2 Eggs\n1 1/2 cup Evaporated milk\n7 cups Flour\n1/4 cup Butter flavored shortening\nOil for frying\nPowdered sugar\nCayenne pepper",
         "directions": "In a large bowl add the yeast and the warm water and allow it to bloom, once there are active bubbles add the sugar, salt, eggs, and milk and blend well.\nAdd 4 cups and blend until smooth, finally add the rest of the flour and the shortening, cover and chill of 12 hours.\nRoll out dough, cut and fry, serve hot with a light sprinkle of cayenne pepper and a ton of powdered sugar.",
@@ -1547,7 +1547,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4716/picture.jpg20160519-24369-11czclk.jpg"
     },
     {
         "name": "Herb and Goat Cheese Baked Egg Boats",
@@ -1557,7 +1557,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4720/picture.jpg20160519-2430-169izmf.jpg"
     },
     {
         "name": "Homemade Fries",
@@ -1577,7 +1577,7 @@
         "yields": "",
         "category": "Miscellaneous",
         "original_author": "",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/1701/picture.jpg20170921-15485-13fbz2m.jpg"
     },
     {
         "name": "Homemade Tortillas",
@@ -1617,7 +1617,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/0851/picture.jpg20170920-2293-7yfm42.jpg"
     },
     {
         "name": "Honeydew Sorbet",
@@ -1637,7 +1637,7 @@
         "yields": "Makes 1 1/2 cups",
         "category": "Sauces",
         "original_author": "Marisa Curatolo",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0061/8644/picture.jpg20160717-17658-6gf3vq.jpg"
     },
     {
         "name": "Hummus with Fried Chickpeas",
@@ -1647,17 +1647,17 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0061/8644/picture.jpg20160717-17658-6gf3vq.jpg"
     },
     {
-        "name": "In and Out Monster Sauce",
+        "name": "In and Out Animal Sauce",
         "ingredients": "1/2 cup Ketchup\n1/2 cup Mayo\n1 Pickle, minced\n1 Tbsp Lemon juice\n1 tsp Paprika\n1 tsp Cayenne\n1 Tbsp Parsley\nSalt and Pepper to taste",
         "directions": "In a medium bowl combine all sauce ingredients, mix well, and set aside.",
         "notes": null,
         "yields": null,
         "category": "Sauces",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "https://recipefairy.com/wp-content/uploads/2020/03/in-n-out-fries.jpg"
     },
     {
         "name": "Italian Chicken & Pepper Sandos with Potato Wedges & Tangy Garlic Sauce",
@@ -1711,13 +1711,13 @@
     },
     {
         "name": "Lemon Bars",
-        "ingredients": "3 cups all-purpose flour, divided 2 1/2 cups for crust and 1/2 cup for filling\n2/3 cups powdered sugar, for the shortbread, plus more for dusting\n1/2 tsp salt\n12 Tbsp unsalted butter melted\n3 Tbsp lemon zest zest of three lemons\n3 cups sugar\n8 eggs large, room temperature\n1 cup lemon juice fresh",
-        "directions": "Heat oven to 350F and line a 9x13 baking dish with parchment paper.\nWhisk together 2 1/2 cups of flour with the powdered sugar and salt, then pour in the melted butter and mix until combined. You can also do this using a stand mixer with a paddle attachment. If you'd like a dash of vanilla can be added in with the butter at this step.\nSprinkle the dough into your lined pan and press down into a flat layer. Bake at 350F for about 20 minutes or until a light golden color.\nWhile the crust is baking add the sugar to a food processor and add the zest of three lemons. Pulse until the zest is fully incorporated and sugar is a light yellow color. If you don't have a processor just mince the zest and mix with the sugar in a bag or bowl.\nAdd the sugar and remaining half cup of flour to a large bowl and mix well. You can sift together however and zesty sugar bits will need to get dumped out of the sifter as they might clog things up and not go through.\nPour in the lemon juice and add the eggs then mix very well until completely combined.\nPour the filling onto the warm crust then transfer to oven and bake for about 25 minutes, turning halfway through the bake. Remove from oven and allow to cool for an hour before chilling in the refrigerator for two hours.\nDust with powdered sugar and cut into bars using a clean, sharp, damp knife. Clean and re-wet the knife after each cut.",
-        "notes": "9x13 pan. Prep time 20 min, Cook time 55 min, and Chill time 3 hours.",
-        "yields": "2 Servings",
+        "ingredients": "1 cup (2 sticks) Unsalted butter, melted\n2 + 1/2 cups Granulated sugar\n2 tsp Vanilla extract\n1/2 tsp Salt\n2 + 1/2 cups All-purpose flour\n6 large eggs\n1 cup Lemon juice (about 4 lemons)\nConfectioners' sugar for dusting",
+        "directions": "Preheat the oven to 325°F (163°C). Line the bottom and sides of a 9x13 baking pan* with parchment paper, leaving an overhang on the sides to lift the finished bars out (makes cutting easier!). Set aside.\nMake the crust: Mix the melted butter, 1/2 cup of sugar, vanilla extract, and salt together in a medium bowl. Add 2 cups + 2 Tablespoons of flour and stir to completely combine. The dough will be thick. Press firmly into prepared pan, making sure the layer of crust is nice and even. Bake for 20-22 minutes or until the edges are lightly browned. Remove from the oven. Using a fork, poke holes all over the top of the warm crust (not all the way through the crust). A new step I swear by, this helps the filling stick and holds the crust in place. Set aside until step 4.\nMake the filling: Sift the remaining sugar and flour together in a large bowl. Whisk in the eggs, then the lemon juice until completely combined.\nPour filling over warm crust. Bake the bars for 22-26 minutes or until the center is relatively set and no longer jiggles. (Give the pan a light tap with an oven mitt to test.) Remove bars from the oven and cool completely at room temperature. I usually cool them for about 2 hours at room temperature, then stick in the refrigerator for 1-2 more hours until pretty chilled. I recommend serving chilled.\nOnce cool, lift the parchment paper out of the pan using the overhang on the sides. Dust with confectioners' sugar and cut into squares before serving. For neat squares, wipe the knife clean between each cut. Cover and store leftover lemon bars in the refrigerator for up to 1 week.",
+        "notes": "Prep time 15 min and Cook time 40 min.",
+        "yields": "9x13 pan",
         "category": "Desserts",
-        "original_author": "Preppy Kitchen - https://preppykitchen.com/lemon-bars/",
-        "imageUrl": "https://preppykitchen.com/wp-content/uploads/2020/02/Lemon-Bars-feature-new.jpg"
+        "original_author": "Sally's Baking Addiction",
+        "imageUrl": "https://sallysbakingaddiction.com/wp-content/uploads/2019/02/lemon-bars-on-shortbread-crust.jpg"
     },
     {
         "name": "Lemon Curd Cake",
@@ -1727,7 +1727,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4717/picture.jpg20160519-2430-1vmcq0g.jpg"
     },
     {
         "name": "Lemon Meringue Pie",
@@ -1777,7 +1777,7 @@
         "yields": "2-3 Servings",
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0115/2831/picture.png20180502-17440-1w80s0m.png"
     },
     {
         "name": "Lime Dipping Sauce",
@@ -1817,7 +1817,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4722/picture.jpg20160519-2430-kx6inv.jpg"
     },
     {
         "name": "Mac and Cheese Pasotto",
@@ -1827,7 +1827,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5104/picture.jpg20170402-21065-pwg4uh.jpg"
     },
     {
         "name": "Marbled Cream Cheese Squares",
@@ -1857,7 +1857,7 @@
         "yields": "6 pops",
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0061/8654/picture.jpg20160717-19833-1az5gow.jpg"
     },
     {
         "name": "Middle Eastern Chickpea Bowls with Savory Pistachio Rice & Garlicky White Sauce",
@@ -1887,7 +1887,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Bobby Flay",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/0850/picture.jpg20170920-28634-1g0iv1x.jpg"
     },
     {
         "name": "Minestrone",
@@ -1897,7 +1897,7 @@
         "yields": "",
         "category": "Dinner",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://www.dinneratthezoo.com/wp-content/uploads/2018/07/olive-garden-minestrone-soup-4.jpg"
     },
     {
         "name": "Mini Chocolate Fudge Cream pies",
@@ -1937,7 +1937,7 @@
         "yields": "24 truffles",
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0115/2832/picture.png20180502-667-1r82hso.png"
     },
     {
         "name": "Mint Chocolate Meringues",
@@ -1947,7 +1947,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0056/1637/picture.jpeg20160306-32369-fwsyes.jpg"
     },
     {
         "name": "Mint Swirl Brownies",
@@ -2037,7 +2037,7 @@
         "yields": "",
         "category": "Sides, Salads, and Breads",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/1686/picture.jpg20170921-15485-i4252b.jpg"
     },
     {
         "name": "Nestle Toll House Chocolate Chip Cookies",
@@ -2047,7 +2047,7 @@
         "yields": "4-5 dozen cookies",
         "category": "Desserts",
         "original_author": "Nestle",
-        "imageUrl": ""
+        "imageUrl": "https://images.aws.nestle.recipes/resized/5b069c3ed2feea79377014f6766fcd49_Original_NTH_Chocolate_Chip_Cookie_448_448.jpg"
     },
     {
         "name": "No-Bake Oreo Strawberry Cheesecake",
@@ -2057,7 +2057,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5110/picture.png20170402-4362-159xtxg.png"
     },
     {
         "name": "Oatmeal Cookies",
@@ -2087,7 +2087,7 @@
         "yields": null,
         "category": "Sauces",
         "original_author": "The Slow Roasted Italian",
-        "imageUrl": ""
+        "imageUrl": "https://media.olivegarden.com/images/site/ext/pages/_promotions/amazing-alfredo/alfredo-sauce-070920-shd-00.jpg"
     },
     {
         "name": "Olive Garden Salad - Dressing",
@@ -2097,7 +2097,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tari McDonald",
-        "imageUrl": ""
+        "imageUrl": "data:image/jpeg;base64,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"
     },
     {
         "name": "Olive Garden Salad - Salad",
@@ -2107,7 +2107,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "data:image/jpeg;base64,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"
     },
     {
         "name": "One-Pan Cajun Pork Sausage Skillet with Dirty Rice & Parsley Crema",
@@ -2177,7 +2177,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5122/picture.png20170402-11681-1u2ob27.png"
     },
     {
         "name": "One-Pot Longhorn Pork & Bean Chili with Jalapeno & Smoky Red Pepper Crema",
@@ -2197,7 +2197,7 @@
         "yields": "enough for 4 people",
         "category": "Sides, Salads, and Breads",
         "original_author": "food.com",
-        "imageUrl": ""
+        "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_73,ar_16:9,w_1024/v1/img/recipes/16/88/7/BrzQIqbzRHqWP2gJsHhY_0S9A0520.jpg"
     },
     {
         "name": "Orange Julius",
@@ -2207,7 +2207,7 @@
         "yields": "6 servings",
         "category": "Miscellaneous",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://www.aspicyperspective.com/wp-content/uploads/2020/05/How-To-Make-Orange-Julius-16.jpg"
     },
     {
         "name": "Orange Rolls",
@@ -2227,7 +2227,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5107/picture.png20170402-21065-1kqrs95.png"
     },
     {
         "name": "Oreo Pie",
@@ -2237,7 +2237,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5116/picture.png20170402-4227-5ij80k.png"
     },
     {
         "name": "Pancakes",
@@ -2247,26 +2247,6 @@
         "yields": "serves 4",
         "category": "Breakfast",
         "original_author": "Culinary Teacher",
-        "imageUrl": ""
-    },
-    {
-        "name": "Parmesan Zucchini Fries",
-        "ingredients": "1 1/2 pounds zucchini, trimmed\n1/2 cup all-purpose flour\n2 tsp. kosher salt, divided\n3/4 tsp. ground black pepper, divided\n3 large eggs\n1 1/2 cups panko or plain bread crumbs\n1/2 cup grated Parmesan cheese\n1 Tbsp. chopped dill (optional)",
-        "directions": "Preheat oven to 425°. Arrange an oven rack in the lower third of the oven and a second one in the center. Line 2 rimmed baking sheets with parchment paper. Cut zucchini into thick French-fry-size sticks, about 3 inches long. \nArrange 3 shallow, wide bowls or pie plates in a row. In the first bowl, stir together flour, 1 tsp. salt, and 1/2 tsp. pepper. In the second bowl, whisk together eggs, 1/2 tsp. salt, and 1/4 tsp. pepper. In the third bowl, combine panko, Parmesan, dill (if using), and 1/2 tsp. salt. \nWorking in batches, first dip zucchini in flour, shaking off excess. Transfer to egg mixture and toss until coated. Let excess egg run off, then coat zucchini in panko mixture. \nArrange zucchini, without crowding, in a single layer on the prepared pans. Bake 15 minutes and then rotate the pans. Continue to bake until panko coating is golden and crisp, 7 to 12 minutes more.",
-        "notes": null,
-        "yields": null,
-        "category": "Sides, Salads, and Breads",
-        "original_author": "Oprah.com",
-        "imageUrl": ""
-    },
-    {
-        "name": "Parmesan Zucchini Sticks",
-        "ingredients": "4 Zucchini, quartered lengthwise\n1/2 cup Grated Parmesan\n1/2 tsp Dried thyme\n1/2 tsp Dried Oregano\n1/2 tsp Dried basil\n1/4 tsp Garlic powder\nsalt and pepper to taste\n2 Tbsp. olive oil\n2 Tbsp chopped fresh parsley",
-        "directions": "Preheat oven to 350 degrees F. Coat a cooling rack with nonstick spray and place on a baking sheet; set aside.\nIn a small bowl, combine Parmesan, thyme, oregano, basil, garlic powder, salt and pepper, to taste.\nPlace zucchini onto prepared baking sheet. Drizzle with olive oil and sprinkle with Parmesan mixture. Place into oven and bake until tender, about 15 minutes. Then broil for 2-3 minutes, or until crisp and golden brown.\nServe immediately, garnished with parsley, if desired.",
-        "notes": null,
-        "yields": "16 sticks",
-        "category": "Sides, Salads, and Breads",
-        "original_author": "Food DIY - damndelicious.net",
         "imageUrl": ""
     },
     {
@@ -2317,7 +2297,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8760/picture.jpg20160902-9179-1g3dn5u.jpg"
     },
     {
         "name": "Peanut Butter Cookie Brownie Bars",
@@ -2337,7 +2317,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0047/0509/picture.png20151027-31980-hk16tf.png"
     },
     {
         "name": "Peanut Butter Cup Pizza",
@@ -2347,7 +2327,7 @@
         "yields": "serves 4-6",
         "category": "Desserts",
         "original_author": "cleobuttera and Tiffany Egbert",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0056/1644/picture.png20160307-17760-1fft30e.png"
     },
     {
         "name": "Peanut Butter Frosting",
@@ -2387,7 +2367,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5114/picture.png20170402-11681-1m7ovw6.png"
     },
     {
         "name": "Pfefferneusse (Pepper Nuts)",
@@ -2417,6 +2397,16 @@
         "yields": null,
         "category": "Miscellaneous",
         "original_author": "AG Doll Magazine",
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8775/picture.jpg20160902-32698-156rhw3.jpg"
+    },
+    {
+        "name": "Pineapple Fried Rice and Shrimp",
+        "ingredients": "1 cup Jasmine Rice\n1 can (20 oz.) Pineapple tidbits, drained\n4 Green onions, chopped\n1 large Red chili, minced\n2 sprigs Cilantro, coarsely chopped\n2 cups Fresh shrimp, cleaned and deveined\n3 Tbsp Oil\n2 cloves Garlic, minced\n2 Tbsp Fish sauce\n1-1/2 Tbsp Soy sauce\n1 tsp Sugar\nCilantro for garnish",
+        "directions": "Prepare rice according to package directions and set aside. In a medium bowl, combine pineapple, onions, chili and cilantro. Mix and set aside.\nHeat 1 Tbsp oil in skillet, saute shrimp until done. Remove shrimp from skillet. In same skillet, over medium heat, add remaining oil. Saute garlic until golden brown. Add cooked rice and stir.\nAdd fish sauce, soy sauce, and sugar. Stir and heat thoroughly. Fold in pineapple mixture and shrimp. Heat through. Garnish with cilantro.",
+        "notes": "",
+        "yields": "6 Servings",
+        "category": "Dinner",
+        "original_author": "Mahatma Rice",
         "imageUrl": ""
     },
     {
@@ -2457,7 +2447,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5124/picture.png20170402-4362-1trmi45.png"
     },
     {
         "name": "Pumpkin Chocolate Chip Muffins",
@@ -2467,7 +2457,7 @@
         "yields": "2 dozen Muffins",
         "category": "Desserts",
         "original_author": "The-girl-who-ate-everything.com",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0046/6821/picture.png20151020-19509-1ci1pgu.png"
     },
     {
         "name": "Pumpkin Pie",
@@ -2497,7 +2487,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Bobby Flay",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0061/8655/picture.jpg20160717-19833-1qk3z4t.jpg"
     },
     {
         "name": "Raspberry Cheesecake Dessert Parfait",
@@ -2507,7 +2497,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0060/8393/picture.png20160622-17744-1jrp2ef.png"
     },
     {
         "name": "Raspberry Cheesecake Dessert Parfait - Crust",
@@ -2517,7 +2507,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0060/8393/picture.png20160622-17744-1jrp2ef.png"
     },
     {
         "name": "Raspberry Chocolate Chip Crackles",
@@ -2537,7 +2527,7 @@
         "yields": null,
         "category": "Miscellaneous",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0060/8277/picture.jpg20160621-17753-1pw9707.jpg"
     },
     {
         "name": "Raspberry Mustard Sauce",
@@ -2587,7 +2577,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/0848/picture.jpg20170920-28634-oo080x.jpg"
     },
     {
         "name": "Roasted Garlic Spread",
@@ -2637,7 +2627,7 @@
         "yields": "",
         "category": "Miscellaneous",
         "original_author": "",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/1701/picture.jpg20170921-15485-13fbz2m.jpg"
     },
     {
         "name": "Salted Caramel",
@@ -2647,7 +2637,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0056/1669/picture.jpeg20160306-32369-clp1ut.jpg"
     },
     {
         "name": "Salted Caramel and Chocolate Ice Cream",
@@ -2657,7 +2647,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0090/0854/picture.jpg20170920-2119-1aav5fo.jpg"
     },
     {
         "name": "Salted Caramel Brownies",
@@ -2677,7 +2667,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0056/1638/picture.jpeg20160306-32369-1qjhkdr.jpg"
     },
     {
         "name": "Saucy Pork Burrito Bowls with Charred Poblano, Smoky Crema, Salsa Fresca & Cilantro Lime Rice",
@@ -2697,7 +2687,7 @@
         "yields": "2",
         "category": "Sides, Salads, and Breads",
         "original_author": "food.com",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0046/4405/picture.jpeg20151016-16512-vlr7gm.jpg"
     },
     {
         "name": "Scones",
@@ -2777,7 +2767,7 @@
         "yields": null,
         "category": "Breakfast",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5108/picture.png20170402-4227-1xx69l2.png"
     },
     {
         "name": "Skinny Mac and Cheese Soup with Broccoli",
@@ -2787,7 +2777,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "skinnytaste.com",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0046/6819/picture.jpg20151020-3769-1jpltf4.jpg"
     },
     {
         "name": "Snickerdoodle Cookies",
@@ -2847,7 +2837,7 @@
         "yields": null,
         "category": "Miscellaneous",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5113/picture.png20170402-11681-1a2v673.png"
     },
     {
         "name": "Strawberry Cream Puffs",
@@ -2857,7 +2847,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4724/picture.jpg20160519-2430-1eiadco.jpg"
     },
     {
         "name": "Strawberry Ice Box Cake",
@@ -2907,7 +2897,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8763/picture.jpg20160902-32698-gjpe1r.jpg"
     },
     {
         "name": "Sunrise Smoothies",
@@ -2917,7 +2907,7 @@
         "yields": null,
         "category": "Miscellaneous",
         "original_author": "AG Doll Magazine",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8775/picture.jpg20160902-32698-156rhw3.jpg"
     },
     {
         "name": "Sweet and Sour Chicken",
@@ -3007,7 +2997,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0101/1356/picture.png20171206-23074-140o2rf.png"
     },
     {
         "name": "Waffle Peach Topping",
@@ -3027,7 +3017,7 @@
         "yields": "Makes 4-6 large waffles ",
         "category": "Breakfast",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://live.staticflickr.com/770/21066224800_958c25eb75_b.jpg"
     },
     {
         "name": "Wassail",
@@ -3047,7 +3037,7 @@
         "yields": "4-6 servings",
         "category": "Desserts",
         "original_author": "onceamonthmeals.com",
-        "imageUrl": ""
+        "imageUrl": "https://cloudinary-a.akamaihd.net/hi2pgeplz/image/upload/w_900,q_90,f_auto/ueb7potpszy7goqv0ss9.jpg"
     },
     {
         "name": "Watermelon Salsa",
@@ -3067,7 +3057,7 @@
         "yields": null,
         "category": "Desserts",
         "original_author": "Giada De Laurentiis",
-        "imageUrl": ""
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0061/8653/picture.jpg20160717-17658-1o2gg4i.jpg"
     },
     {
         "name": "Whipped Cream",
@@ -3128,5 +3118,25 @@
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
         "imageUrl": ""
+    },
+    {
+        "name": "Zucchini Parmesan Fries",
+        "ingredients": "1 1/2 pounds zucchini, trimmed\n1/2 cup all-purpose flour\n2 tsp. kosher salt, divided\n3/4 tsp. ground black pepper, divided\n3 large eggs\n1 1/2 cups panko or plain bread crumbs\n1/2 cup grated Parmesan cheese\n1 Tbsp. chopped dill (optional)",
+        "directions": "Preheat oven to 425°. Arrange an oven rack in the lower third of the oven and a second one in the center. Line 2 rimmed baking sheets with parchment paper. Cut zucchini into thick French-fry-size sticks, about 3 inches long. \nArrange 3 shallow, wide bowls or pie plates in a row. In the first bowl, stir together flour, 1 tsp. salt, and 1/2 tsp. pepper. In the second bowl, whisk together eggs, 1/2 tsp. salt, and 1/4 tsp. pepper. In the third bowl, combine panko, Parmesan, dill (if using), and 1/2 tsp. salt. \nWorking in batches, first dip zucchini in flour, shaking off excess. Transfer to egg mixture and toss until coated. Let excess egg run off, then coat zucchini in panko mixture. \nArrange zucchini, without crowding, in a single layer on the prepared pans. Bake 15 minutes and then rotate the pans. Continue to bake until panko coating is golden and crisp, 7 to 12 minutes more.",
+        "notes": null,
+        "yields": null,
+        "category": "Sides, Salads, and Breads",
+        "original_author": "Oprah.com",
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0046/4407/picture.jpeg20151016-16512-1eit2ok.jpg"
+    },
+    {
+        "name": "Zucchini Parmesan Sticks",
+        "ingredients": "4 Zucchini, quartered lengthwise\n1/2 cup Grated Parmesan\n1/2 tsp Dried thyme\n1/2 tsp Dried Oregano\n1/2 tsp Dried basil\n1/4 tsp Garlic powder\nsalt and pepper to taste\n2 Tbsp. olive oil\n2 Tbsp chopped fresh parsley",
+        "directions": "Preheat oven to 350 degrees F. Coat a cooling rack with nonstick spray and place on a baking sheet; set aside.\nIn a small bowl, combine Parmesan, thyme, oregano, basil, garlic powder, salt and pepper, to taste.\nPlace zucchini onto prepared baking sheet. Drizzle with olive oil and sprinkle with Parmesan mixture. Place into oven and bake until tender, about 15 minutes. Then broil for 2-3 minutes, or until crisp and golden brown.\nServe immediately, garnished with parsley, if desired.",
+        "notes": null,
+        "yields": "16 sticks",
+        "category": "Sides, Salads, and Breads",
+        "original_author": "Food DIY - damndelicious.net",
+        "imageUrl": "http://assets.createmycookbook.com/picture/image/0046/4406/picture.jpeg20151016-9783-rn0kor.jpg"
     }
 ]
