@@ -31,7 +31,7 @@ class RecipeImage extends StatelessWidget {
     }
 
     return Hero(
-      tag: ObjectKey(imageUrl),
+      tag: ObjectKey(recipeId),
       child: LayoutBuilder(
         builder: (context, constraints) {
           return Image.network(

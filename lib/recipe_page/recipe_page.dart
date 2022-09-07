@@ -1,9 +1,11 @@
 // ignore: avoid_web_libraries_in_flutter
-import 'dart:html';
+import 'dart:html' show window;
+import 'dart:developer' as dev;
 import 'dart:math';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:remer_cookbook/home/home_page.dart';
 import 'package:remer_cookbook/recipe_book_loader.dart';
 import 'package:remer_cookbook/recipe_image/recipe_image.dart';
 
@@ -29,6 +31,19 @@ class RecipePage extends StatelessWidget {
     }
 
     return Navigator.pushNamed(context, uri.toString());
+  }
+
+  static void navigateHome(BuildContext context) async {
+    if (kIsWeb) {
+      // Change the url without navigating to the page, for easy link sharing
+      window.history.pushState('recipePage', 'Remer Cookbook', '/');
+    }
+
+    if (Navigator.of(context).canPop()) {
+      Navigator.pop(context);
+    } else {
+      Navigator.pushNamed(context, HomePage.route);
+    }
   }
 
   static Widget? buildRecipePageFromUri(Uri uri) {
@@ -81,7 +96,9 @@ class RecipePage extends StatelessWidget {
                   );
                 },
               ),
-              const StylizedFloatingBackButton()
+              StylizedFloatingBackButton(
+                onPressed: () => navigateHome(context),
+              ),
             ],
           );
         },
@@ -331,7 +348,10 @@ class RecipePage extends StatelessWidget {
 }
 
 class StylizedFloatingBackButton extends StatelessWidget {
+  final VoidCallback onPressed;
+
   const StylizedFloatingBackButton({
+    required this.onPressed,
     Key? key,
   }) : super(key: key);
 
@@ -348,9 +368,7 @@ class StylizedFloatingBackButton extends StatelessWidget {
         child: IconButton(
           iconSize: 24,
           splashRadius: 20,
-          onPressed: () {
-            Navigator.pop(context);
-          },
+          onPressed: onPressed,
           icon: const Icon(
             Icons.arrow_back,
             color: Colors.white,

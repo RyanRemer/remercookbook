@@ -3,7 +3,7 @@ import 'package:remer_cookbook/home/home_page_content.dart';
 import 'package:remer_cookbook/recipe_book_loader.dart';
 
 class HomePage extends StatefulWidget {
-  static const String route = "/home";
+  static const String route = "/";
   const HomePage({Key? key}) : super(key: key);
 
   @override
