@@ -1,12 +1,25 @@
-import 'dart:developer';
+import 'dart:developer' as dev;
+import 'dart:math';
 
 import 'package:flutter/material.dart';
 
 class RecipeImage extends StatelessWidget {
+  static const List<String> imageFileNames = [
+    "assets/plates/Multi-colored plates_Green.png",
+    "assets/plates/Multi-colored plates_Maroon.png",
+    "assets/plates/Multi-colored plates_Orange.png",
+    "assets/plates/Multi-colored plates_Pink.png",
+    "assets/plates/Multi-colored plates_Purple.png",
+    "assets/plates/Multi-colored plates_Teal.png",
+    "assets/plates/Multi-colored plates_White.png",
+  ];
+
   final String? imageUrl;
+  final String recipeId;
 
   const RecipeImage({
     required this.imageUrl,
+    required this.recipeId,
     Key? key,
   }) : super(key: key);
 
@@ -14,7 +27,7 @@ class RecipeImage extends StatelessWidget {
   Widget build(BuildContext context) {
     String? imageUrl = this.imageUrl;
     if (imageUrl == null || imageUrl.isEmpty) {
-      return emptyImage;
+      return buildDefaultImage(recipeId);
     }
 
     return Hero(
@@ -26,9 +39,12 @@ class RecipeImage extends StatelessWidget {
             height: constraints.maxHeight,
             width: constraints.maxWidth,
             fit: BoxFit.cover,
-            errorBuilder: (context, _obeject, _stacktrace) {
-              log("NetworkImageError: $imageUrl");
-              return emptyImage;
+            errorBuilder: (context, _obeject, stacktrace) {
+              dev.log("ImageRenderError");
+              dev.log(stacktrace?.toString() ?? "");
+              return Center(
+                child: SelectableText(imageUrl),
+              );
             },
           );
         },
@@ -36,14 +52,19 @@ class RecipeImage extends StatelessWidget {
     );
   }
 
-  Widget get emptyImage => LayoutBuilder(
-        builder: (context, constraints) {
-          return Image.asset(
-            "assets/default_image.jpg",
-            width: constraints.maxWidth,
-            height: constraints.maxHeight,
-            fit: BoxFit.cover,
-          );
-        },
-      );
+  Widget buildDefaultImage(String recipeId) {
+    Random random = Random(recipeId.hashCode);
+    int index = random.nextInt(imageFileNames.length);
+
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        return Image.asset(
+          imageFileNames[index],
+          width: constraints.maxWidth,
+          height: constraints.maxHeight,
+          fit: BoxFit.cover,
+        );
+      },
+    );
+  }
 }

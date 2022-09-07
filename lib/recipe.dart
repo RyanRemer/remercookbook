@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'dart:developer';
 
 class Recipe {
   String name;
@@ -47,7 +48,7 @@ class Recipe {
         imageUrl: map['imageUrl'],
       );
     } catch (error) {
-      print("Error parsing: $map");
+      log("Error parsing: $map");
       rethrow;
     }
   }

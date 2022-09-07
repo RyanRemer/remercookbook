@@ -22,7 +22,10 @@ class RecipeCard extends StatelessWidget {
         borderRadius: cardBorderRadius,
         child: Stack(
           children: [
-            RecipeImage(imageUrl: recipe.imageUrl),
+            RecipeImage(
+              imageUrl: recipe.imageUrl,
+              recipeId: recipe.name,
+            ),
             Container(
               decoration: const BoxDecoration(
                 gradient: LinearGradient(
@@ -66,21 +69,21 @@ class RecipeCard extends StatelessWidget {
 
   Align buildText(Recipe recipe, BuildContext context) {
     return Align(
-            alignment: Alignment.bottomCenter,
-            child: Padding(
-              padding: const EdgeInsets.symmetric(
-                vertical: 16.0,
-                horizontal: 8.0,
-              ),
-              child: Text(
-                recipe.name,
-                textAlign: TextAlign.center,
-                style: Theme.of(context)
-                    .textTheme
-                    .titleMedium
-                    ?.copyWith(color: Colors.grey.shade800),
-              ),
-            ),
-          );
+      alignment: Alignment.bottomCenter,
+      child: Padding(
+        padding: const EdgeInsets.symmetric(
+          vertical: 16.0,
+          horizontal: 8.0,
+        ),
+        child: Text(
+          recipe.name,
+          textAlign: TextAlign.center,
+          style: Theme.of(context)
+              .textTheme
+              .titleMedium
+              ?.copyWith(color: Colors.grey.shade800),
+        ),
+      ),
+    );
   }
 }

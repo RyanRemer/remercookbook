@@ -277,7 +277,10 @@ class RecipePage extends StatelessWidget {
                 minWidth: 240,
                 maxHeight: 240,
               ),
-              child: RecipeImage(imageUrl: recipe.imageUrl));
+              child: RecipeImage(
+                imageUrl: recipe.imageUrl,
+                recipeId: recipe.name,
+              ));
         },
       ),
     );

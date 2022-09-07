@@ -63,7 +63,7 @@ flutter:
     - assets/recipes.json
     - assets/RemerCookbookLogo.png
     - assets/SearchBackground.png
-    - assets/default_image.jpg
+    - assets/plates/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
