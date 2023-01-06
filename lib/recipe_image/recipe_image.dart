@@ -40,11 +40,8 @@ class RecipeImage extends StatelessWidget {
             width: constraints.maxWidth,
             fit: BoxFit.cover,
             errorBuilder: (context, _obeject, stacktrace) {
-              dev.log("ImageRenderError");
-              dev.log(stacktrace?.toString() ?? "");
-              return Center(
-                child: SelectableText(imageUrl),
-              );
+              dev.log("ImageRenderError: $imageUrl");
+              return buildDefaultImage(recipeId);
             },
           );
         },
