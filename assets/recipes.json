@@ -1,5 +1,4 @@
 [
-    
     {
         "name": "3 Ingredient Banana Hacks",
         "ingredients": "Pancakes:\n1 ripe Banana\n2 Eggs\nPinch of cinnamon\nMuffins:\n2 ripe Banana\n4 Eggs\n1/2 cup blueberries\nCookies:\n1 super ripe Banana\n1 cup quick cooking Oats\n2 Tbsp Raisins",
@@ -17,7 +16,7 @@
         "notes": "",
         "yields": "",
         "category": "Sides, Salads, and Breads",
-        "original_author": null, 
+        "original_author": null,
         "imageUrl": ""
     },
     {
@@ -111,6 +110,16 @@
         "imageUrl": "https://www.tastemade.com/_next/image?url=https%3A%2F%2Ftruffle-assets.imgix.net%2Fpxqrocxwsjcc_51ns1iqfbyso4oqws6gkci_pankobunny_bacon-and-egg-bowls_landscape-no-text-thumbnail.png&w=1920&q=50"
     },
     {
+        "name": "Bacon-Corn Chowder",
+        "ingredients": "5 cups Redskin potatoes, cubed\n16 oz pkg Corn, frozen\n6 Bacon slices, crisply cooked and crumbled\n1/4 cup Onion, dried and minced\n2 (14.5 oz) cans Chicken broth\n1 cup Water\n2 tsp Garlic salt\n1 tsp Pepper\n1/4 tsp Turmeric\n12 oz can Evaporated milk\n8 oz pkg Monterey Jack cheese, shredded\nChives for garnish",
+        "directions": "Combine all ingredients except milk, cheese, and chives in a slow cooker.\nCover and cook on low setting for 8 to 9 hours, until potatoes are tender.\nStir in milk and cheese; cover and cook until cheese melts.\nGarnish with chives, if desired.",
+        "notes": "",
+        "yields": "4-6 servings",
+        "category": "Dinner",
+        "original_author": "Everyday Slow Cooker - Gooseberry Patch book",
+        "imageUrl": "https://dinnerthendessert.com/wp-content/uploads/2019/01/Corn-Chowder-with-Bacon-2.jpg"
+    },
+    {
         "name": "Baked Chicken Breasts",
         "ingredients": "6-7 Boneless chicken breasts\nSwiss cheese\n1 box Stove top stuffing\n2 cans Cream of chicken soup\nHalf cube butter",
         "directions": "Place slice of Swiss cheese on top of each chicken breast.\nSprinkle Stove Top stuffing crumbs on top.\nMix cream of chicken soup with spice packet from Stove Top mix.\nSpread on top of stuffing crumbs.\nDab with half cube of butter.\nCover baking dish with foil.\nBake at 350 degrees for an hour.",
@@ -138,7 +147,7 @@
         "yields": "6",
         "category": "Breakfast",
         "original_author": "www.abeautifulbite.com",
-        "imageUrl": "http://assets.createmycookbook.com/picture/image/0059/4718/picture.jpg20160519-24369-gea0p4.jpg"
+        "imageUrl": "https://tastykitchen.com/recipes/wp-content/uploads/sites/2/2013/05/Baked-Tomato-and-Egg-Cups-by-A-Beautiful-Bite-on-May-23-2013-410x273.jpg"
     },
     {
         "name": "Baked Ziti",
@@ -241,16 +250,6 @@
         "imageUrl": "http://assets.createmycookbook.com/picture/image/0060/8278/picture.jpg20160621-17744-15el9y2.jpg"
     },
     {
-        "name": "Basic Crepes",
-        "ingredients": "4 Eggs\n1 cup Flour\n1/2 cup Milk\n1/2 cup Water\n1/2 tsp Salt\n2 Tbsp Melted butter",
-        "directions": "Measure all ingredients in to a bowl with a whisk until smooth.\nSeason crepe pan with a little butter, margarine, or oil.\nSet Crepe pan or oven to low-medium heat.\nSpread a thin layer of crepe batter over the pan.\nCook without browning on both sides, roll over your filling of choice.",
-        "notes": null,
-        "yields": null,
-        "category": "Breakfast",
-        "original_author": null,
-        "imageUrl": "https://www.onceuponachef.com/images/2022/07/Crepes.jpg"
-    },
-    {
         "name": "BBQ Cheddar Pork Burgers with Chipotle Aioli & Potato Wedges",
         "ingredients": "1 Yellow Onion\n12 oz Yukon gold potatoes\n2 Tbsp Mayo\n1 tsp Chipotle powder\n4 Tbp BBQ Sauce\n1Tbs Fry Seasoning\n10 oz Ground Pork\n1/2 cup Cheddar Cheese\n2 Potato buns",
         "directions": "Adjust rack to top position and preheat oven to 425 degrees. Wash and dry produce. Halve, peel, and thinly slice onion; mince a few slices until you have 2 Tbsp (4 Tbsp for 4 servings). Cut potatoes into 1/2-inch-thick wedges. Halve buns. In a small bowl, combine mayonnaise with chipotle powder to taste (start with a pinch, then taste and add more from there if desired). Season with salt and pepper; set aside.\nMelt 1 Tbsp butter in a large pan over medium heat. Add sliced onion and season with salt. Cook, stirring occasionally, until softened and lightly browned, 10-15 minutes. TIP: Lower heat and add a splash of water if onion begins to brown too quickly. Stir in half the BBQ sauce (you'll use the rest later); cook until sauce is warmed through, 1-2 minutes more. Turn off heat; transfer to a medium bowl. Wash out pan.\nWhile onion cooks, toss potatoes on a baking sheet with a large drizzle of oil, half the Fry Seasoning (you'll use the rest later), salt, and pepper. Roast on top rack until browned and tender, 20-25 minutes.\nWhile potatoes roast, in a large bowl, combine pork*, minced onion, remaining Fry Seasoning, salt (we used 1/2 tsp; 1 tsp for 4 servings), and pepper. Form into two patties (four patties for 4), each slightly wider than a burger bun.\nHeat a drizzle of oil in pan used for onion over medium-high heat. Add patties and cook until browned and cooked through, 4-7 minutes per side. In the last 1-2 minutes of cooking, top each patty with cheddar; cover pan until cheese melts. While patties cook, toast buns until golden.\nSpread bottom buns with remaining BBQ sauce. Spread top buns with chipotle aioli. Fill buns with patties and caramelized onion. Divide burgers between plates and serve with potato wedges on the side.",
@@ -328,7 +327,7 @@
         "yields": "",
         "category": "Miscellaneous",
         "original_author": null,
-        "imageUrl": "https://www.simplyhappyfoodie.com/wp-content/uploads/2018/08/instant-pot-blueberry-jam-2.jpg"
+        "imageUrl": "https://www.mrswages.com/wp-content/uploads/2015/10/GettyImages-610750726-scaled.jpg"
     },
     {
         "name": "Blueberry Jello Salad",
@@ -341,7 +340,7 @@
         "imageUrl": ""
     },
     {
-        "name": "Blueberry Smoothies",
+        "name": "Blueberry Smoothie",
         "ingredients": "1/2 cup Milk\n2 Tbsp Frozen grape juice concentrate\n1/4 cup Frozen blueberries\n1/4 - 1/2 cup Vanilla Greek yogurt\n1 tsp Honey",
         "directions": "Put milk, juice and blueberries into a blender. Blend for about 30 seconds.\nThen add the Greek yogurt and honey. Blend well.\nEither serve it as a smoothie or turn it into Popsicles.",
         "notes": null,
@@ -369,6 +368,16 @@
         "category": "Desserts",
         "original_author": "Tucanos",
         "imageUrl": "https://ourbestbites.com/wp-content/uploads/2008/05/UB5A5777-2.jpg"
+    },
+    {
+        "name": "Bread Bowls",
+        "ingredients": "1/4 cup Warm water\n1 Tbsp Yeast\n1 cup Scalded milk\n1/8 cup Sugar\n1/8 cup Shortening\n1 tsp Salt\n1 Egg\n3-4 cup Flour",
+        "directions": "Dissolve yeast in warm water and set aside.\nIn another bowl, combine milk, sugar, shortening and salt with 2 cups of flour. Beat until smooth.\nBeat in eggs, dissolved yeast, and additional flour to make a soft dough. Knead well and let rise until doubled.\nShape into baseball sized balls. Bake at 400F for 15-20 minutes.",
+        "notes": "",
+        "yields": "",
+        "category": "Sides, Salads, and Breads",
+        "original_author": "Tiffany Egbert",
+        "imageUrl": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Quick-and-Easy-Bread-Bowls_EXPS_SBZ19_195190_B09_21_1b.jpg"
     },
     {
         "name": "Breadsticks at Tiffany's",
@@ -479,6 +488,16 @@
         "category": "Sides, Salads, and Breads",
         "original_author": null,
         "imageUrl": "https://lilluna.com/wp-content/uploads/2016/12/cilantro-lime-rice-2.jpg"
+    },
+    {
+        "name": "Cajun Garlic-Parmesan Alfredo",
+        "ingredients": "3 Chicken breasts\nTbsp Extra virgin olive oil\n1 Tbsp Cajun seasoning\n20g Unsalted butter\n1 Onion, finely chopped\n3 Garlic, cloves\n250ml Boiling chicken stock\n400ml Milk\n1 Tbsp Cajun seasoning\n50g Parmesan, grated\n2 Tbsp Cream cheese\nBlack pepper, to taste\n50ml Single cream\nParsley, finely chopped\n300g Spaghetti",
+        "directions": "Preheat oven to 365°F.\nPlace chicken breasts in a large baking dish, drizzle with olive oil and add cajun seasoning, coat chicken breast all over, then bake for 25 mins.\nHeat unsalted butter in a large pan, then add onion - fry for 5 mins or until soft, then add garlic and sauté for 1 min. Add boiling chicken stock and semi skimmed milk, stir to combine, then bring pan to a simmer and reduce sauce for 10-15 mins, stirring regularly. If the milk starts to bubble aggressively, then reduce heat to avoid burning milk.\nBring a large saucepan of lightly salted to water to boil and add spaghetti. Cook until al dente. When draining, reserve some pasta water to add to dish before serving.\nOnce sauce has reduced, add cajun seasoning, parmesan, light cream cheese and single cream. Add pasta water to loosen the sauce if it needs it. At this point, reserve a few tbsp of Alfredo sauce to top chicken later on, then add finely chopped parsley and toss in cooked spaghetti, with some pasta water, to combine.\nRemove and thinly slice cooked chicken breasts. Serve pasta immediately with cajun chicken breast, top with a drizzle of Alfredo sauce and some more grated parmesan.",
+        "notes": "Cook time 30 min",
+        "yields": "2-3 servings",
+        "category": "Dinner",
+        "original_author": "The Good Bite",
+        "imageUrl": "https://www.thegoodbite.co.uk/wp-content/uploads/2023/02/DSCF4876-1200x800.jpg"
     },
     {
         "name": "Candied Orange Peels",
@@ -678,7 +697,7 @@
         "yields": "Serves 6-8 people",
         "category": "Dinner",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://www.spendwithpennies.com/wp-content/uploads/2013/04/Chicken-Divan-22.jpg"
     },
     {
         "name": "Chicken Fajitas",
@@ -851,16 +870,6 @@
         "imageUrl": "https://www.tastemade.com/_next/image?url=https%3A%2F%2Ftruffle-assets.imgix.net%2Faed7fa94-901_choclavacookies_land1.jpg&w=1920&q=50"
     },
     {
-        "name": "Chocolate Orange Cake",
-        "ingredients": "For the cake:\n2 Oranges\n6 Large eggs\n1 1/2 cups Granulated sugar\n2 cups Almond meal or flour\n1/2 cup Cocoa\n1 tsp Baking powder\n1/2 tsp Baking soda\n1/2 tsp Salt\nFor the glaze:\n3/4 cup Semi-sweet chocolate chips\n1 Tbsp Honey\n3 Tbsp Unsalted butter\n1 Tbsp Cointreau or Grand Marnier?",
-        "directions": "Preheat oven to 350 degrees.\nPlace oranges in a pot, cover with water, bring to a boil and allow to simmer for 1-1 1/2 hours, until fork tender. Cool, cut open and remove pips/seeds if any.\nPlace oranges in a food processor and puree until pulpy. Add remaining ingredients, and blitz until completely incorporated.\nGrease a square pie pan with butter, and line with parchment paper. Pour batter into pan, and place in oven for 50-60 minutes, or until middle of cake is firm to the touch.\nAllow to cool to room temperature before un-molding.\nPlace ingredients for glaze in a heat-proof bowl over a saucepan of barely simmering water. Stir until completely melted.\nPour over cake, and garnish with orange zest.",
-        "notes": null,
-        "yields": null,
-        "category": "Desserts",
-        "original_author": "Tastemade",
-        "imageUrl": "https://www.tastemade.com/_next/image?url=https%3A%2F%2Ftruffle-assets.imgix.net%2F7f548219-204-gluttenfreeorangechoccake-dishland2.jpg&w=1920&q=50"
-    },
-    {
         "name": "Chocolate Sheet Cake",
         "ingredients": "2 cups Flour\n2 cups Sugar\n2 sticks Butter or margarine\n1 cup Water\n2 Tbsp Cocoa\n2 Eggs\n1/4 tsp Cinnamon\n1/2 cup Buttermilk OR 1/2 cup milk and 1 tsp vinegar\n1 tsp Baking soda\n1 tsp Vanilla extract",
         "directions": "Mix flour and sugar together in a bowl.\nIn a sauce pan, bring butter, water and cocoa to a boil.\nPour the mixture into the flour and sugar.\nAdd eggs, cinnamon, butter milk, baking soda, vanilla extract.\nBeat until smooth and pour into ungreased cookie sheet.\nBake at 400 for 20 minutes.\nPour on Chocolate Frosting.",
@@ -888,7 +897,7 @@
         "yields": "1 Pie",
         "category": "Thanksgiving",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://thecozyplum.com/wp-content/uploads/2021/11/Caramel-Brownie-Pie-2.jpg"
     },
     {
         "name": "Chocolate-Dipped Chips",
@@ -979,16 +988,6 @@
         "category": "Breakfast",
         "original_author": "Tastemade",
         "imageUrl": "https://www.tastemade.com/_next/image?url=https%3A%2F%2Ftruffle-assets.imgix.net%2F3466869c-cinnamon-roll-pancakes-youtube-thumbnail.png&w=1920&q=50"
-    },
-    {
-        "name": "Cinnamon Rolls",
-        "ingredients": "Dough\n1 Tbsp Yeast\n1/2 cup Warm water\n1/2 cups Warm milk\n1/4 cup Sugar\n1/3 cup Butter\n1 tsp Salt\n1 Egg\n3 1/2 cups All-purpose flour\nFilling:\n1/2 cup Melted butter\n3/4 cup Sugar\n2 Tbsp Ground cinnamon",
-        "directions": "Pre-heat oven to 350 degrees\nIn a small bowl, dissolve yeast and a pinch of sugar in warm water and set aside.\nIn a large bowl mix milk, sugar, melted butter, salt and egg.\nAdd 2 cups of flour and mix until smooth.\nAdd yeast mixture ad remaining flour.\nMix on medium speed with dough hook for 2 minutes or until dough is easy to handle.\nRoll out on a floured surface into a 15x9 rectangle.\nSpread melted butter all over dough.\nMix sugar and cinnamon and sprinkle over buttered dough.\nRoll beginning at the 15 inch side and cut into 12 to 15 pieces.\nBake until golden brown about 12-15 minutes.",
-        "notes": "",
-        "yields": null,
-        "category": "Breakfast",
-        "original_author": "Culinary Teacher",
-        "imageUrl": "https://butternutbakeryblog.com/wp-content/uploads/2019/03/soft-cinnamon-rolls.jpg"
     },
     {
         "name": "Citrus Vinaigrette",
@@ -1202,9 +1201,9 @@
     },
     {
         "name": "Creamy Spicy Garlic Ramen Noodles",
-        "ingredients": "Large shrimp\nBBQ spice blend\n1-2 Tbsp Olive oil\n1 package Ramen noodles\n1 Tbsp Lime juice\n1 Tbsp Butter\n1 Tbsp Garlic, minced\n2 Tbsp Hoisin sauce\n2 Tbsp Soy sauce\n1 Tbsp Sriracha\n1/4 cup Heavy cream\n1/4 cup Parsley, chopped\n1/4 cup Parmesan cheese\nGreen onion garnish, chopped",
+        "ingredients": "Large shrimp\nBBQ spice blend\n1-2 Tbsp Olive oil\n1 package Ramen noodles\n1 Tbsp Lime juice\n1 Tbsp Butter\n1 Tbsp Garlic, minced\n2 Tbsp Soy sauce\n1 Tbsp Sriracha\n1/4 cup Heavy cream\n1/4 cup Parsley, chopped\n1/4 cup Parmesan cheese\nGreen onion garnish, chopped",
         "directions": "Season some large shrimp with Korean bbq blend or something similarly delicious. Add shrimp to skewer and grill or cook in pan with a Tbsp of oil in a pan.\nBoil some instant ramen noodles and finish grilling the shrimp with a little lime juice.\nInto a pan, add 1 Tbsp olive oil, a Tbsp of butter, and 1 Tbsp of minced garlic.\nThen, add 2 Tbsp of Hoisin sauce, 2 Tbsp of soy sauce, 1 Tbsp of sriracha and 1/4 cup of heavy cream.\nStir that in with 1/4 cup of chopped parsley and 1/4 cup of parmesan cheese.\nThen, add your ramen, shrimp, and chopped green onion garnish.",
-        "notes": "",
+        "notes": "add 2 Tbsp Hoisin sauce if you're feelin' spicy",
         "yields": "1-2 Servings",
         "category": "Dinner",
         "original_author": "Ninjacue - Instagram",
@@ -1219,6 +1218,16 @@
         "category": "Dinner",
         "original_author": "krollskorner.com",
         "imageUrl": "https://krollskorner.com/wp-content/uploads/2021/10/SpinachArtichokePasta_Blog19-1024x1536.jpg"
+    },
+    {
+        "name": "Creamy Tomato Gnocchi with Burrata",
+        "ingredients": "1/3 cup Extra-virgin olive oil\n8 Garlic cloves, peeled and lightly crushed\n2 pints Cherry tomatoes\n1/2 tsp Red pepper flakes (optional)\n1 tsp Kosher salt\n1/2 tsp Freshly cracked black pepper\n1/2 cup Heavy cream\n2 (16 oz) pkgs Potato gnocchi (I like DeLallo brand)\n2 (4 oz) balls fresh burrata cheese\n1/2 cup Fresh basil leaves, sliced or torn",
+        "directions": "Start by bringing a large pot of salted water to a boil.\nMeanwhile, heat olive oil in a large skillet over medium-low. Add garlic and cook until fragrant, about 3 minutes.\nIncrease heat to medium and add tomatoes. Cook, stirring occasionally, until at least half the tomatoes break down and become jammy, about 10 minutes. Season with red pepper flakes (if using), salt, and black pepper.\nReduce heat to medium-low and stir in heavy cream. (Note: if you prefer a creamier, saucier pasta sauce, feel free to add an additional 1/4 cup heavy cream.)\nWhen the water comes to a boil, add gnocchi and cook according to package instructions until al dente. Reserve 1/2 cup pasta cooking water and drain remaining.\nTransfer cooked gnocchi and reserved pasta water to skillet with tomato sauce and toss continuously until the sauce is thickened and glossy, about 2 minutes. Stir in fresh basil, reserving some for garnish.\nBreak burrata balls into pieces and disperse evenly over pasta. Remove skillet from heat and garnish with reserved basil.",
+        "notes": "Cook time 30 min",
+        "yields": "6 servings",
+        "category": "Dinner",
+        "original_author": "Dishing Out Health",
+        "imageUrl": "https://dishingouthealth.com/wp-content/uploads/2023/02/CreamyTomatoGnocchi_Styled1.jpg"
     },
     {
         "name": "Creamy Tuscan Spaghetti & Meatballs with Scallions & Lemon",
@@ -1238,7 +1247,7 @@
         "yields": "",
         "category": "Breakfast",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://www.onceuponachef.com/images/2022/07/Crepes.jpg"
     },
     {
         "name": "Crispy Chicken Milanese with Yellow Squash and Lemony Arugula",
@@ -1341,6 +1350,16 @@
         "imageUrl": "https://i0.wp.com/jawnsicooked.com/wp-content/uploads/2021/10/birria-tacos-28-scaled.jpg?fit=1024%2C683&ssl=1"
     },
     {
+        "name": "Crumbl Lemon Cheesecake Cookies",
+        "ingredients": "Graham cracker cookies:\n1/2 cup Butter, softened, salted or unsalted\n1/3 cup Granulated sugar\n1/4 cup Brown sugar\n1 Egg\n1 tsp Vanilla extract\n1 & 1/3 cup All-purpose flour\n1 cup Graham crackers, finely crushed, about 7 sheets\n1/4 tsp Salt\n1/4 tsp Baking soda\n1/2 tsp Baking powder\n1/3 cup Graham crackers finely crushed, about 2 sheets\nCream cheese frosting:\n4 oz Cream cheese, softened\n4 Tbsp Butter, softened, salted or unsalted\n1 cup Powdered sugar\n1 tsp Vanilla extract\n1/2 Tbsp Lemon juice\nZest of one lemon\n1/2 cup Lemon curd (check lemon curd recipe)",
+        "directions": "Preheat the oven to 350F then line a baking sheet with parchment paper and set it aside.\nCream the butter, granulated sugar, and brown sugar until combined. Add in the egg and the vanilla and mix again.\nAdd in the flour, graham cracker crumbs, salt, baking soda, and baking powder and mix just until the flour mixture disappears.\nUsing a large (1/4 cup) cookie scooper, scoop out 8 equally sized cookie dough balls, roll them between the palm of your hands then roll them in the 1/3 cup of the crushed graham crackers.\nPlace the cookie dough on the prepared baking sheet, gently flatten to about 3/4-inch in thickness and bake in the preheated oven for 9-10 minutes. Let the cookies cool down on the baking sheet for 10 minutes then transfer to a cooling rack.\nCream cheese frosting:\nIn a stand mixer whip the softened cream cheese and butter together until smooth.\nAdd in the powdered sugar. the vanilla extract, lemon juice, and lemon zest, and mix on high speed again until light and fluffy. This should take 2-3 minutes.\nSpread on top of each cookie using a spatula then top with a dollop of lemon curd and gently make a swirl on top of the cream cheese. Top each cookie with a slice of lemon and a dusting of crushed graham crackers if you'd like and enjoy!",
+        "notes": "Check Lemon Curd Recipe",
+        "yields": "",
+        "category": "Desserts",
+        "original_author": "Lifestyle of a foodie",
+        "imageUrl": "https://lifestyleofafoodie.com/wp-content/uploads/2023/01/Crumbl-lemon-cheesecake-cookies-19.jpg"
+    },
+    {
         "name": "Darcy's Cheese Bread",
         "ingredients": "4 cups Flour\n2 cups Water\n1 Tbsp Salt\n1 Tbsp Yeast\n2 cups Grated cheddar cheese",
         "directions": "Place warm water in mixer with yeast. stir to combine. Wait to add next ingredients until you see bubbling.\nAdd salt and flour.\nKnead for 8 minutes.\nLet rise in greased bowl for 1 hour or until doubled.\nTurn out on flat surface. Roll into a rectangle. Divide into two equal parts. Spread the cheese on each section and roll tightly. Cover both loaves.\nLet rise for about 45 minutes.\nHeat oven to 425F.\nSpritz bread dough with water and slice openings in the top.\nBake for 30 minutes rotating once.\nPlace on cooling rack.",
@@ -1380,7 +1399,6 @@
         "original_author": "Tiffany Egbert",
         "imageUrl": "https://houseofnasheats.com/wp-content/uploads/2022/11/Divinity-Candy-Recipe-4.jpg"
     },
-
     {
         "name": "Dole Whip",
         "ingredients": "4 cups Frozen chopped pineapple\n1/2 cup Milk\n1/2 cups Condensed milk",
@@ -1529,7 +1547,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Tastemade",
-        "imageUrl": "http://assets.createmycookbook.com/picture/image/0063/8762/picture.jpg20160902-9179-n5f4ca.jpg"
+        "imageUrl": "https://truffle-assets.imgix.net/dkkdgt98uadb_3180lCTzzO44WkMc86ykSq_fancy-mac-and-cheese_squareThumbnail_en-US.png?auto=compress,format&fm=pjpg&w=360"
     },
     {
         "name": "Fast Mac and Cheese",
@@ -1609,7 +1627,7 @@
         "yields": null,
         "category": "Dinner",
         "original_author": "Culinary Teacher",
-        "imageUrl": ""
+        "imageUrl": "https://dizzybusyandhungry.com/wp-content/uploads/2021/09/pan-fried-chicken-tenders-feature.jpg"
     },
     {
         "name": "Fried Mozzarella Sticks",
@@ -1623,7 +1641,7 @@
     },
     {
         "name": "Fried Scones",
-        "ingredients": "2 cups Flour\n3/4 tsp Salt\n1/2 tsp Baking powder\n1 1/2 tsp Sugar\n1 1/2 Tbsp Shortening\n3 tsp Yeast to 1/2 cup water\n7-8 cups Milk, scalded ",
+        "ingredients": "2 cups Flour\n3/4 tsp Salt\n1/2 tsp Baking powder\n1 1/2 tsp Sugar\n1 1/2 Tbsp Shortening\n3 tsp Yeast to 1/2 cup water\n2-4 cups Milk, scalded ",
         "directions": "Knead 20 times.\nRaise for ten minutes.\nRoll 1/2 inch thick, cut and deep fry.",
         "notes": "If using Saf instant yeast, add to flour mixture and add water to milk after scalded.",
         "yields": "",
@@ -1669,7 +1687,7 @@
         "yields": "4-6 servings",
         "category": "Dinner",
         "original_author": "Cia Kersten",
-        "imageUrl": ""
+        "imageUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/3/13/0/EI1115_Fuzilli-with-Tomato-Sauce.jpg.rend.hgtvcom.616.462.suffix/1529003490905.jpeg"
     },
     {
         "name": "Garlic Alfredo Mac and Cheese",
@@ -1712,16 +1730,6 @@
         "imageUrl": ""
     },
     {
-        "name": "Giant Cinnamon Roll",
-        "ingredients": "Dough:\n2 1/4 cups All-purpose flour, plus 1/2 cup if needed\n3 Tbsp Sugar\n1 tsp Salt\n1 package Instant yeast\n1/2 cup Water\n1/4 cup Milk\n3 Tbsp Butter\n1 Large egg, room temp.\nFor Filling:\n1/2 cup Butter, melted\n3/4 cup Sugar\n2 Tbsp Ground cinnamon\nFor Icing:\n2 Tbsp Butter, melted\n2 cups Powdered sugar\n1 tsp Vanilla extract\n1 Tbsp Milk",
-        "directions": "In the bowl of a stand mixer, add 2 1/4 cups flour, sugar, salt and instant yeast. Mix until evenly distributed.\nMelt the butter and combine with the water and milk. Add the wet ingredients to the dry and mix. Add the egg. Knead the dough on medium until it starts pulling from the sides of the bowl, about 3 to 4 minutes. Add the additional flour if dough is too wet.\nRemove the dough from the bowl and place in a lightly greased bowl. Cover tightly and let rest for 30 minutes in a warm place.\nWhile the dough is resting, gather the ingredients for the filling. Mix together the cinnamon and sugar and melt the butter.\nOn a lightly floured surface roll out the dough into a 12x15 rectangle. Using a pastry brush, brush the dough with butter and sprinkle with the cinnamon sugar.\nUsing a pizza cutter, cut the dough into six, 2-inch-wide strips. Roll one of the strips to create a cinnamon roll.\nUse the other strips to keep spiraling the main roll until you form a giant roll.\nSpray a 9-inch cake pan with nonstick spray. carefully transfer the giant roll into the cake pan. Loosely cover and let rise for another 30 to 60 minutes in a warm place.\nAfter it's doubled in size, bake at 350 degrees for 30 to 35 minutes or until lightly browned. While the roll is baking, whisk together the ingredients for the icing.\nOnce the roll has come out of the oven, allow it to cool until warm and spread with the icing. Serve warm.",
-        "notes": "Active Time: 2 hours\nTotal Time: 3 hours",
-        "yields": "6-8 people",
-        "category": "Breakfast",
-        "original_author": "Tastemade",
-        "imageUrl": ""
-    },
-    {
         "name": "Glaze",
         "ingredients": "4 Tbsp Butter\n2 cups Powdered sugar\n1 tsp Vanilla extract\n3-6 Tbsp Hot water",
         "directions": "Cream together butter and powdered sugar.\nAdd vanilla and hot water to desired consistency.",
@@ -1759,7 +1767,7 @@
         "yields": "Enough for 6-8 people",
         "category": "Thanksgiving",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/38/2048x1024/landscape-1505763623-green-bean-casserole-148-1.jpg?resize=640:*"
     },
     {
         "name": "Griddled Onion Cheeseburgers with Special Sauce & Garlic Potato Wedges",
@@ -1809,7 +1817,7 @@
         "yields": "",
         "category": "Dinner",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://homanathome.com/wp-content/uploads/2019/07/Hawaiian-Haystacks-3.jpg"
     },
     {
         "name": "Hawaiian Huli Huli Chicken",
@@ -1910,7 +1918,7 @@
         "category": "Sauces",
         "original_author": "Tastemade",
         "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5106/picture.png20170402-32677-xwiqz1.png"
-    }, 
+    },
     {
         "name": "Honey Strawberry Ice Cream",
         "ingredients": "Ice Cream:\n2/3 cup Heavy cream\n2 cups Half and half\n1/3 cup Honey\n1 tsp Salt\n1 tsp Vanilla extract\n10 Strawberries, diced\nTopping:\nWhole strawberries\nBalsamic vinegar",
@@ -1959,7 +1967,7 @@
         "yields": null,
         "category": "Sauces",
         "original_author": "Tastemade",
-        "imageUrl": "https://recipefairy.com/wp-content/uploads/2020/03/in-n-out-fries.jpg"
+        "imageUrl": "https://forktospoon.com/wp-content/uploads/2021/10/Air-Fryer-Copycat-In-N-Out-Animal-Fries--600x600.jpg"
     },
     {
         "name": "Italian Chicken & Pepper Sandos with Potato Wedges & Tangy Garlic Sauce",
@@ -2022,6 +2030,16 @@
         "imageUrl": "https://sallysbakingaddiction.com/wp-content/uploads/2019/02/lemon-bars-on-shortbread-crust.jpg"
     },
     {
+        "name": "Lemon Curd",
+        "ingredients": "1 large Egg at room temperature\n1/3 cup Granulated sugar\n1/4 cup Lemon juice\n1/2 tsp Lemon zest\n2 Tbsp Butter",
+        "directions": "In a medium saucepan, bring the lemon juice and lemon zest to a boil.\nWhile the juice is heating up, whisk the egg, and granulated sugar in a medium bowl until the sugar is dissolved.\nVery slowly pour in the lemon juice into the beaten egg mixture while whisking rapidly to keep the egg from cooking and curdling.\nPour the mixture back into the medium saucepan and cook over medium low heat, stirring constantly. Once the lemon curd is thick, remove from the heat and add in the butter. Continue stirring until everything is combined.\nYou can now press the lemon curd through a sieve to ensure it's super smooth.\nTransfer the lemon curd to a bowl, then press plastic wrap onto the surface of the lemon curd to keep it from forming a skin on top and chill in the fridge. The curd will thicken as it cools and can be used anytime after that.",
+        "notes": "Goes with Crumbl Lemon Cheesecake Cookies",
+        "yields": "8 Tbsp - small batch of Lemon Curd",
+        "category": "Desserts",
+        "original_author": "Lifestyle of a Foodie",
+        "imageUrl": "https://lifestyleofafoodie.com/wp-content/uploads/2021/07/Small-batch-lemon-curd-recipe-9-of-12.jpg"
+    },
+    {
         "name": "Lemon Curd Cake",
         "ingredients": "225g Butter\n225g Caster sugar\n4 Large range eggs\n3 tsp Vanilla extract\n210g Self-raising flour\n1 tsp Baking powder\nZest and juice of 1 lemon\nAbout 3 Tbsp of milk to loosen batter\n300g Butter, softened\n1/2 tsp Vanilla extract\n520g Icing sugar, sifted\n300g caster sugar\n50g cornstarch\n120ml lemon juice (2-3 lemons)\n4 Large egg yolks\nPinch of salt\nZest of two lemons\n60g Butter",
         "directions": "For the Lemon curd, place the sugar, corn starch and flour 450ml water in a large saucepan and stir until you have a smooth mixture. Stir in the lemon juice, egg yolks and salt. Place over a medium heat and keep stirring while the mixture boils, for about 10-12 minutes. Stir in the lemon zest and butter has melted, then remove the pan from the heat and allow to cool.\nPreheat the oven to 350F. Grease and line two 21cm tins.\nCream butter, sugar, and lemon zest together until fluffy and pale. Then beat in the eggs one by one before adding the vanilla extract and lemon juice.\nUsing a spatula, fold in the flour until you have a smooth mixture. Use a little bit of the milk if you need to loosen the mixture. Should be a little loose.\nDivide the mixture into two springform tins, Bake for about 20 minutes, until nice and golden brown. Take then out and let them cool for a few minutes.\nWhile the bases are cooling prepare the buttercream filling by beating the butter and vanilla extract together in a bowl until light and fluffy then add the icing sugar, a little at a time, until it is all incorporated and the mixture is smooth.\nAssembly: Spread lemon curd on one of the bases before topping with buttercream, then add the second base and sprinkle with icing sugar.",
@@ -2039,7 +2057,7 @@
         "yields": "",
         "category": "Thanksgiving",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/3/0/FNK_the-best-lemon-meringue-pie-reshoot_H_s4x3.jpg.rend.hgtvcom.616.462.suffix/1567536793798.jpeg"
     },
     {
         "name": "Lemon Poppy Seed Scones",
@@ -2402,6 +2420,16 @@
         "imageUrl": "https://media.olivegarden.com/images/site/ext/pages/_promotions/amazing-alfredo/alfredo-sauce-070920-shd-00.jpg"
     },
     {
+        "name": "Olive Garden Chicken Margherita",
+        "ingredients": "2 Ibs Chicken breasts, 4 portions\n1 cup Italian salad dressing or your favorite marinade\n2 Tbsp Olive oil\n1/2 cup Basil pesto\n2 tsp Garlic, minced\n6 Tbsp Butter\n1.5 Tbsp Lemon juice\n1/2 Ib Sliced mozzarella, 1 slice for each piece of chicken\n1 cup Grape tomatoes\n1/4 cup Fresh basil leaves, thinly sliced\nPesto:\n1 cup Fresh basil leaves\n3 Garlic cloves\n2 Tbsp Pine nuts\n1/3 cup Extra virgin olive oil\n1/2 tsp Salt\n1/4 cup Parmesan cheese, grated\n1/4 cup Romano cheese, grated",
+        "directions": "Preheat the oven to 350°F. \nPound chicken out between two sheets of plastic wrap. This will even out the thickness of the chicken, and it will make the chicken cook more evenly.\nPlace the chicken breasts into a gallon-sized zip top bag. Add Italian dressing marinade, and allow the chicken to marinate for at least 30 minutes before cooking.\nWash the grape tomatoes and set them aside.\nHeat a couple of tablespoons of olive oil in a large cast iron skillet over medium-high heat.\nAdd the chicken and cook for 7 to 8 minutes on each side, or until the chicken is almost done (it will continue to cook in the oven), remove the chicken from the skillet and place it on a plate or baking dish.\nAdd butter, minced garlic, and lemon juice to the skillet. Cook until the butter has melted.\nAdd the chicken back to the skillet with the lemon butter sauce.\nPlace a slice of mozzarella on top of the chicken.\nAdd the tomatoes to the skillet.\nPlace the chicken in the oven, and bake until the cheese begins to melt and brown. This should take 7 to 10 minutes.\nAdd a tablespoon or two of pesto on top of the mozzarella cheese.\nServe garnished with fresh basil if desired.\nBasil Pesto\nPlace all pesto ingredients in a food processor.\nProcess until the mixture is smooth.",
+        "notes": "Prep time 10 min and Cook time 20 min.",
+        "yields": "4 servings",
+        "category": "Dinner",
+        "original_author": "https://copykat.com/olive-garden-chicken-margarita/",
+        "imageUrl": "https://copykat.com/wp-content/uploads/2022/08/Olive-Garden-Grilled-Chicken-Margherita-Pin-4.jpg"
+    },
+    {
         "name": "Olive Garden Salad Dressing",
         "ingredients": "1/2 cup Mayonnaise\n1/3 cup White vinegar\n1 tsp Vegetable oil\n2 Tbsp Corn syrup\n4 Tbsp Parmesan cheese\n1/4 tsp Garlic salt\n1/2 tsp Italian seasoning\n1/2 tsp Parsley flakes, dried\n1 Tbsp Lemon juice",
         "directions": "Mix all ingredients in a blender until well mixed.\nIf it's too tart, add a bit of sugar.",
@@ -2501,7 +2529,6 @@
         "original_author": "Delish",
         "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/delish-211218-one-pot-broccoli-cheese-pasta-002-ab-web-1641596338.jpg?crop=0.605xw:0.906xh;0.192xw,0.0636xh&resize=1200:*"
     },
-
     {
         "name": "One-Pot Longhorn Pork & Bean Chili with Jalapeno & Smoky Red Pepper Crema",
         "ingredients": "2 Scallions\n1 Jalapeno\n1 Roma tomato\n10 oz Ground pork\n2 Tbsp Southwest spice blend\n2 Chicken stock concentrate\n13.76 oz Crushed tomatoes\n1 Tex-mex paste\n13.4 oz Black beans\n2 Tbsp Smoky red pepper crema",
@@ -2513,6 +2540,16 @@
         "imageUrl": "https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_500,q_auto,w_1900/hellofresh_s3/image/one-pot-longhorn-pork-bean-chili-05ea2d0b.jpg"
     },
     {
+        "name": "One-Pot Vegetable Broth and Pasta",
+        "ingredients": "1 Onion (medium)\n4 Carrots (medium)\n4 Celery stalks\n2 Garlic cloves\n8 cups Water\nSalt and Pepper (to taste)\n1 package Thin pasta (angel hair or thins rings)",
+        "directions": "Peel all the vegetables and garlic.\nAdd to a large pot with the water and bring to a simmer over medium heat. Simmer for 30-40 minutes or until the vegetables are very, very soft. Poke with a knife and make sure it comes out clean.\nUse a slotted spoon to transfer the vegetables to a blender with 1 cup of the liquid. Blend smooth. Return the blended mixture to the pot with the remaining liquid and stir to make the final broth.\n(If you want to lighten the color or make this go farther, you can add 1-2 cups additional water. You can also mix with chicken broth.)\nUse in soups, and pastas, or store for future use.\nTo cook pasta in the broth: Bring 1 quart of the broth to a simmer over medium heat in a medium pot. Add 8 ounces of a small shape of pasta (such as pastina, orzo, or abc pasta). Simmer for the time on the pasta package, plus 2-4 minutes or until the pasta is tender and cooked through and the broth is mostly absorbed.\nAdd 1 tablespoon butter, a pinch of salt to taste, and Parmesan cheese as desired. Add 1-2 tablespoons tomato paste for more flavor.",
+        "notes": "Prep time 5 min and Cook time 35 min.",
+        "yields": "6-8 servings",
+        "category": "Dinner",
+        "original_author": "https://www.yummytoddlerfood.com/",
+        "imageUrl": "https://www.yummytoddlerfood.com/wp-content/uploads/2023/01/One-Pot-Vegetable-Broth-9-horiz.jpg"
+    },
+    {
         "name": "Onion Rings",
         "ingredients": "1 Egg\n1/4 cup Vegetable oil\n1 cup Milk\n1 cup Flour\n1/2 tsp Salt\n1 tsp Baking powder\n2 Large sweet onions, sliced\n1/2 cup Flour (For coating the onions)\nOil For frying",
         "directions": "Mix egg, oil, and milk on low speed of mixer for 1 minute.\nAdd dry ingredients and mix until smooth\nCoat onions in flour.\nDip in batter.\nWhen one side is golden, turn to the other side.\nFry in hot oil 350-375 F until desired shade of brown.",
@@ -2521,6 +2558,16 @@
         "category": "Sides, Salads, and Breads",
         "original_author": "food.com",
         "imageUrl": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_73,ar_16:9,w_1024/v1/img/recipes/16/88/7/BrzQIqbzRHqWP2gJsHhY_0S9A0520.jpg"
+    },
+    {
+        "name": "Orange Chocolate Mousse Pots",
+        "ingredients": "For the base:\n60g Biscuits or Graham Crackers\n15g Butter, melted\nFor the mousse:\n200g Orange & Tangerine Conscious Chocolate (or chocolate of choice)\n200g Full fat coconut milk\n1-2 Tbsp Sugar",
+        "directions": "Add the biscuits to a food processor and pulse until you have a fine crumb mixture. Add the melted butter and pulse again until combined.\nDivide the base mixture between 4 dessert glasses/pots and refrigerate while you make the mousse layer.\nPour the coconut milk into a saucepan and heat over a medium heat until it starts to bubble, then take off the heat.\nBreak the chocolate into a heat-proof dish, add in the sugar and pour in the hot coconut milk. Leave to sit for a minute, then whisk until you have a smooth velvety mixture.\nPour into the glasses/pots, and leave to cool slightly before transferring to the fridge to set. Allow to chill in the fridge for 2-3 hours, or until set.\nEnjoy!",
+        "notes": "Maybe add some orange zest to kick up the orange flavor",
+        "yields": "4 cups",
+        "category": "Desserts",
+        "original_author": "Nadia's Healthy Kitchen",
+        "imageUrl": "https://nadiashealthykitchen.com/wp-content/uploads/2020/12/orange-chocolate-mousse-pots_5.jpg"
     },
     {
         "name": "Orange Julius",
@@ -2543,6 +2590,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Orange Shortbread Cookie Sticks",
+        "ingredients": "2 cups All-purpose flour\n1 cup Butter, unsalted\n3/4 cup Castor sugar\n2 Tbsp Orange juice\n2 Tbsp Orange zest\n1/4 tsp Salt\n1/2 tsp Cardamom powder\nChocolate dip:\n5.5 oz Dark chocolate (60-70% cocoa solids), melted (Ideally, use tempered chocolate.)\n1-2 tsp Coconut oil, melted",
+        "directions": "Sift flour and salt together in a medium sized bowl and set aside.\nTake another large bowl and cream butter and sugar together for at least 3-5 minutes,until the butter color is changed to pale.\nAdd the orange juice, orange zest and cardamom powder to the butter and beat again.\nAdd the flour into the beaten butter and work until a dough is formed.\nIf the dough is crumbly, add one tablespoon of water and mix until a dough is formed.\nRoll the dough out into a rough rectangle (about a centimeter thick and 12 centimeters across).\nPlace it in the fridge for 30 minutes.\nPreheat the oven at 300 F.\nTake out the dough and cut it into cookies using a sharp knife into 1cmx1cmx12cm sticks.\nTip: I find this cookie stick size the cutest and perfect for dipping into coffee or cocoa, but feel free to make the cookie sticks whatever size you like best.\nCarefully transfer the cookie sticks onto the lined baking sheet. Make sure that they're fairly straight and correct any bending.\nPlace the cookies on a silicone sheet on a baking tray.\nPlace the baking tray in the middle rack of the oven and bake for 12-15 minutes, until the edges are light golden.\nTake the cookies out of the oven and place on a wire rack to cool.\nChocolate dip:\nMelt chocolate over double broiler\nIf your melted chocolate is too thick and viscous, add 1-2 teaspoons of melted coconut oil to loosen it up. You want to be able to achieve an even, fairly thin layer of chocolate on the shortbread.\nTransfer the melted chocolate into a narrow glass or other narrow container that will give you a deep layer of chocolate (you want to be able to dip at least half of a cookie stick into chocolate).\nDip the cookie sticks into the melted chocolate. After dipping, gently shake them to help any excess chocolate to drip away, then transfer the chocolate-dipped cookie sticks onto a lined baking sheet.\nFor extra decoration, transfer any remaining chocolate into a piping bag (re-melt it if necessary) and use it to pipe zig-zag lines over the chocolate-dipped end of the cookie stick.\nAlternatively, you can also decorate them with sprinkles of choice.",
+        "notes": "I mixed the orange shortbread cookies with the melted chocolate from the two authors. Reference their pages if something seems wrong. Bakecellence and The Loopy Whisk",
+        "yields": "",
+        "category": "Desserts",
+        "original_author": "Bakecellence and The Loopy Whisk",
+        "imageUrl": "https://theloopywhisk.com/wp-content/uploads/2022/12/Orange-Shortbread-Cookie-Sticks_730px-9.jpg"
+    },
+    {
         "name": "Oreo Cheesecake Tart",
         "ingredients": "Crust:\n2 cups Oreos, crushed\n1/2 cup Unsalted, melted butter\nCheesecake:\n8 oz Cream cheese (room temperature)\n3 Tbsp Peanut butter\n1/2 cup Cream (35% fat content)\n1 tsp Vanilla\n1 cup Powdered sugar\nGanache:\n1 1/3 cup Dark chocolate\n3/4 cup Cream (35% fat content)\nTopping:\n3/4 cup Reeses peanut butter cups, chopped",
         "directions": "Crust: Add whole Oreos to a food processor and blend until you reach a fine crumb. Add melted butter and mix until well combined. It should look like wet soil.\nAdd to a tart tin either rectangle (36 cm x 13 cm) or round 12 inches. Use the back of a spoon to evenly distribute crust around pressing down firmly on the side and bottom. Chill for 1 hour.\nCheesecake: Add all ingredients to a large mixing bowl and use a hand mixer or a wooden spoon and mix until well combined.\nGanache: Add chocolate and cream to a microwave safe bowl and microwave for 20 seconds at a time mixing each time until it becomes smooth.\nAdd cheesecake to the tart tin and use a Tbsp to spread evenly. Pour on ganache (set aside a little to drizzle on top) and spread evenly. Sprinkle the chopped Reeses peanut butter cups, drizzle more ganache on top.\nServe chilled.",
@@ -2562,16 +2619,7 @@
         "original_author": "Tastemade",
         "imageUrl": "http://assets.createmycookbook.com/picture/image/0080/5116/picture.png20170402-4227-5ij80k.png"
     },
-    {
-        "name": "Pancakes",
-        "ingredients": "2 cups All-purpose flour\n2 1/2 tsp Baking powder\n1/2 tsp Salt\n1 Egg, slightly beaten\n1 1/2 cups Milk\n2 Tbsp Melted butter",
-        "directions": "Sift together flour, baking powder, and salt.\nIn a separate bowl, combine egg and milk; add to flour mixture, stirring only until smooth.\nBlend in melted butter.\nCook until bubbles appear on one side, then flip and cook until browned.",
-        "notes": null,
-        "yields": "serves 4",
-        "category": "Breakfast",
-        "original_author": "Culinary Teacher",
-        "imageUrl": ""
-    },
+
     {
         "name": "Pancetta White Pizzas with Baby Broccoli, Ricotta, and Herbs de Provence",
         "ingredients": "6 oz Baby Broccoli\n4 oz Pancetta\n4 oz Ricotta Cheese\n1/2 tsp Garlic Powder\n1 tsp Herbes de Provence\n2 Flatbreads\n1/4 cup Parmesan Cheese\n8 tsp Olive Oil",
@@ -2730,10 +2778,10 @@
         "yields": "2-3 pie crusts",
         "category": "Thanksgiving",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://www.biggerbolderbaking.com/wp-content/uploads/2021/11/Pate-Brisee1-scaled.jpg"
     },
     {
-        "name": "Pineapple Coconut Smoothies",
+        "name": "Pineapple Coconut Smoothie",
         "ingredients": "1/2 cup Sweetened coconut milk\n1/2 cup Frozen pineapple\n1 Banana\n1/4 to 1/2 cup Vanilla Greek yogurt\n1 tsp Honey",
         "directions": "Put coconut milk, pineapple, and banana into a blender and blend for about 15 seconds.\nAdd the yogurt and honey, and blend until smooth.\nServe as a smoothie or turn the mixture into popsicles.",
         "notes": null,
@@ -2820,7 +2868,7 @@
         "yields": "",
         "category": "Thanksgiving",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://images-gmi-pmc.edge-generalmills.com/165f3d2f-0610-40a6-abf8-478fb850be7c.jpg"
     },
     {
         "name": "Pumpkin-Oat Chocolate Chip Cookies",
@@ -3299,8 +3347,8 @@
         "notes": "",
         "yields": "",
         "category": "Miscellaneous",
-        "original_author": null,
-        "imageUrl": ""
+        "original_author": "Grandma Shug",
+        "imageUrl": "https://www.simplyhappyfoodie.com/wp-content/uploads/2019/05/instant-pot-strawberry-jam-2b.jpg"
     },
     {
         "name": "Strawberry Pretzel Salad",
@@ -3314,22 +3362,12 @@
     },
     {
         "name": "Sugar Cookies",
-        "ingredients": "3 cups All-purpose flour\n3/4 tsp Baking powder\n1/4 tsp Salt\n1 cup Unsalted butter, softened\n1 cup Sugar\n1 Egg, beaten\n1 Tbsp Milk\nPowdered sugar, for rolling out dough",
-        "directions": "Sift together flour, baking powder, and salt. Set aside.\nPlace butter and sugar in large bowl or electric mixer and beat until light in color.\nAdd egg and milk and beat to combine.\nPut mixer on low speed, gradually add flour, and beat until mixture pulls away from the side of the bowl.\nPreheat oven to 375 degrees F.\nSprinkle surface where you will roll out dough with flour. Roll out dough to 1/4 inch thick.\nMove the dough around and check underneath frequently to make sure it is not sticking.\nCut into desired shape, place at least 1-inch apart and bake for 7 to 9 minutes or until cookies are just beginning to turn brown around the edges, rotating cookie sheet half way through baking time.",
-        "notes": "store up to a week",
-        "yields": null,
-        "category": "Desserts",
-        "original_author": null,
-        "imageUrl": ""
-    },
-    {
-        "name": "Sugar Cookies",
         "ingredients": "3 cups Flour\n1/2 tsp Salt\n1/2 tsp Baking soda\n1/2 tsp Baking powder\n1/2 cup Butter\n1/2 cup Shortening\n2 Eggs\n1 1/2 cups Sugar\n1/2 tsp Vanilla",
         "directions": "Sift flour, salt, baking powder, baking soda.\nCut in butter and shortening.\nBeat eggs and sugar until fluffy.\nAdd flavoring and combine mixture.\nRoll dough.\nBake at 350 degrees for 8-10 minutes.",
         "notes": "",
         "yields": "Makes 2 dozen",
         "category": "Desserts",
-        "original_author": null,
+        "original_author": "Tiffany Egbert",
         "imageUrl": ""
     },
     {
@@ -3343,7 +3381,7 @@
         "imageUrl": "https://www.tastemade.com/_next/image?url=https%3A%2F%2Ftruffle-assets.imgix.net%2Fpxqrocxwsjcc_2eJRHuvUkQGOWiI4ik6YqY_summer-pasta-salad_landscapeThumbnail_en.png&w=1920&q=50"
     },
     {
-        "name": "Sunrise Smoothies",
+        "name": "Sunrise Smoothie",
         "ingredients": "1/2 cup Milk\n2 Tbsp Frozen orange juice concentrate\n1/2 cup Frozen peaches\n1/4 cup Greek yogurt\n1/2 tsp Vanilla extract\n1 tsp Honey",
         "directions": "Put milk, juice, and the peaches into a blender. Blend for about 45 seconds.\nThen add the yogurt, vanilla, and honey.\nBlend until smooth.\nServe it as a smoothie or turn the mixture into popsicles.",
         "notes": null,
@@ -3400,7 +3438,7 @@
         "yields": "",
         "category": "Thanksgiving",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://asassyspoon.com/wp-content/uploads/classic-sweet-potato-casserole-recipe-a-sassy-spoon-5.jpg"
     },
     {
         "name": "Sweet Soy Sauce",
@@ -3432,7 +3470,6 @@
         "original_author": "Carrie Zabaldo",
         "imageUrl": "https://www.southernplate.com/wp-content/uploads/2008/09/DSC_8886-1-scaled.jpg"
     },
-
     {
         "name": "Tiffany's Pizza Recipe",
         "ingredients": "2 1/2 cups Flour\n1 Tbsp Sugar\n1 Tbsp Yeast\n1/2 tsp Salt\n1 cup Warm water\n2 Tbsp Oil",
@@ -3461,7 +3498,7 @@
         "yields": "",
         "category": "Thanksgiving",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://veenaazmanov.com/wp-content/uploads/2020/07/No-Knead-Knotted-Rolls-Dinner-Rolls-Recipe7.jpg"
     },
     {
         "name": "Waffle Donut",
@@ -3501,7 +3538,7 @@
         "yields": "",
         "category": "Thanksgiving",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2F84dd3a7136bfc899985439de933e0a3fde75be26"
     },
     {
         "name": "Watermelon Banana Smoothie",
@@ -3521,7 +3558,7 @@
         "yields": null,
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
-        "imageUrl": ""
+        "imageUrl": "https://images.cutco.com/learn/2018/watermelon-salsa-61-l.jpg"
     },
     {
         "name": "Watermelon Sorbet",
@@ -3571,7 +3608,7 @@
         "yields": "Makes four loaves",
         "category": "Sides, Salads, and Breads",
         "original_author": null,
-        "imageUrl": ""
+        "imageUrl": "https://therecipecritic.com/wp-content/uploads/2022/10/sproutedwheatbread-1.jpg"
     },
     {
         "name": "Yucatan Citrus Chicken Bowls with Poblano, Smoky Red Pepper Crema & Pickled Onion",
