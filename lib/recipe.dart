@@ -30,7 +30,7 @@ class Recipe {
       'notes': notes,
       'yields': yields,
       'category': category,
-      'originalAuthor': originalAuthor,
+      'original_author': originalAuthor,
       'imageUrl': imageUrl,
     };
   }
@@ -44,7 +44,7 @@ class Recipe {
         notes: map['notes'] ?? "",
         yields: map['yields'],
         category: map['category'],
-        originalAuthor: map['originalAuthor'],
+        originalAuthor: map['original_author'],
         imageUrl: map['imageUrl'],
       );
     } catch (error) {

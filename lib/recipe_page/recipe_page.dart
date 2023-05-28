@@ -94,6 +94,12 @@ class RecipePage extends StatelessWidget {
                       ),
                       ...buildDirections(context, recipe),
                       buildNotes(context, recipe),
+                      Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: Text(recipe.originalAuthor != null
+                            ? "Author: " + recipe.originalAuthor!
+                            : ""),
+                      ),
                     ],
                   );
                 },
@@ -319,14 +325,6 @@ class RecipePage extends StatelessWidget {
       subtitle += "Yields: $yields";
     }
 
-    if (yields != null && originalAuthor != null) {
-      subtitle += " | ";
-    }
-
-    if (originalAuthor != null) {
-      subtitle += "Author: $originalAuthor";
-    }
-
     return Padding(
       padding: const EdgeInsets.only(top: 4),
       child: Text(
@@ -340,7 +338,7 @@ class RecipePage extends StatelessWidget {
     String notes = recipe.notes;
 
     return Padding(
-      padding: const EdgeInsets.only(left: 8.0, right: 8.0),
+      padding: const EdgeInsets.all(8.0),
       child: Text(
         notes,
         style: const TextStyle(fontStyle: FontStyle.italic),
