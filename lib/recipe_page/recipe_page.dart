@@ -1,6 +1,5 @@
 // ignore: avoid_web_libraries_in_flutter
 import 'dart:html' show window;
-import 'dart:developer' as dev;
 import 'dart:math';
 
 import 'package:flutter/foundation.dart';
@@ -8,6 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:remer_cookbook/home/home_page.dart';
 import 'package:remer_cookbook/recipe_book_loader.dart';
 import 'package:remer_cookbook/recipe_image/recipe_image.dart';
+import 'package:remer_cookbook/recipe_page/recipe_actions.dart';
 
 import '../recipe.dart';
 
@@ -16,20 +16,23 @@ class RecipePage extends StatelessWidget {
   final String? recipeName;
   const RecipePage({this.recipeName, Key? key}) : super(key: key);
 
-  static Uri getRecipePageUri(BuildContext context, String recipeName) {
+  static Uri getFullRecipeUrl(String recipeName) {
+    // https://remer-cookbook.web.app/recipe?name=3+Ingredient+Banana+Hacks
+    return Uri.https("remer-cookbook.web.app", "/recipe", {"name": recipeName});
+  }
+
+  static Uri getRelativeRecipeUri(String recipeName) {
     return Uri(path: routeName, queryParameters: {
       "name": recipeName,
     });
   }
 
   static Future navigateTo(BuildContext context, String recipeName) {
-    Uri uri = getRecipePageUri(context, recipeName);
-
+    Uri uri = getRelativeRecipeUri(recipeName);
     if (kIsWeb) {
       // Change the url without navigating to the page, for easy link sharing
       window.history.pushState('recipePage', recipeName, uri.toString());
     }
-
     return Navigator.pushNamed(context, uri.toString());
   }
 
@@ -100,6 +103,7 @@ class RecipePage extends StatelessWidget {
                             ? "Author: " + recipe.originalAuthor!
                             : ""),
                       ),
+                      RecipeActions(recipe: recipe),
                     ],
                   );
                 },
