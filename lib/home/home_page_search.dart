@@ -24,12 +24,11 @@ class HomePageSearch extends StatelessWidget {
             children: [
               Image.asset(
                 "assets/SearchBackground.png",
-                height: 400,
+                height: 399,
                 width: constraints.maxWidth,
                 fit: BoxFit.fitWidth,
               ),
               Container(
-                height: imageSectionHeight,
                 decoration: BoxDecoration(
                   gradient: LinearGradient(
                       colors: [canvasColor.withAlpha(0), canvasColor],
