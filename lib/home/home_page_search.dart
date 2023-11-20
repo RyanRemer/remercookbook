@@ -26,7 +26,7 @@ class HomePageSearch extends StatelessWidget {
                 "assets/SearchBackground.png",
                 height: 399,
                 width: constraints.maxWidth,
-                fit: BoxFit.fitWidth,
+                fit: BoxFit.cover,
               ),
               Container(
                 decoration: BoxDecoration(
