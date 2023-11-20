@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:remer_cookbook/recipe_page/recipe_page.dart';
 import 'home/home_page.dart';
 import 'package:url_strategy/url_strategy.dart';
@@ -17,6 +18,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     List<UriRouteParser> routeParsers = [RecipePage.buildRecipePageFromUri];
+    SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
+      statusBarColor: Colors.orange,
+      statusBarIconBrightness: Brightness.dark,
+      statusBarBrightness: Brightness.light,
+    ));
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
