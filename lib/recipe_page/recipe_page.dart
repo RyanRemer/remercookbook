@@ -333,7 +333,7 @@ class RecipePage extends StatelessWidget {
       padding: const EdgeInsets.only(top: 4),
       child: Text(
         subtitle,
-        style: Theme.of(context).textTheme.subtitle2,
+        style: Theme.of(context).textTheme.titleSmall,
       ),
     );
   }
