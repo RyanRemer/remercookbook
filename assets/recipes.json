@@ -1,7 +1,7 @@
 [
     {
         "name": "3 Ingredient Banana Hacks",
-        "ingredients": "Pancakes:\n1 ripe Banana\n2 Eggs\nPinch of Cinnamon\nMuffins:\n2 ripe Banana\n4 Eggs\n1/2 cup Blueberries\nCookies:\n1 super ripe Banana\n1 cup Quick cCooking Oats\n2 Tbsp Raisins",
+        "ingredients": "Pancakes:\n1 ripe Banana\n2 Eggs\nPinch of Cinnamon\nMuffins:\n2 ripe Banana\n4 Eggs\n1/2 cup Blueberries\nCookies:\n1 Banana, super ripe\n1 cup Quick Cooking Oats\n2 Tbsp Raisins",
         "directions": "Pancakes: Mash bananas and then stir in eggs and cinnamon. Heat some oil in a pan and pour a ladle of the mixture to form rounds. Brown on both sides.\nMuffins: Mash bananas and then stir in the eggs. Lightly grease a muffin tin and drop blueberries into each well. Cover with the mixture and bake at 350F for about 15 minutes.\nCookies: Mash bananas well, and then stir in oats and raisins. Bake at 350F for 15 minutes.",
         "notes": null,
         "yields": null,
@@ -28,6 +28,46 @@
         "category": "Beverages",
         "original_author": "Tastemade",
         "imageUrl": "https://bellyfull.net/wp-content/uploads/2023/04/Agua-Fresca-blog-1.jpg"
+    },
+    {
+        "name": "Air Fryer Chicken Tikka Skewers With Spiced Rice",
+        "ingredients": "14 oz Boneless Skinless Chicken Thighs\n2 Tbsp Greek Yogurt\n3 Tbsp Tikka Masala Paste\n9 oz Microwave Rice\n2 Lemons\n2 Red Onions\nFOR THE TOMATO SALAD\n10 oz Vine Tomatoes\n1 Green Chili\n2 tsp Black Sesame Seeds\n1 Tbsp Olive Oil\nFOR THE RAITA\n¼ Cucumber\n5 oz Greek Yogurt\n½ oz Fresh Mint",
+        "directions": "Halve and finely slice the red onions. Add half to a bowl with the juice of ½ lemon and season with salt. Cut the rest of the lemon into wedges for serving and leave the onions to quickly pickle while you prep the rest of the dish.\nHalve the other lemon. Slice the chicken thighs into three pieces. Add to a bowl with the juice of ½ lemon, the yogurt and tikka paste. Season generously with salt and pepper, then mix well. Cover and set aside in the fridge for at least 30 mins.\nMeanwhile, make the raita. Halve the cucumber lengthwise and scoop out the seeds before finely dicing. Finely chop the mint. Add the yogurt to a bowl and squeeze in the juice of the remaining lemon half. Add the cucumber and mint to the bowl and season with salt and pepper. Set aside.\nAdd the rest of the onions to the air fryer, drizzle with ½ Tbsp olive oil and top with the chicken pieces, then drizzle with another ½ Tbsp oil. Set the air fryer to 200°C and cook for 14-16 mins until charred and the chicken juices run clear.\nFinely slice the green chili and cut the tomato into wedges. Add the tomatoes to a bowl along with the nigella seeds, then season with salt and pepper.\nCook the rice according to package instructions.\nRemove the chicken from the air fryer, then toss the cooked onions with the rice. Season with salt and pepper.\nDivide the rice between two plates, add the tomatoes, then top with the tikka chicken and pickled onions. Scatter with the green chili, lemon wedges and more mint, if you like.",
+        "notes": "Cook time 25 min",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "Mob.co.uk",
+        "imageUrl": "https://www.mob.co.uk/cdn-cgi/image/width=640,quality=75,format=auto/https://files.mob-cdn.co.uk/recipes/2024/05/Air-Fryer-Tikka-Chicken-1.jpg"
+    },
+    {
+        "name": "Air Fryer Chipotle Tomato Tostadas with Feta & Limey Pickles",
+        "ingredients": "½ Red Onion\n3 oz Radishes\n1 Lime\n1 Avocado\n6 Corn Tortillas\n½ oz Coriander\n1 Jalapeño\n1 Tbsp Chipotle Paste\n12 oz Cherry Tomatoes\n1 oz Feta\n2 Tbsp Greek Yogurt\n1 Tbsp Olive Oil\nSugar, to serve",
+        "directions": "Finely slice the red onion and radishes, then add to a bowl with the juice of ½ a lime, salt and sugar, if using. Give them a massage with your hands and set aside to turn bright pink.\nGet your tortillas into the air fryer and cook them for around 5 mins in 1 min bursts, flattening them out each time so they don't curl up too much. Once crisp, remove them from the air fryer to cool, they will also firm up as they cool.\nHalve the avocado, remove the pit and scoop into a processor along with the yogurt, coriander stalks, and the remaining lime juice. Season generously with salt and pepper then blitz smooth. Finely dice the jalapeño and mix through, removing the seeds if you like it less spicy.\nAdd the tomatoes to a bowl with the chipotle paste and the olive oil. Season with salt and pepper then pop in the air fryer at 160°C for 20 mins. They should be nicely jammy with charred edges.\nSpread the avocado onto the crisp tortilla and top with the roast tomatoes. Crumble over the feta, scatter with coriander and top with the pickles.",
+        "notes": "Cook time 35 min",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "Mob.co.uk",
+        "imageUrl": "https://www.mob.co.uk/cdn-cgi/image/width=640,quality=75,format=auto/https://files.mob-cdn.co.uk/recipes/2024/05/Air-Fryer-Chipotle-Tomato-Tostadas-with-Feta-Limey-Pickles.jpg"
+    },
+    {
+        "name": "Air Fryer Salmon Tacos With Mango Chipotle Glaze",
+        "ingredients": "4 Skinless Salmon Filets\n2 Tbsp Mango Chutney\n1 Tbsp Chipotle Paste\n1 Cabbage, shredded\n1 Red Onion\n1 oz Fresh Dill\n2 Limes\n3 oz Spring Onions\n1 Scotch Bonnet Chili\n8 Small Corn Tortillas\n3 Tbsp Sour Cream\nOlive Oil\nRadish, to serve",
+        "directions": "Preheat the air fryer to high (400°F).\nDice the salmon into medium-sized cubes (about 3 per filet). Season the salmon with salt and pop into a parchment lined pan or a tray. Mix together the chutney and the chipotle paste and tip over the salmon. Pop into the airfryer for 8-10 mins or until fully cooked, spooning any extra marinade over the fish as it cooks.\nThinly slice the cabbage and red onion and chuck into a bowl. Dress with a little salt and lime juice and toss through chopped dill. Thinly slice the scotch bonnet, season with salt and squeeze a little lime juice over the top.\nHeat the tacos according to the package instructions.\nPull the fish out of the oven, it should be cooked and glazed in the spicy, smoky mango chipotle mix. (Flake it into smaller pieces, if you like.)\nBuild your tacos starting with the shells, topped with sour cream, some fish, a handful of slaw, the chilies and chopped spring onion and radishes.",
+        "notes": "Cook time 20 min",
+        "yields": "8 small tacos",
+        "category": "Dinner",
+        "original_author": "Mob.co.uk",
+        "imageUrl": "https://files.mob-cdn.co.uk/recipes/2024/03/_800x418_crop_center-center_82_none/Air-Fryer-Fish-Tacos.jpg?mtime=1710329852"
+    },
+    {
+        "name": "Any Fruit Salad",
+        "ingredients": "Fruit of Choice\nLime Juice\nHoney\nTo Match Sample Image:\nStrawberries\nCherries\nPineapple\nMango\nKiwi\nNectarine",
+        "directions": "Chop fruits of choice into small cubes and try to cut them to the same general size.\nDrizzle with honey and lime juice to lightly sweeten and help the fruit last a bit longer.\nMix and serve!",
+        "notes": "",
+        "yields": "",
+        "category": "Sides, Salads, and Breads",
+        "original_author": "",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRJl30Whtbna6vx1xHi9uBfH-WLNBfFMSREg&s"
     },
     {
         "name": "Apple Balsamic Chicken",
@@ -148,6 +188,16 @@
         "category": "Breakfast",
         "original_author": "@Tasteless Baker",
         "imageUrl": "https://preppykitchen.com/wp-content/uploads/2023/01/Bagel-Recipe-Recipe-Card.jpg"
+    },
+    {
+    "name": "Baked Caramelized Onion Pasta",
+    "ingredients": "3 Yellow Onions, large and sliced\n1 head Garlic, top sliced off\n½ cup Sun Dried Tomatoes + Oil, chopped\n1 tsp Salt\n1 tsp Black Pepper\n1 Tbsp Paprika\n1 tsp Parsley, dried\n½ cup Heavy Cream, or coconut milk\n2 Tbsp Balsamic Vinegar\n3 cups Farfalle Pasta, cooked\n1 handful Parsley, fresh and chopped\n1 handful Basil, fresh and chopped\n1 Lemon, juiced",
+    "directions": "Preheat the oven to 400F.\nTo a casserole dish, add the onions, sun dried tomatoes, balsamic vinegar, paprika, salt, pepper and dried parsley.\nToss, and then place the whole garlic head in the middle. Drizzle the entire dish with olive oil or the leftover sun dried tomato oil, cover with foil, and then pop in the oven for 1 hour, tossing halfway through. The onions should be caramelized by the time it comes out of the oven.\nAbout 20 minutes before the casserole dish is done, prepare the pasta according to package directions, reserving up to a cup of pasta water.\nRemove the garlic from the casserole dish, and when safe to handle, squeeze out the cloves. Add the fresh parsley, basil, lemon juice and heavy cream, along with the cooked pasta and pasta water as needed. Stir and enjoy!",
+    "notes": "Prep time 10 min and Cook time 60 min",
+    "yields": "",
+    "category": "Dinner",
+    "original_author": "plantyou.com",
+    "imageUrl": "https://plantyou.com/wp-content/uploads/2022/09/DSC02206-500x375.jpg"
     },
     {
         "name": "Baked Chicken Breasts",
@@ -360,6 +410,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Blackened Chicken with Tomato Parmesan Cream Sauce",
+        "ingredients": "4 Chicken Breasts\n2 Tbsp Olive Oil\n1 Lemon, juiced\nBlackening Seasoning:\n2 Tbsp Paprika\n1 Tbsp Garlic Powder\n1 Tbsp Onion Powder\n1 Tbsp Dried Thyme\n1 Tbsp Dried Oregano\n2 tsp Black Pepper\n1 tsp Salt\n1/2 tsp Cayenne Pepper\nTomato Parmesan Cream Sauce:\n1/4 cup Sundried Tomatoes, removed from the oil and chopped\n4 Garlic Cloves, minced\n½ tsp Red Pepper Flakes\n½ tsp Italian Seasoning\n½ cup Chicken Stock\n½ cup Heavy Cream\n½ cup Parmesan Cheese, shredded\nSalt & Pepper, to taste\nFresh Basil, garnish",
+        "directions": "Preheat the oven to 375 F.\nIn a bowl, combine all of the dry spices to create the blackened seasoning.\nRemove the chicken from the packaging and pat it dry with paper towels to remove excess moisture. Lightly coat each chicken breast in olive oil. Generously season all sides of each chicken breast and set it aside.\nPreheat a cast iron skillet to medium-high heat on the stovetop (if not using a cast iron pan make sure you have a pan that can go from the stove to the oven).\nAdd 1 tbsp of the olive oil and let it preheat in the pan (do not let it get too hot so that it starts smoking). Place each chicken breast down into the skillet and let it cook for 3 minutes or until it easily lifts from the pan and can be flipped.\nOnce you flip each chicken breast, turn off the stove and carefully transfer the pan into the oven for 15 minutes to finish cooking. Use a thermometer to check that the chicken is cooked to an internal temperature of 165 F.\nRemove from the oven and let it rest for 5 minutes before slicing. Add a little lemon juice over the top or make the Tomato Parmesan Cream Sauce in the following steps.\nRemove the chicken from the skillet and set it aside to rest. Place the skillet back onto the heat and leave any drippings and seasoning in the pan.\nOver medium-low heat, add in the chopped sundried tomatoes, garlic, red pepper flakes, and Italian seasoning. Sauté a few minutes to develop the aromatic flavors in the spices.\nPour in the chicken stock and heavy cream and continue to whisk over the heat for a few minutes to bring it up to temperature. Do not boil.\nOnce the liquid is hot, reduce the heat fully to low. Slowly add in the parmesan cheese and whisk well before adding more. Let the cheese melt and thicken the sauce.\nRemove it from the heat and serve over the top of the sliced chicken. Garnish with basil if desired.",
+        "notes": "",
+        "yields": "4 servings",
+        "category": "Dinner",
+        "original_author": "Bon Appeteach",
+        "imageUrl": "https://cdn-bbjbp.nitrocdn.com/SSVGAtCYdWRWEpvOJtLKRideiHOVcuRT/assets/images/optimized/rev-e8ae88b/www.bonappeteach.com/wp-content/uploads/2024/01/Blackened-Chicken-Recipe-10-1024x1536.jpg.webp"
+    },
+    {
         "name": "Blueberry Freezer Jam",
         "ingredients": "3 cups Blueberries\n1/2 cup Sugar\n2 Tbsp Lemon Juice\n2 Tbsp Pectin",
         "directions": "Mix blueberries, sugar and lemon juice in saucepan.\nSimmer over low heat.\nMash fruit.\nStir in pectin.\nPour in jars and leave a 1/2 inch at the top.\nBoil water and then put jars in for 10+ minutes to seal the tops.",
@@ -520,6 +580,16 @@
         "imageUrl": "https://onebalancedlife.com/wp-content/uploads/2022/11/Buffalo-Taquitos-Plate-768x1024.jpg"
     },
     {
+        "name": "Buldak Carbonara Ramen",
+        "ingredients": "1 package Buldak Ramen\n1½ Tbsp Kewpie Mayo\n1 Egg Yolk\n1 tsp Chili Oil\n½ cup Green Onions, chopped",
+        "directions": "Start by boiling noodles according to the instructions on the package. To add some texture, pull a Jake Peralta and save a few uncooked noodle crumbles as a topping.\nChop half a cup of green onions.\nMix the Buldak seasoning packets, egg yolk, and mayo in serving bowl.\nAdd cooked and drained noodles to serving bowl. Mix everything up, top it off with chili oil, green onions, and crunchy noodles.",
+        "notes": "Cook time 10 min",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "AmateurProChef",
+        "imageUrl": "https://i0.wp.com/amateurprochef.com/wp-content/uploads/2024/10/Screenshot-2024-10-10-at-11.25.01-AM.jpg?w=556&ssl=1"
+    },
+    {
         "name": "Bulgogi Pork Tenderloin with Roasted Carrots & Lemony Rice",
         "ingredients": "12 oz Carrots\n1 Lemon\n2 Scallions\n1/2 cup Jasmine Rice\n10 oz Pork Tenderloin\n4 oz Bulgogi\n1 Tbsp Sesame Seeds",
         "directions": "Adjust rack to top position and preheat oven to 425 degrees. Wash and dry produce. Trim, peel, and cut carrots into 1/2-inch-thick rounds. Zest and quarter lemon. Trim and thinly slice scallions, separating whites from greens.\nRice: In a small pot, combine rice, 3/4 cup water, and a big pinch of salt. Bring to a boil, then cover and reduce to a low simmer. Cook until rice is tender, 15-18 minutes. Keep covered off heat until ready to serve. Fluff rice with a fork. Stir in half the lemon zest (add more zest if you like), 1 Tbsp butter, and a squeeze of lemon juice; season with salt and pepper.\nCarrots: While rice cooks, toss carrots on one side of a baking sheet with a drizzle of olive oil, salt, and pepper. Roast on top rack for 10 minutes. Once carrots have roasted 10 minutes, remove sheet from oven. Flip carrots and put back in oven until carrots are tender, 10-12 minutes more.\nPork: Meanwhile, pat pork dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium heat. Add pork; sear, turning occasionally, until browned all over, 4-8 minutes. Carefully place seared pork on empty side of carrot pan. Cook until pork is tender (10 to 12 minutes). TIP: If carrots are done before pork, remove from sheet and continue roasting pork.\nWhen pork and carrots have 5 minutes left, melt 1 Tbsp butter in pan used for pork over medium-high heat. Add scallion whites and cook until fragrant, 1-2 minutes. Stir in bulgogi sauce and 1 Tbsp water. Bring to a simmer, stirring, until warmed through, 2-3 minutes. Turn off heat. TIP: If sauce is too thick, stir in a splash more water.\nThinly slice pork crosswise. Divide rice, pork, and carrots between plates. Drizzle pork with sauce. Sprinkle with scallion greens and sesame seeds. Serve with remaining lemon wedges on the side.",
@@ -650,6 +720,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Caramel in a Jar",
+        "ingredients": "1½ cups Sugar\n1½ cups Brown Sugar\n1 cup Light Corn Syrup\n⅔ cup Butter\n1⅓ cups Heavy Whipping Cream",
+        "directions": "Combine all ingredients except whipping cream in 3-quart heavy saucepan. Cook over medium heat, stirring occasionally, 15-20 minutes or until mixture comes to a full boil. Stir in whipping cream; continue cooking 1 minute. Cool 5 minutes.\nPour mixture into 5 (8-ounce) jars. Cool 15 minutes; cover. Store refrigerated.\nMicrowave, stirring occasionally, 30-60 seconds or until warm. Serve over ice cream.",
+        "notes": "Prep Time: 5 min | Total Time: 40 min\nhttps://www.landolakes.com/recipe/17142/caramel-silk-in-a-jar/",
+        "yields": "5 Jars",
+        "category": "Desserts",
+        "original_author": "Land O Lakes and Cindy Remer",
+        "imageUrl": "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/02/Salted-Caramel-Sauce-0728.jpg"
+    },
+    {
         "name": "Caramel Oatmeal Bars",
         "ingredients": "Base:\n1½ cups All-Purpose Flour\n3/4 cup Brown Sugar, packed\n1/2 cup Quick-Cooking Rolled Oats\n1/2 cup Butter or Margarine\n1 Egg, beaten\n1/2 cups Pecans, chopped\nTopping:\n1¼ cups Milk or Sweetened Condensed Milk\n25 Soft caramels, unwrapped\n1/4 cup Butter or Margarine",
         "directions": "Preheat oven to 350 F.\nBase: in a large bowl, mix together flour, brown sugar and oats. Using two knives, a pastry blender or your fingers, cut butter in until mixture resembles coarse crumbs.\nAdd egg and mix until blended. Stir in pecans. Set aside 1½ cups and press remainder evenly into prepared pan. Bake in preheated oven for 15 to 18 minutes or until lightly browned. Place pan on rack to cool slightly.\nTopping: In a sauce pan, over low heat, melt caramels with milk, stirring constantly until smooth. Pour over baked base. Sprinkle reserved crumb mixture evenly over top. Bake 20 to 25 minutes longer, until bubbly and golden brown. Place pan on a rack to cool completely, then cut into bars.",
@@ -670,6 +750,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Caramelized Onion Dip",
+        "ingredients": "2 Onions, large\n3 Garlic Cloves\n1 Tbsp Butter\nSalt and Pepper\n1 Tbsp Rosemary\n1 tsp Sugar\n1 Tbsp Balsamic Vinegar\n2 handfuls of Cheese\n1 tsp Onion Powder\n12 oz Cream Cheese\n3 Tbsp Yogurt\n2 Tbsp Mayo\n2 Tbsp Nutritional Yeast\nDrizzle of oil for the top\nSprinkle of Smoked Paprika, for topping\nFresh Chives",
+        "directions": "Start by cooking off your onions in the butter over a medium heat. You want them to caramelize so it should take up to 20 mins.\nThen add in the garlic, rosemary, sugar, salt, balsamic vinegar and pepper and cook for a few minutes more.\nOnce cooked, add it to a bowl with the onion powder, cheese, cream cheese, mayo, yogurt and yeast and mix well.\nPour it into a bowl or ramekin and top with more cheese, some oil and paprika and bake for 15 mins or until bubbling. Dip in some bread and enjoy!!",
+        "notes": "",
+        "yields": "",
+        "category": "Sauces",
+        "original_author": "@nomeatdisco",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiZ2UPt-TlWFEa_86mXMX5T5OifF9GGqvESA&s"
+    },
+    {
         "name": "Caramels",
         "ingredients": "2 cups Sugar\n2 cups Light Corn Syrup\n1 tsp Vanilla\n1 Tbsp Margarine\n1 (13 oz) can Evaporated Milk",
         "directions": "Combine sugar and syrup.\nBring to a boil and add butter.\nAdd milk, a little at a time.\nContinue cooking slowly so boiling never ceases, stirring constantly.\nBoil to firm ball stage, 242 degrees.\nAdd vanilla (and pour over nuts which have been scattered at the bottom of a well oiled cookie sheet.)\nLet stand several hours.\nTurn out onto wax paper and cut into squares.\nWrap in wax paper.",
@@ -678,6 +768,16 @@
         "category": "Desserts",
         "original_author": null,
         "imageUrl": "https://bellyfull.net/wp-content/uploads/2020/12/Caramels-blog.jpg"
+    },
+    {
+        "name": "Carrot Rice",
+        "ingredients": "5 Tbsp Olive Oil\n1 Carrot, grated\n½ Onion, chopped\n2 cups Basmati Rice\n3 cups Water\n1 Stock Cube\nSalt, to taste",
+        "directions": "Wash and grate the carrot. Chop the onion into small bits.\nMeasure out your rice and rinse several times in water until the water runs clear.\nPour olive oil into a pot and bring to medium-high heat. Fry the carrots and onion in the oil for about 5 minutes, stirring it every so often.\nAdd in the rice and fry for another 5 minutes, stirring it every so often.\nAdd in the water and once it starts boiling add the stock cube and salt to taste. Cover with a lid and tin foil and cook on very low heat for 15 minutes.",
+        "notes": "",
+        "yields": "",
+        "category": "Sides, Salads, and Breads",
+        "original_author": "@justinaarthur",
+        "imageUrl": "https://braziliankitchenabroad.com/wp-content/uploads/2020/01/carrot-rice-5.jpg"
     },
     {
         "name": "Cavatappi Beef Ragu with Parmesan & Parsley",
@@ -783,7 +883,7 @@
     {
         "name": "Cherry Tomato & Basil Pasta",
         "ingredients": "1/2 lb. Pasta\n1 cup Heavy Cream\n3/4 cup Parmesan Cheese, grated\n1 Tbsp Tomato Paste\n4-6 Garlic Cloves, minced\n1/4 cup Chicken Stock\n1 tsp Chili Flakes\n2 tsp Pepper\nSalt, to taste\n4 Tbsp Olive Oil or Unsalted Butter\n1½ cups Cherry Tomatoes, halved\n2 Tbsp Basil, fresh and chopped\n⁠1 tsp Oregano, fresh\nFor Serving: 2 Tbsp Parsley, fresh and chopped\nMozzarella Pearls (about 5 per serving)\nChili Flakes, to taste\nOlive Oil Drizzle",
-        "directions": "Bring a pot of water to a boil. Add about 1 tablespoon of salt and cook the pasta according to package instructions until al dente. Drain, reserving 1 cup of the pasta water.\n⁠Heat a large skillet over medium heat. Add olive oil and minced garlic; sauté for 30 seconds. Add the cherry tomatoes and toss well.\n⁠Pour in the white wine, add salt, black pepper and chili flakes, and cook until most of the liquid has evaporated.\n⁠Remove the skins from the cherry tomatoes (Optional), then stir in the tomato paste.\n⁠Pour in the heavy cream and add 1/4 cup of the grated Parmesan, stir in the fresh basil and oregano, mix well and reduce the heat.\n⁠Add the half-cooked pasta to the skillet, along with the remaining Parmesan Cheese. Add about 1/4 cup of the reserved pasta water and stir everything together. Continue stirring until the pasta is fully cooked and the sauce is thick and creamy (add more pasta water gradually if needed to adjust the sauce consistency).\nServe the pasta in bowls, garnished with chopped parsley, Mozzarella pearls, additional chili flakes, and a drizzle of olive oil.\n⁠Finish with a sprinkle of grated Parmesan and serve warm. Enjoy!",
+        "directions": "Bring a pot of water to a boil. Add about 1 tablespoon of salt and cook the pasta according to package instructions until al dente. Drain, reserving 1 cup of the pasta water.\n⁠Heat a large skillet over medium heat. Add olive oil and minced garlic; sauté for 30 seconds. Add the cherry tomatoes and toss well.\n⁠Pour in the chicken stock, add salt, black pepper and chili flakes, and cook until most of the liquid has evaporated.\n⁠Remove the skins from the cherry tomatoes (Optional), then stir in the tomato paste.\n⁠Pour in the heavy cream and add 1/4 cup of the grated Parmesan, stir in the fresh basil and oregano, mix well and reduce the heat.\n⁠Add the half-cooked pasta to the skillet, along with the remaining Parmesan Cheese. Add about 1/4 cup of the reserved pasta water and stir everything together. Continue stirring until the pasta is fully cooked and the sauce is thick and creamy (add more pasta water gradually if needed to adjust the sauce consistency).\nServe the pasta in bowls, garnished with chopped parsley, Mozzarella pearls, additional chili flakes, and a drizzle of olive oil.\n⁠Finish with a sprinkle of grated Parmesan and serve warm. Enjoy!",
         "notes": "",
         "yields": "",
         "category": "Dinner",
@@ -979,6 +1079,16 @@
         "category": "Dinner",
         "original_author": "Mel's Kitchen Cafe",
         "imageUrl": "https://www.melskitchencafe.com/wp-content/uploads/2008/08/ChickenZucchiniPSD.jpg"
+    },
+    {
+        "name": "Chick-fil-a Sauce",
+        "ingredients": "1/4 cup Dukes Mayo\n1 tsp Yellow Mustard\n1 Tbsp Honey\n1 Tbsp Sweet Baby Rays BBQ sauce",
+        "directions": "Mix all ingredients. Serve with nuggets!",
+        "notes": "",
+        "yields": "",
+        "category": "Sauces",
+        "original_author": "",
+        "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-11-chick-fil-a-sauce%2Fchick-fil-a-sauce-11"
     },
     {
         "name": "Chimichangas",
@@ -1241,6 +1351,16 @@
         "imageUrl": "https://bakerbynature.com/wp-content/uploads/2016/03/IMG_7694-7-3.jpg"
     },
     {
+        "name": "Cookie Dough Pretzel Bites",
+        "ingredients": "½ cup Butter, softened\n⅔ cup Brown Sugar\n¼ cup Milk\n1 tsp Vanilla Extract\n1½ cups All-Purpose Flour, heat treated\n½ cup Mini Chocolate Chips\nFor dipping:\n¾ cup Chocolate Chips, melted\n1 Tbsp Vegetable Oil",
+        "directions": "In a microwave safe bowl, microwave your flour for 60-90 seconds, stirring halfway through. Set aside to cool completely.\nIn a medium mixing bowl, cream together softened butter and brown sugar. Once smooth, mix in the milk and vanilla extract.\nSprinkle in the heat-treated flour and mix to form a dough. Fold in mini chocolate chips.\nPlace the dough in the freezer for 10 minutes to make it less sticky, then working one by one, roll the dough into ½ inch balls.\nPlace the cookie dough balls on a baking sheet lined with parchment paper or a silicone mat.\nWorking one by one, sandwich each cookie dough ball between 2 pretzels and place back on the prepared baking sheet.\nCombine your semi-sweet chocolate and vegetable oil in a microwave safe bowl and microwave in 30 second intervals until melted and smooth.\nDip each cookie dough stuffed pretzel halfway into the melted chocolate, then return to the prepared baking sheet.\nTransfer to the fridge (or freezer) to let the chocolate harden before serving.",
+        "notes": "Cook time 30 min",
+        "yields": "",
+        "category": "Desserts",
+        "original_author": "Dang That’s Sweet",
+        "imageUrl": "https://dangthatssweet.com/wp-content/uploads/2024/06/IMG_9097-886x1536.jpg"
+    },
+    {
         "name": "Corn Off the Cob",
         "ingredients": "2 Ears of Corn, cooked\n1/4 cup Mayonnaise\n1 tsp Paprika\n1/2 Lime, juiced\n2 Tbsp Cilantro, chopped\n1/4 wedge Manchego Cheese",
         "directions": "To cut the corn, use a bundt pan or place a can inside a large salad bowl. Place the corn on top of the can or the center of the bundt pan and cut downwards to remove the kernels.\nAdd mayo, lime juice, paprika, cheese and cilantro to the corn, Stir until well incorporated.\nTransfer to a paper cup. Top with a sprinkling of cheese and paprika.",
@@ -1392,7 +1512,7 @@
     },
     {
         "name": "Creamy Dijon Rosemary Chicken",
-        "ingredients": "2 Chicken Breasts, large and cut in half lengthwise\nFlour, for dredging\n1 Tbsp Olive Oil\n1 Tbsp Butter\n3 sprigs Fresh Rosemary\n1/2 cup White Wine\n3 Garlic Cloves, minced\n3 Tbsp Dijon Mustard\n1 cup Heavy Cream\nSalt & Pepper, to taste",
+        "ingredients": "2 Chicken Breasts, large and cut in half lengthwise\nFlour, for dredging\n1 Tbsp Olive Oil\n1 Tbsp Butter\n3 sprigs Fresh Rosemary\n1/2 cup Chicken Stock\n3 Garlic Cloves, minced\n3 Tbsp Dijon Mustard\n1 cup Heavy Cream\nSalt & Pepper, to taste",
         "directions": "Heat the olive oil and butter over medium-high heat in a large skillet.\nCut the chicken breasts in half lengthwise so you’re left with four thinner cutlets. Dredge each piece in flour. Fry the chicken for 5 minutes per side and then remove it from the pan and set it aside.\nRemove the rosemary needles from the stems and add the needles to the pan. Let the rosemary cook for about a minute.\nAdd the wine, garlic, and Dijon Mustard. Stir it until you have a smooth sauce, and then add the cream and chicken back in the pan. Cook for another 8-10 minutes over medium-low heat until the chicken is cooked through and the sauce has thickened. Season with salt and pepper as desired.",
         "notes": "Prep time 5 min and Cook time 20 min",
         "yields": "4 servings",
@@ -1641,6 +1761,26 @@
         "imageUrl": "https://lifestyleofafoodie.com/wp-content/uploads/2023/01/Crumbl-lemon-cheesecake-cookies-19.jpg"
     },
     {
+        "name": "Crushed Potato Pie",
+        "ingredients": "2 Potatoes, large\n2 Tbsp Olive Oil\nSalt & Pepper, to taste\n50g Mozzarella\n8 Cherry Tomatoes, halved\n2 Shallots, sliced\nHandful of Spinach, wilted\n2 Eggs\n2 Tbsp Cream Cheese\n½ tsp Garlic Powder\n½ tsp Nutmeg\n50ml Milk\nParmesan & Basil leaves, for garnish",
+        "directions": "Boil potatoes, then transfer to a 20cm greased baking tin and crush. Press firmly, creating the sides. Drizzle with olive oil, sprinkle with salt, and bake at 390F for 40-45 min.\nAdd mozzarella, tomatoes, shallots, and spinach.\nWhisk eggs, cream cheese, salt, pepper, nutmeg, garlic powder, and milk. Pour over the potato base.\nBake for 30-35 min until settled.\nSprinkle Parmesan, garnish with basil.",
+        "notes": "",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "@shicocooks",
+        "imageUrl": "https://theculinarychase.com/wp-content/uploads/2024/08/C2BC744E-5AE0-4C5B-883D-D93118177753-899x1024.jpg"
+    },
+    {
+        "name": "Cucumber Honey Pepper Chicken Sandwich",
+        "ingredients": "Ciabatta Baguette\nSour Cream\nFresh Chives\nLemon Pepper Sauce:\n3 Tbsp Butter\n½ Lemon, juiced\n2 Tbsp Soy Sauce\n1 tsp Pepper\n½ tsp Salt\n2 Tbsp Honey\n2 tsp Chili Crunch\nCucumber Salad:\n¼ - ½ Cucumber, thinly sliced\n½ Red Onion, thinly sliced\n¼ - ½ cup Vinegar\n2 tsp Chili Crunch\n½ tsp Pepper\n1 tsp Salt\n2 tsp Olive Oil\n1 Tbsp Honey",
+        "directions": "Air Fried Chicken: Take 2 chicken thighs and dredge them in flour, egg, then crushed corn flakes. Spray with an oil spray and get it in your air fryer at 385 for 16 minutes flipping halfway through. Cook till an internal of 165F is reached.\nLemon Pepper Sauce: In a pan add butter, lemon, soy sauce, black pepper, and honey. Heat and mix till thickened and sticky. Serve warm or it will get too solid to coat chicken.\nCucumber Salad: In a container, add cucumber, red onion, salt pepper, olive oil, white balsamic vinegar, honey, (chili crunch optional). Close lid and shake well.\nAssembly: Slice ciabatta in half and add honey coated chicken, a layer of cucumbers, and a drizzle of sour cream with chives.",
+        "notes": "Couldn’t find a good image. I promise the sandwich looks more appetizing than the sample image",
+        "yields": "2 sandwiches",
+        "category": "Dinner",
+        "original_author": "@donaldo_cooks",
+        "imageUrl": "https://supermancooks.com/wp-content/uploads/2014/04/buffalo-chicken-sandwich-finished.jpg"
+    },
+    {
         "name": "Darcy's Cheese Bread",
         "ingredients": "4 cups Flour\n2 cups Water\n1 Tbsp Salt\n1 Tbsp Yeast\n2 cups Cheddar Cheese, grated",
         "directions": "Place warm water in mixer with yeast. stir to combine. Wait to add next ingredients until you see bubbling.\nAdd salt and flour.\nKnead for 8 minutes.\nLet rise in greased bowl for 1 hour or until doubled.\nTurn out on flat surface. Roll into a rectangle. Divide into two equal parts. Spread the cheese on each section and roll tightly. Cover both loaves.\nLet rise for about 45 minutes.\nHeat oven to 425F.\nSpritz bread dough with water and slice openings in the top.\nBake for 30 minutes rotating once.\nPlace on cooling rack.",
@@ -1840,6 +1980,16 @@
         "category": "Desserts",
         "original_author": "Tastemade",
         "imageUrl": ""
+    },
+    {
+        "name": "Emergency Gyoza Soup",
+        "ingredients": "2 cups Water\n4 Pork Gyozas\n1 Chicken or Beef Stock Cube\n1 Tbsp Soy Sauce\n1 Tbsp Balsamic Vinegar\n1 tsp Crispy chili Oil\n1 Egg\n3 Spring Onions\n1 tsp Sesame Seeds",
+        "directions": "Bring the water to a boil over a medium heat. Boil your frozen gyoza in the water for 2 mins (1 min less than the stated cooking time).\nMeanwhile, add the soy sauce, balsamic vinegar, crispy chili oil to a mixing bowl, crumble in the stock cube and give it a mix.\nFinely slice your spring onions. Crack the egg into a separate bowl and give it a whisk.\nStrain out the cooked gyoza from the pot of water and set aside. Add the ingredients in the mixing bowl to the cooking water (this will form the base of your soup).\nReduce the heat to low and drizzle in the egg to form thin wispy strands of egg, stirring continuously as you go.\nAdd the gyoza back in. Divide between bowls and top with sliced spring onions and sesame seeds.",
+        "notes": "Cook time 10 min",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "Mob.co.uk",
+        "imageUrl": "https://www.mob.co.uk/cdn-cgi/image/width=640,quality=75,format=auto/https://files.mob-cdn.co.uk/recipes/2024/04/Emergency-Gyoza-Soup.jpg"
     },
     {
         "name": "Everyone's Favorite No-Bake Cookies",
@@ -2092,6 +2242,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Gnocchi Carbonara",
+        "ingredients": "6 oz Pancetta\n1½ oz Pecorino\n1½ oz Parmesan\n5 Egg Yolks\nPinch of Ground Nutmeg\n16 oz Gnocchi",
+        "directions": "Dice the pancetta. Add it to a cold frying pan set over a medium heat and cook until it’s rendered and crisp. Take off the heat and set aside.\nGrate the pecorino and Parmesan cheeses. Whisk together the eggs, egg yolks, grated cheeses, black pepper and nutmeg in a bowl.\nCook the gnocchi following pack instructions then drain, saving the water.\nAdd the gnocchi to the pancetta, then add the egg yolk mixture with a splash of the cooking water. Mix vigorously until emulsified.\nTo serve, top with some extra grated Parmesan and some more black pepper, if you like.",
+        "notes": "Cook time 15 min",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "Mob.co.uk",
+        "imageUrl": "https://www.insidetherustickitchen.com/wp-content/uploads/2021/02/Gnocchi-Carbonara-1200px-3-Inside-the-Rustic-Kitchen.jpg"
+    },
+    {
         "name": "Gorgonzola Cheese Sauce",
         "ingredients": "Gorgonzola Cheese, crumbled\n1 Tbsp Cream\n1/2 tsp Mayo",
         "directions": "Simply mix the three ingredients together and serve with fries or chicken nuggets.",
@@ -2172,6 +2332,16 @@
         "imageUrl": "https://www.chelseasmessyapron.com/wp-content/uploads/2019/08/Grilled-Peaches-9.jpg"
     },
     {
+        "name": "Grilled Southwestern Steak Salad",
+        "ingredients": "1 Beef Top Sirloin Steak, 1-inch thick and 3/4 pound\n¼ tsp Salt\n¼ tsp Ground Cumin\n¼ tsp Pepper\n3 Poblano Peppers, halved and seeded\n2 ears Sweet Corn, husks removed\n1 Sweet Onion, cut into 1/2-inch rings\n1 Tbsp Olive Oil\n2 cups Bow Tie Pasta, uncooked\n2 Tomatoes, large\nDRESSING:\n¼ cup Lime Juice\n1 Tbsp Olive Oil\n¼ tsp Salt\n¼ tsp Ground Cumin\n¼ tsp Pepper\n1-2 Tbsp Cilantro, fresh and chopped",
+        "directions": "Rub steak with salt, cumin and pepper. Brush poblano peppers, corn and onion with oil.\nGrill steak, covered, over medium heat or broil 4 in. from heat 6-8 minutes on each side or until meat reaches desired doneness (for medium-rare, a thermometer should read 135°; medium, 140°; medium-well, 145°). Grill vegetables, covered, 8-10 minutes or until crisp-tender, turning occasionally.\nCook pasta according to package directions. Meanwhile, cut corn from cob; coarsely chop peppers, onion and tomatoes. Transfer vegetables to a large bowl.\nIn a small bowl, whisk lime juice, oil, salt, cumin and pepper until blended; stir in cilantro.\nDrain pasta; add to vegetable mixture. Drizzle with dressing; toss to coat. Cut steak into thin slices; add to salad.",
+        "notes": "Low Salt recipe",
+        "yields": "4 servings",
+        "category": "Dinner",
+        "original_author": "Taste of Home",
+        "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps89145_SD153321D01_29_2b-11.jpg?fit=300,300&webp=1"
+    },
+    {
         "name": "Guiltless Alfredo Sauce",
         "ingredients": "2 cups Low-Fat Milk\n1/3 cup (3 oz) Low Fat Cream Cheese\n2 Tbsp Flour\n1 tsp Salt\n1 Tbsp Butter\n3 Garlic Cloves, minced\n1 Cup Parmesan Cheese, grated\nPasta, to serve with",
         "directions": "In a blender, blend the milk and cream cheese, flour, and salt until smooth and set aside.\nIn large bowl saucepan, melt butter on medium-high heat and add the garlic.\nSaute for about 30 seconds, stirring constantly.\nAdd milk mixture. Stir constantly for 3-4 minutes or until it just starts to simmer.\nKeep cooking and stirring a few more minutes until thickened.\nOnce thickened, remove from heat and whisk cheese in.\nCover and let stand 10 minutes before serving over pasta.",
@@ -2250,6 +2420,16 @@
         "category": "Sides, Salads, and Breads",
         "original_author": "Tastemade",
         "imageUrl": "https://assets.tastemadecdn.net/images/0d23e3/f1e23e4643bbc3ec2fae/108380.png"
+    },
+    {
+        "name": "Hidden Vegetable Hamburger Helper",
+        "ingredients": "2 Tomatoes\n2 Celery Stalks\n1 Zucchini\n1 Carrot, large\n1 Onion\n4 Garlic Cloves\n1 lb Ground Beef\n2 Tbsp Olive Oil\n1 Tbsp Garlic Powder\n1 Tbsp Salt\n1 tsp Black Pepper\n½ tsp Mustard Powder\n½ tsp Paprika\n¼ cup Tomato Paste\n2 cups Broth\n¼ cup Heavy Cream\n1½ cups Cheddar Cheese, grated\n1 lb Pasta\nParmesan",
+        "directions": "Start by prepping all of the vegetables: roughly chop the tomatoes, zucchini, onion, celery, carrot and garlic.\nBrown the beef over medium heat in a skillet or pot and season with all of the seasonings: garlic powder, salt, pepper, mustard powder and paprika. Continue to stir as the beef cooks through (about 5 minutes). Remove the beef using a slotted spoon and reserve on the side for later.\nIn the same skillet/pot, you can add a touch more olive oil if needed (if you’re using a more lean ground beef there won’t be as much fat left in the pan). Sautée the onion, carrots and celery first for about 5 minutes, or until slightly softened. Add in the garlic and stir for another 2 minutes.\nNext, add in the chopped tomato and chopped zucchini and season with salt. Stir to combine and continue cooking for a few more minutes. Add in the tomato paste and stir. Let this cook (while you stir occasionally) for about 3-4 minutes.\nAdd in the stock/broth, bring to a bubble, and then let simmer for about 10 minutes, or until everything is slightly softened. Carefully blend using an immersion blender or a regular blender and transfer back to the skillet/pot.\nMeanwhile, boil water and cook small pasta of your choice in heavily salted water. Cook until al dente.\nFinish the blended vegetable sauce with heavy cream, the browned ground beef, and grated cheddar cheese. Stir to combine until smooth over low heat.\nTransfer the cooked pasta into the sauce and enjoy! Option to top with parmesan and basil.",
+        "notes": "Prep time 10 min and Cook time 30 min",
+        "yields": "4 to 6 servings",
+        "category": "Dinner",
+        "original_author": "Brita Cooks",
+        "imageUrl": "https://britacooks.com/wp-content/uploads/2024/07/Hidden-Vegetable-Hamburger-Helper-17.jpg"
     },
     {
         "name": "Homemade Play-Dough",
@@ -2360,6 +2540,16 @@
         "category": "Desserts",
         "original_author": "Tastemade",
         "imageUrl": "https://www.tastemade.com/_next/image?url=https%3A%2F%2Ftruffle-assets.imgix.net%2Fpxqrocxwsjcc_4NGKJZz42QQImS2iMakwi2_honeydew-sorbet_landscapeThumbnail_en-US.jpeg&w=1920&q=50"
+    },
+    {
+        "name": "Hot Honey Ranch Chicken Smashburgers",
+        "ingredients": "20g Honey\n1 tsp Hot Sauce\nChili Flakes\n250g Chicken Mince\n1 tsp Garlic Powder\n1 tsp Onion Powder\n1 tsp Smoked Paprika\n2 Cheese Slices, swiss or american\n2 Brioche Buns\nRoundhead lettuce Leaves\n20g Ranch",
+        "directions": "In a bowl, mix together the honey, hot sauce and chili flakes set to one side.\nThen, season the chicken mince with the garlic granules, onion granules and smoked paprika. Split into four equal balls.\nTransfer the balls to a hot pan. Cover with baking paper. Using a spatula or a burger press, flatten the chicken balls into patties. Fry for 8 minutes flipping halfway through.\nDrizzle half of the hot honey over the patties, flip and cook for a further minutes before topping two with the cheese slices. Place the other patty on top and leave in the pan off heat to melt.\nMeanwhile, toast the brioche buns. Top with the lettuce, chicken patties, the ranch sauce and the remaining hot honey.",
+        "notes": "",
+        "yields": "2 burgers",
+        "category": "Dinner",
+        "original_author": "@alexskitchenbangers",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSphr6NjktKkYs6qWldAIxKBySnvbenyBuznA&s"
     },
     {
         "name": "Hummus",
@@ -2852,6 +3042,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Miso Salmon Bites",
+        "ingredients": "2 Salmon Filets\n2 Tbsp Miso\n1 Tbsp Rice Vinegar\n1 Tbsp Mirin\n1 Tbsp Soy Sauce\n¼ tsp Toasted Sesame Oil",
+        "directions": "Please note that this recipe requires a marination time of 1–2 hours.\nIn a large bowl or flat tray, mix the marinade ingredients: 2 Tbsp miso, 1 Tbsp sake, 1 Tbsp mirin, 1 Tbsp soy sauce, and ¼ tsp toasted sesame oil.\nCut salmon into bite sized pieces so they cook faster and evenly. Then, place the salmon in the bowl with the marinade, skin side up if applicable.\nSpoon the marinade on top of the salmon, making sure to coat the sides and skin. Cover and keep it in the refrigerator for 1–2 hours max.\nNext, take the salmon out of the refrigerator and remove any excess marinade; otherwise, the miso may burn.\nGenerously spray the inside of the air fryer with cooking spray or grease it with oiled parchment paper to prevent sticking. Place the salmon bites in the air fryer basket, skin side up if applicable. Spray the top of the salmon bites with oil until lightly covered. Set your air fryer to 400°F and cook for 8 minutes or until caramelized on the outside.\nTake it out of the air fryer and test if the salmon is cooked by flaking the flesh. If it flakes easily, it’s cooked through. Optionally, you can broil the salmon to give it a nice char, if desired. Simply remove a few minutes early and broil in the oven until desired char is reached and internal temp reaches 145F.\nServe: Sprinkle salmon bites with sesame seeds and thinly sliced green onions. Serve over rice with steamed veggies.",
+        "notes": "",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "Just One Cookbook",
+        "imageUrl": "https://jz-eats.com/wp-content/uploads/2023/05/Air-Fryer-Miso-Salmon-Bites.jpg"
+    },
+    {
         "name": "Mom's Pancake Recipe",
         "ingredients": "1 cup Flour\n1 Tbsp Sugar\n2 tsp Baking Powder\n1/2 tsp Salt\n1 cup Milk\n1 Egg\n2 Tbsp Oil",
         "directions": "Mix all dry ingredients in a large mixing bowl.\nMix egg, milk, and oil together in a separate bowl.\nAdd milk, egg, and oil mixture to dry ingredients.\nMix well.",
@@ -3002,6 +3202,16 @@
         "imageUrl": "https://media.olivegarden.com/images/site/ext/pages/_promotions/amazing-alfredo/alfredo-sauce-070920-shd-00.jpg"
     },
     {
+        "name": "Olive Garden Chicken and Gnocchi",
+        "ingredients": "4 Tbsp Butter\n2 Tbsp Olive Oil\n1 cup Celery, 2-3 stalks chopped\n3-4 Garlic Cloves, minced\n1 cup Carrots, shredded\n½ tsp Salt\n½ tsp Black Pepper\n2 tsp Onion Powder\n1 Tbsp Italian Seasoning\n¼ cup Flour\n3 cups Chicken Broth\n3 cups Milk\n1½ cup Heavy Cream\n2 cups Chicken, cooked and shredded\n8 oz Spinach, frozen and chopped\n16 oz Gnocchi",
+        "directions": "In a large pot, over medium heat, melt butter and add olive oil.\nOnce butter is melted, add in celery and cook for 5-7 minutes until soft.\nAdd garlic and stir for 30 seconds, then add in carrots. Season with salt, pepper, onion powder, and Italian seasoning.\nAdd in flour. Stir for 2 mins until everything is combined.\nAdd in chicken broth, milk and heavy cream, stir. Toss in frozen spinach and shredded chicken, stir to combine.\nTurn up the heat and bring soup to a boil. Then gently add in gnocchi and boil for 4-5 minutes.\nServe with breadsticks.",
+        "notes": "",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "@spoonfulofsi",
+        "imageUrl": "https://www.wellplated.com/wp-content/uploads/2023/09/Chicken-and-Gnocchi-Soup-Olive-Garden.jpg"
+    },
+    {
         "name": "Olive Garden Chicken Margherita",
         "ingredients": "2 lbs Chicken Breasts, 4 portions\n1 cup Italian Salad Dressing or your favorite marinade\n2 Tbsp Olive Oil\n1/2 cup Basil Pesto\n2 tsp Garlic, minced\n6 Tbsp Butter\n1½ Tbsp Lemon Juice\n1/2 Ib Mozzarella, 1 slice for each piece of chicken\n1 cup Grape Tomatoes\n1/4 cup Fresh Basil Leaves, thinly sliced\nPesto:\n1 cup Fresh Basil Leaves\n3 Garlic Cloves\n2 Tbsp Pine Nuts\n1/3 cup Extra-Virgin Olive Oil\n1/2 tsp Salt\n1/4 cup Parmesan Cheese, grated\n1/4 cup Romano Cheese, grated",
         "directions": "Preheat the oven to 350°F.\nPound chicken out between two sheets of plastic wrap. This will even out the thickness of the chicken, and it will make the chicken cook more evenly.\nPlace the chicken breasts into a gallon-sized zip top bag. Add Italian dressing marinade, and allow the chicken to marinate for at least 30 minutes before cooking.\nWash the grape tomatoes and set them aside.\nHeat a couple of tablespoons of olive oil in a large cast iron skillet over medium-high heat.\nAdd the chicken and cook for 7 to 8 minutes on each side, or until the chicken is almost done (it will continue to cook in the oven), remove the chicken from the skillet and place it on a plate or baking dish.\nAdd butter, minced garlic, and lemon juice to the skillet. Cook until the butter has melted.\nAdd the chicken back to the skillet with the lemon butter sauce.\nPlace a slice of mozzarella on top of the chicken.\nAdd the tomatoes to the skillet.\nPlace the chicken in the oven, and bake until the cheese begins to melt and brown. This should take 7 to 10 minutes.\nAdd a tablespoon or two of pesto on top of the mozzarella cheese.\nServe garnished with fresh basil if desired.\nBasil Pesto: Place all pesto ingredients in a food processor.\nProcess until the mixture is smooth.",
@@ -3073,7 +3283,7 @@
     },
     {
         "name": "One-Pan Creamy Gnocchi with Sausage",
-        "ingredients": "16 oz Italian Sausage\n1/2 Onion, chopped finely\n4 Garlic Cloves, minced\n1/3 cup Dry White Wine\n1 (14 ounce) can Diced Tomatoes with Juices\n1 cup Heavy Cream\n1 lb Potato Gnocchi, uncooked\n1/2 cup Parmesan Cheese, freshly grated\nHandful Fresh Basil, torn\nSalt & Pepper to taste",
+        "ingredients": "16 oz Italian Sausage\n1/2 Onion, chopped finely\n4 Garlic Cloves, minced\n1/3 cup Chicken Stock\n1 (14 ounce) can Diced Tomatoes with Juices\n1 cup Heavy Cream\n1 lb Potato Gnocchi, uncooked\n1/2 cup Parmesan Cheese, freshly grated\nHandful Fresh Basil, torn\nSalt & Pepper to taste",
         "directions": "Sauté the sausage and onion in a skillet over medium-high heat for 7-10 minutes, or until lightly browned.\nAdd the garlic to the pan and sauté for about 30 seconds.\nAdd the wine and let it cook for about a minute.\nStir in the diced tomatoes, cream, and gnocchi. Once the sauce starts to bubble again, cover the pan and reduce the heat to medium. Cook for 5 minutes.\nUncover the pan, give it a good stir, and let it cook for another few minutes, or until the gnocchi has cooked through and is nice and soft and the sauce has thickened to your liking.\nStir in the parmesan cheese, basil, and salt & pepper, to taste. Serve immediately. ",
         "notes": "Prep time 5 min and Cook time 25 min",
         "yields": "4 servings",
@@ -3134,7 +3344,7 @@
     {
         "name": "One-Pot French Onion Pasta",
         "ingredients": "2½ cups Pasta, uncooked (any small or mini shape works best)\n4 Yellow Onions, large\n3 cups Beef Bone Broth\n3 Tbsp Butter, unsalted\n3 Garlic Cloves, crushed\n2-3 Fresh Thyme Sprigs\n3/4 cup Heavy Cream\n1/2 cup Parmesan, plus additional for garnish",
-        "directions": "To a large pan, drizzle olive oil and add butter. Then add thinly sliced onions. Cook on medium-low for 20-25 minutes until golden and caramelized. Stir frequently. If using a cast iron or heavy bottom pan, deglaze with a splash of white wine.\nAdd fresh thyme leaves and the stem, garlic, pasta and beef broth. Simmer on medium-high heat for 15 minutes or so until most of the liquid is absorbed. Stir frequently.\nRemove the thyme stems. Add the heavy cream and Parmesan. Add back any leaves that didn't fall off during cooking. Stir to combine and simmer for a few minutes just enough to melt the cheese and heat up the cream. Garnish with additional thyme and parmesan. You can easily make a protein on the side and add to this dish or through in some mushrooms in the last ten minutes of cooking onions.",
+        "directions": "To a large pan, drizzle olive oil and add butter. Then add thinly sliced onions. Cook on medium-low for 20-25 minutes until golden and caramelized. Stir frequently. If using a cast iron or heavy bottom pan, deglaze with a splash of chicken stock.\nAdd fresh thyme leaves and the stem, garlic, pasta and beef broth. Simmer on medium-high heat for 15 minutes or so until most of the liquid is absorbed. Stir frequently.\nRemove the thyme stems. Add the heavy cream and Parmesan. Add back any leaves that didn't fall off during cooking. Stir to combine and simmer for a few minutes just enough to melt the cheese and heat up the cream. Garnish with additional thyme and parmesan. You can easily make a protein on the side and add to this dish or through in some mushrooms in the last ten minutes of cooking onions.",
         "notes": "",
         "yields": "",
         "category": "Dinner",
@@ -3280,6 +3490,16 @@
         "category": "Soups",
         "original_author": "@marleysmenu",
         "imageUrl": "https://images.squarespace-cdn.com/content/v1/640c87547ee7d755dd5c6d09/1696384473763-MUIL1ZTWLCX8QLL336Z4/IMG_3218.JPG"
+    },
+    {
+        "name": "Peach Cake",
+        "ingredients": "1½ cups All-Purpose Flour (180g)\n1½ tsp Baking Powder\n½ tsp Salt\n¾ cup Butter, unsalted and softened (170g)\n1 cup Sugar (200g)\n2 Eggs, large\n¼ cup Sour Cream, room temperature (60g)\n1 Tbsp Vanilla Extract\n2 cups Peaches, peeled, pitted, and sliced (400g/2 to 3 peaches)",
+        "directions": "Preheat the oven to 350F. Grease a 9-inch round cake pan with butter or baking spray.\nIn a medium mixing bowl, whisk together the flour, baking powder, and salt.\nIn a large mixing bowl or the bowl of a stand mixer with the paddle attachment, beat the butter on medium speed until creamy. Add the sugar and beat until light and fluffy, about 3 minutes. Add the eggs one at a time, scraping down the bowl and beating well after each addition. Beat in the sour cream and vanilla.\nWith the mixer on low speed, gradually add the flour mixture just until combined. Fold in three-quarters of the peaches. Spread the batter into the prepared cake pan. Sprinkle the top with the remaining peaches and additional sugar, if desired.\nBake for 45 minutes or until a wooden pick inserted into the center comes out clean. Let cool for at least 30 minutes before serving. Cake can be covered and stored at room temperature for up to 3 days.",
+        "notes": "Prep time 10 min and Cook time 45 min",
+        "yields": "",
+        "category": "Desserts",
+        "original_author": "Preppy Kitchen",
+        "imageUrl": "https://preppykitchen.com/wp-content/uploads/2022/06/Peach-Cake-Feature.jpg"
     },
     {
         "name": "Peach Cobbler",
@@ -3502,6 +3722,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Pork Bao Buns",
+        "ingredients": "For Bao Dough:\n1 cup water\n2 tsp Yeast\n2½ cups Bread Flour\n½ cup Corn Starch\n5 Tbsp Sugar\n2 Tsp Fine Sea Salt\n2 Tbsp Butter\nFor Pork Filling:\n300g Pork Mince\n1 Garlic Clove, minced or 1 tsp Garlic Powder\n1 Tbsp Soy Sauce\n1 Tbsp Rice Wine Vinegar\n1 Tbsp Honey\n2 Tbsp Oyster Sauce\n2 Tbsp Sesame Oil\nSprinkle of Salt",
+        "directions": "Bread Dough: Mix yeast in water that is warmed up to lukewarm (about 98 F). Let sit for 10 minutes.\nIn a stand mixer bowl, add the bread flour, cornstarch, sugar, and sea salt. Whisk together at first to incorporate all ingredients then add yeast and water mixture in the bowl gradually.\nIf needed or too dry, add 1 tbsp of water at a time. Add 2 tbsp of softened unsalted butter.\nMix 8-10 minutes until smooth and looks cohesive, gently shape dough into a ball. In a greased bowl, put inside, damp towel, let rise for 1.5 hr or until doubled in size.\nFilling: Mix all filling ingredients in a separate bowl.\nAssembly: Shape dough into a long log, 18 in long. Ideally you would get 12-14 pieces of dough.\nRoll over the cut side. Do an 8 turn roll by rolling an eighth of the dough turning it, then rolling it again, leaving a thick center and a thin outside leaving a little bubble in the center for the filling. When rolled out with a rolling pin, the dough should be 4-5 inches in diameter.\nAdd enough filling so that there is a half inch border around the whole bao.\nPleat by pinching the dough then pressing it on the pinched edge repeatedly until the bao closes. You can also try wrapping them like a Taco Bell Crunchwrap.\nSteamer basket setup: 2 inches of water and bring to a boil. Place steamer basket on top of the pot of boiling water without having the basket touch the water. 12-15 mins or until pork reaches an internal temp of 145F. Avoid opening the steamer baskets early as it will release the collected steam and slow cooking time.",
+        "notes": "Dough rises for about 1.5 hours. You’ll need steamer baskets!",
+        "yields": "12-14 Buns",
+        "category": "Dinner",
+        "original_author": "Three Way Cut, Josh Weissman, and Keslie Remer",
+        "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2024-03-steamed-buns%2FSteamed-Pork-Buns-0200"
+    },
+    {
         "name": "Pork Chili 'n' Cheese Stuffed Poblanos with Black Beans, Fresh Salsa & Smoky Red Pepper Lime Crema",
         "ingredients": "2 Poblano Peppers\n1 Roma Tomato\n1 Yellow Onion\n1 Lime\n13.4 oz can Black Beans\n2 Tbsp Smoky Red Pepper Crema\n10 oz Ground Pork\n1 Tbsp Southwest Spice Blend\n1½ oz Tomato Paste\n1 Chicken Stock Concentrate\n1/2 cup White Cheddar Cheese\n1 tsp Hot Sauce",
         "directions": "Adjust rack to top position and preheat oven to 425 degrees. Wash and dry produce. Halve poblanos lengthwise; remove stems and seeds. Dice tomato. Halve, peel, and finely chop onion. Zest and quarter lime. Drain and rinse beans.\nPlace poblano halves on a baking sheet and rub all over with a drizzle of oil. Season with salt and pepper. Roast on top rack until browned and softened, 15-18 minutes.\nMeanwhile, in a small bowl, combine tomato, 2 Tbsp onion, half the lime zest, and a squeeze of lime juice to taste. Season with salt and pepper. In a separate small bowl, combine smoky red pepper crema, remaining lime zest, and a squeeze of lime juice to taste. Season with salt and pepper. Add water 1 tsp at a time until mixture reaches a drizzling consistency.\nHeat a drizzle of oil in a large pan over medium-high heat. Add remaining onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add pork and Southwest Spice; season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes.\nAdd tomato paste, stock concentrate, half the beans (use the rest as you like), and 1/4 cup water to pan with pork filling. (For 4 servings, use all the beans and 1/3 cup water.) Stir until mixture is saucy and thoroughly combined, 1-2 minutes. Season generously with salt and pepper. Once poblano halves are done roasting, remove sheet from oven. Stuff with up to half the filling (save the rest for serving). Evenly sprinkle with cheddar. Return to oven until cheese melts, 3-4 minutes.\nDivide remaining filling between plates; top with stuffed poblanos, salsa, and crema. Drizzle with hot sauce if desired. Serve with any remaining lime wedges on the side.",
@@ -3682,6 +3912,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Restaurant Style Honey Garlic Chicken",
+        "ingredients": "1 kg Boneless chicken cubes\n1 tsp Salt\n1 Tbsp Garlic Powder or Paste\nBatter:\n2 cups Plain Flour\n1 cup Corn Flour\n1 tsp Salt\n1 Tbsp Chili Powder\n1 Tbsp Black Pepper\n1 Tbsp Oregano\n1 Tbsp Ginger Powder\n1 tsp Garlic Powder\nOil, for frying\n150g Butter\n2 Bulbs Garlic, chopped\n1/2 cup Soy Sauce\n1/3 cup Sugar\n1/3 cup Honey\nSesame Seeds, garnish",
+        "directions": "Marinate cubed boneless chicken with salt and garlic powder/paste. Mix well and marinate for 30 minutes.\nCombine plain flour, corn flour and spices. Divide the flour mix into halves & mix one half with 250ml water to form a wet batter. Mix wet batter with marinated chicken first. Then mix the battered chicken with the dry mixture to create textured and battered chicken.\nDeep fry in hot oil for 5 to 6 minutes until golden and crispy.\nFor sauce, melt butter and add minced garlic. Cook on high until fragrant, about 30 seconds. Lower the heat and add soy sauce, sugar, and honey. Cook on medium high for a minute or two.\nAdd fried chicken to sauce and toss.",
+        "notes": "",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "@shadi_faleel",
+        "imageUrl": "https://www.halfbakedharvest.com/wp-content/uploads/2024/04/30-Minute-Honey-Garlic-Chicken-1.jpg"
+    },
+    {
         "name": "Rice Cooker Lemonade",
         "ingredients": "600-700g Crystal Rock Sugar\n6 Lemons, cleaned and sliced",
         "directions": "In the rice cooker or slow cooker, add in a layer of sugar, then a layer of lemon slices. Repeat the process and finish with sugar.\nSlow cook for 2 hours, and then keep warm for 7-9 hours.\nAfer cooling, store in a clean glass jar and chill in the fridge and store for up to 3 months.\nTo serve, add a few lemon slices to a glass with ice and sparkling water.",
@@ -3693,7 +3933,7 @@
     },
     {
         "name": "Risotto with Shrimp and Asparagus",
-        "ingredients": "3 Tbsp Butter, unsalted\n1 Onion, small and finely diced\n6 Garlic Cloves, minced\n1⅔ cups Arborio Rice, uncooked\n1 cup White Wine\n4 cups Chicken Broth\n1/2 cup Parmesan Cheese, shredded and divided\n2 Tbsp Olive Oil\n3 Garlic Cloves, minced\n2 lbs. Shrimp (26-30 per lb.), uncooked, peeled and deveined\n1 Tbsp Butter, unsalted\n1/2 cup Italian Salad Dressing\n1 lb. Fresh Asparagus, trimmed\nSalt & Pepper to taste",
+        "ingredients": "3 Tbsp Butter, unsalted\n1 Onion, small and finely diced\n6 Garlic Cloves, minced\n1⅔ cups Arborio Rice, uncooked\n1 cup Chicken Stock\n4 cups Chicken Broth\n1/2 cup Parmesan Cheese, shredded and divided\n2 Tbsp Olive Oil\n3 Garlic Cloves, minced\n2 lbs. Shrimp (26-30 per lb.), uncooked, peeled and deveined\n1 Tbsp Butter, unsalted\n1/2 cup Italian Salad Dressing\n1 lb. Fresh Asparagus, trimmed\nSalt & Pepper to taste",
         "directions": "Select saute setting on a 6-qt. electric pressure cooker and adjust for high heat; warm butter until melted. Add onion; cook 4-5 minutes. Add garlic; cook 1 minute. Add rice; cook and stir 2 minutes. Stir in 1/2 cup wine; cook and stir until absorbed. Add remaining wine, broth, and 1/4 cup cheese. Lock lid and make sure the vent is closed. Select manual setting; adjust pressure to high. Set the time for 8 minutes. When finished cooking, quick-release pressure according to manufacturer's directions; stir.\nMeanwhile, heat oil in a large skillet over medium-high heat. Add garlic; cook 1 minute. Add shrimp; cook and stir until the shrimp begin to turn pink, about 5 minutes. Add butter and dressing; stir until butter melts. Reduce heat. Add asparagus; cook until tender, 3-5 minutes. Serve over risotto. Season with salt and pepper. Sprinkle with the remaining cheese.",
         "notes": "Cook time: 30 minutes",
         "yields": "8 servings",
@@ -3962,6 +4202,16 @@
         "imageUrl": "https://img.hellofresh.com/c_fit,f_auto,fl_lossy,h_500,q_auto,w_1900/hellofresh_s3/image/61ddde1c53566969664bfa00-7c9e7fcb.jpg"
     },
     {
+        "name": "Simple Cucumber Salad",
+        "ingredients": "1 Cucumber\n1½ Tbsp Soy Sauce\nSplash of Fish Sauce\n1 Tbsp Sugar\nMSG, to taste\n3-4 Tbsp Sesame Oil\nGarlic clove, grated\n2 Green Onions, chopped\nToasted Sesame Seeds",
+        "directions": "Thinly slice cucumbers and chop green onions. Optionally, peel the cucumber before slicing.\nMix all ingredients well.",
+        "notes": "",
+        "yields": "",
+        "category": "Sides, Salads, and Breads",
+        "original_author": "@Logansfewd",
+        "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-08/TikToks-cucumber-salad-guy-mc-240807-01-69a0bb.jpg"
+    },
+    {
         "name": "Simple Poured Icing",
         "ingredients": "2 cups Powdered Sugar\n1-2 Tbsp Lemon Juice",
         "directions": "Mix powder sugar and enough lemon juice to form a thin glaze.\nAdd food coloring if desired.",
@@ -4042,6 +4292,16 @@
         "imageUrl": ""
     },
     {
+        "name": "Soup Dumplings - Xiao Long Bao",
+        "ingredients": "FOR THE DUMPLING WRAPPERS:\n10½ oz 00 Flour\n1 Tbsp Neutral Oil\n1 tsp Salt\n5¾ fl oz Boiling Water\n5 Tbsp Cornflour\n5 Tbsp Plain Flour\nFOR THE SOUP JELLY:\n9 fl oz Water\n¼ oz Gelatine Leaf\n1 oz Fresh Ginger\n½ tsp Chicken Bouillon Powder\n½ tsp Dashi\nFOR THE DUMPLING FILLING:\n9 oz Pork Mince\n2 Spring Onions\n½ Tbsp Fresh Ginger\n1 Garlic Clove\n1½ Tbsp Soy Sauce\n½ Tbsp Oyster Sauce\n½ Tbsp Rice Wine Vinegar\n½ Tbsp Sesame Oil\n½ tsp Ground White Pepper\n1 tsp Salt\n3 Tbsp Water\n9 oz Soup Jelly\nFOR THE DIPPING SAUCE:\n3 Tbsp Chinese Black Vinegar\n¼ oz Fresh Ginger",
+        "directions": "MAKE THE SOUP JELLY: Into a small pot, combine all the ingredients except the gelatine leaves, and bring to a boil for 8 mins with a lid, just to infuse the aromatics into the liquid.\nIn the meantime soak the gelatine leaves in a bowl of cold tap water for 3 mins or until softened like contact lenses, squeeze the excess liquid out and set aside.\nTake the small pot off the heat and add all the gelatine leaves, mix until dissolved then strain into a shallow pasta bowl. When cool enough, place it into the freezer for 30 mins to quickly set up, then leave in the fridge for another 30 mins or until needed. This can be done up to 2 days before.\nMAKE THE WRAPPERS: Grab a large bowl and add flour, oil and salt and add ¾ of the boiled water, leaving a little water behind. Use a chopstick or the back of a wooden spoon to mix everything, then use your hands and create a dough ball. If the dough ball feels dry add some of the remaining water and knead until it is soft and feels like play-dough. It should not be stuck to your fingers, just add more flour if this happens.\nKnead for 2 mins or until smooth, cover in cling film or throw into a sandwich bag, set aside for at least 25 mins. This dough can be made up to 2 nights before.\nMAKE THE DUMPLING FILLING: Grab a large bowl and add all the ingredients into the bowl except for the spring onions and water/chicken stock. Use a fork or chopsticks, to mix in one direction until a big meatball forms.\nAdd the water/chicken stock in 2 parts, mixing in between until the meatball absorbs the liquid, then add the renaming liquid. Finely slice the spring onions and mix just until it is evenly incorporated. Cling film the bowl and leave in the fridge until needed.\nWhen the jelly is fully set, use a knife to score the jelly into small cubes, roughly the size of peas. Then scoop all jelly onto the dumpling filling and use a spatula to mix until the jelly is evenly incorporated into the dumpling filling, cling film and leave in the fridge.\nPrep the steamer basket by cutting a circle of baking paper that fits the bakers, then cut multiple finger-sized holes so that steam can escape, then lightly oil the baking paper and leave inside the steamer basket and set aside.\nCONTINUE MAKING THE WRAPPERS: Roll the dough into a log the width of a round cherry tomato and use scissors to cut into 25 pieces, slightly smaller than the size of a cherry tomato, or 12g each if you want to be exact.\nIn a small pot combine a 1:1 ratio of cornflour and flour and mix with fingers, use this for dusting.\nLightly dust all the pieces of dough and toss with your hands to lightly coat. Turn the pieces of dough upwards so the sticky part is facing you, then use the fattest part of your palm to press down firmly, revealing a coin shape. Repeat for all the dough pieces, then cover with a lightly damp tea towel to prevent them from drying out.\nUsing the dusting flour, roll out each piece of dough, roughly 10 cm in diameter, trying to keep the center of the wrapper a bit thicker than the edges of the wrapper. Lightly dust each side if needed, then place onto a sheet of cling film, and lightly cover with cling film.\nRepeat to all pieces of dough, stacking the wrapper on top of each other, making sure to lightly dust between each wrapper and always covering with the cling film, to prevent it drying out.\nFOLD THE SOUP DUMPLINGS: Place 1 Tbsp of filling in the center of a wrapper and create multiple folds around the filling, making sure to seal it super tight by pinching everything together in the center. Alternatively fold the dumpling like a tortellini, which is very simple. Fold the dumpling in half and seal all the edges like a purse.\nUse your pinky finger to lightly dent the middle of the dumpling and fold the edges together and squeeze to seal, to create a tortellini shape. Place it into the steamer basket. Repeat folding the dumplings as desired, ensuring whatever method you choose, they are tightly sealed and add the dumplings to the steamer basket giving 3 cm space between all the dumplings.\nSTEAM THE DUMPLINGS: Find a saucepan that snugly fits the steamer baskets, and fill the pan ½ way with water. Bring the water to a boil, then add the steamer basket and reduce the heat medium low. Steam for 8 minutes and reveal.\nIn the meantime combine vinegar and thin slices of ginger together for the dipping sauce.\nWhen eating, do not burn your mouth, these are pockets of boiling soup. Place a dumpling onto a spoon, pour a tsp of vinegar, poke or bite a small hole to release the heat, drink the soup to test the temperature, then eat.",
+        "notes": "3 hours",
+        "yields": "",
+        "category": "Dinner",
+        "original_author": "Mob.co.uk and @dudu_eats",
+        "imageUrl": "https://www.mob.co.uk/cdn-cgi/image/width=640,quality=75,format=auto/https://files.mob-cdn.co.uk/recipes/2024/04/Soup-Dumpling-Recipe.jpg"
+    },
+    {
         "name": "Sour Cream Sugar Cookies",
         "ingredients": "1/2 cup Butter, unsalted\n2 cups Sugar\n4 Eggs\n1 tsp Vanilla\n2/3 cup Sour Cream\n1/2 tsp Baking Soda\n3 tsp Baking Powder\n1 tsp Salt\n4 cups All-Purpose Flour, fluffed and leveled",
         "directions": "In a large bowl with an electric mixer, beat butter and sugar on high until creamy.\nAdd eggs, vanilla, and sour cream and beat until smooth.\nAdd baking soda, baking powder, and salt and mix until combined. Add flour and beat on low until no white remains — dough will be soft, almost like cake batter.\nPreheat oven to 350 degrees F and line baking sheets with parchment paper. Drop by heaping tablespoonfuls onto baking sheets 2-3 inches apart and bake for 10-12 minutes, until edges are golden and centers are set.\nCool and decorate with frosting!",
@@ -4080,6 +4340,16 @@
         "category": "Dinner",
         "original_author": "Don’t Go Bacon My Heart",
         "imageUrl": "https://www.dontgobaconmyheart.co.uk/wp-content/uploads/2018/08/spanish-chicken-tray-bake-1.jpg"
+    },
+    {
+        "name": "Spicy Tom Kha Soup",
+        "ingredients": "1 Banana Shallot\n4 Garlic Cloves\nThumb of Ginger\n½ Red Chili\n1 Lemongrass Stalk\n2 Tbsp Soy Sauce\n1 Tbsp Rice Wine Vinegar\n1 Tbsp Thai Red Curry Paste (optional)\n1-2 Chicken Stock Cubes\n400ml Coconut Milk\n1 tsp Brown Sugar\n1 Lime\n200g Mushrooms, shiitake work great\n150g Chicken or Tofu\n1 bunch Spring Onions\nHandful fresh Coriander\nThai Chili Oil\n1 Tbsp Vegetable Oil\nSalt & Pepper",
+        "directions": "Prepare all your aromatics - chop your shallot, garlic, ginger and chili. Bash the lemongrass, then warm the oil on a medium heat in a saucepan.\nAdd your aromatics, stirring well and allow flavors to combine. Sauté for 3-5 mins.\nAdd the soy, rice vinegar and curry paste. Stir well and cook off for another 2-3 mins.\nMix your stock cube(s) with the boiling water, then slowly add to the pot, stirring as you go.\nBring to a boil, then allow to simmer for 15-20 mins. Strain the broth through a sieve, then add the coconut milk + simmer.\nSlice the mushrooms and chicken, then add to the broth and cook until internal temp reaches 165F.\nAdd a bunch of chopped spring onion and coriander if you like. Season with sugar and lime juice.\nTo serve, ladle into deep bowls. Garnish with red chili, coriander, lime wedges and a swirl of chili oil if you like.",
+        "notes": "",
+        "yields": "2 servings",
+        "category": "Soups",
+        "original_author": "@alfiecooks",
+        "imageUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2022/04/Tom-Kha-Gai-square-FS-9.jpg"
     },
     {
         "name": "Spicy Tuscan Mini Farfalle",
@@ -4140,6 +4410,16 @@
         "category": "Miscellaneous",
         "original_author": "Tastemade",
         "imageUrl": "https://sarahblooms.com/wp-content/uploads/2023/03/best-spring-simmer-pots.jpg"
+    },
+    {
+        "name": "Strawberry Cheesecake Crackers",
+        "ingredients": "9 oz Strawberries\n1 Tbsp Sugar\n2 tsp Balsamic Vinegar\n½ oz Basil\n2 fl oz Double Cream\n¾ oz Icing Sugar\n1 tsp Vanilla Extract\n3½ oz Cream Cheese\n12 Cream Crackers",
+        "directions": "Start by washing the strawberries in water and removing the stalk and leaves from the strawberry, by twisting or carefully using a knife. Finely chop the stalks and leaves, they’re totally edible!\nSlice the strawberries thin and pop them into a mixing bowl, sprinkle over the sugar, gently mix through then set to one side. Tear in some basil leaves and tip in the balsamic vinegar. Mix to combine.\nIn another bowl, whisk the double cream, icing sugar and vanilla essence until forming stiff peaks, soften the cream cheese in another bowl then gently mix together.\nNow you are ready to build your mini cheesecakes, pipe or spoon the cheesecake base onto a cracker leaving a well for the strawberries to sit in. Spoon in the strawberries and some of their juice.\nFor a fancy garnish, top with extra some fresh basil and a little lick of the strawberry syrup.",
+        "notes": "Cook time 15 min",
+        "yields": "12 crackers",
+        "category": "Sides, Salads, and Breads",
+        "original_author": "Mob.co.uk",
+        "imageUrl": "https://www.mob.co.uk/cdn-cgi/image/width=640,quality=75,format=auto/https://files.mob-cdn.co.uk/recipes/2023/03/Strawberry-Cheese-Cake-Crackers.jpg"
     },
     {
         "name": "Strawberry Cream Puffs",
@@ -4422,6 +4702,16 @@
         "imageUrl": "https://juliasalbum.com/wp-content/uploads/2019/03/creamy-tuscan-salmon.jpg"
     },
     {
+        "name": "Twix Cookies",
+        "ingredients": "Shortbread Cookies:\n1 cup Butter, unsalted and softened\n½ cup Powdered Sugar\n1 tsp Vanilla Extract\n2 cups All-Purpose Flour\n¼ tsp Salt\nCaramel Layer:\n15 Soft Caramels, unwrapped\n2 Tbsp Heavy Cream\nChocolate Layer:\n1 cup Milk Chocolate Chips\n1 tsp Vegetable Oil",
+        "directions": "Prepare the Shortbread Cookies: Preheat your oven to 350°F (175°C). Line a baking sheet with parchment paper.\nIn a large bowl, beat the softened butter and powdered sugar together until light and fluffy. Mix in the vanilla extract. Gradually add the flour and salt, mixing until just combined. Roll the dough into 1-inch balls and place them on the prepared baking sheet. Flatten each ball slightly with your hand or the bottom of a glass. Bake for 12-14 minutes, or until the edges are just starting to turn golden. Let the cookies cool on the baking sheet for 5 minutes, then transfer to a wire rack to cool completely.\nMake the Caramel Layer: In a small saucepan, melt the caramels and heavy cream over low heat, stirring constantly until smooth. Spoon about 1 teaspoon of caramel onto each cooled cookie, spreading it evenly over the top. Let the caramel set for about 10 minutes.\nMake the Chocolate Layer: In a microwave-safe bowl, combine the milk chocolate chips and vegetable oil. Microwave in 30-second intervals, stirring after each, until the chocolate is melted and smooth. Spoon or drizzle the melted chocolate over the caramel layer on each cookie.\nAllow the chocolate to set completely before serving.\nThese Twix-inspired cookies have all the layers you love from the candy bar – buttery shortbread, gooey caramel, and a rich chocolate topping!",
+        "notes": "Prep Time: 20 minutes | Cooking Time: 14 minutes | Total Time: 45 minutes",
+        "yields": "24 cookies",
+        "category": "Desserts",
+        "original_author": "EatWellLiveBetterDaily",
+        "imageUrl": "https://veronikaskitchen.com/wp-content/uploads/2019/11/20191119-IMG_1744.jpg"
+    },
+    {
         "name": "Uova Al Purgatorio",
         "ingredients": "3 Tbsp Extra-Virgin Olive Oil\n1 Yellow Onion, small and thinly sliced\n1 Garlic Clove, lightly crushed and peeled\nGenerous pinch Red Pepper Flakes\n1 Red Bell Pepper, coarsely chopped\nSalt\n1 (28 oz) can Tomatoes, chopped\n4 Eggs, large\n5-8 Basil Leaves, freshly torn\n3-4 Tbsp Parmigiano Reggiano, freshly grated\nCrusty Bread, for serving",
         "directions": "Make the base: In a large skillet or wide saucepan with a lid set over medium-low heat, stir together the olive oil, onion, garlic, red pepper flakes, and red bell pepper. Cook, stirring, until the onion and peppers are softened, about 10 minutes. If the bell pepper isn’t quite tender, cover the pan partially and cook for another 5 minutes, until the pepper is softened but still holds its shape. Season with a generous pinch of salt.\nAdd the tomatoes: Stir in the tomatoes and bring to a simmer over medium heat. Lower the heat to medium-low, cover the skillet partially and simmer gently until the tomatoes have darkened in color and thickened, about 15 minutes. Uncover and cook another 5 minutes until the sauce is nicely thickened.\nPoach the eggs: Use the back of a spoon to carve out 4 wide wells in the sauce, making homes for your eggs. Crack the eggs into the wells and season each with a sprinkle of salt. Cover the pan and cook gently until the whites are set and the yolk is still runny, about 2-3 minutes.\nServe: Remove from the heat and garnish with torn fresh basil leaves and cheese. Serve right away, with good bread on the side.",
@@ -4562,6 +4852,16 @@
         "imageUrl": "https://therecipecritic.com/wp-content/uploads/2022/10/sproutedwheatbread-1.jpg"
     },
     {
+        "name": "Wild Confit Garlic Rosemary Focaccia Sandwich",
+        "ingredients": "Wild Garlic Confit:\n6 heads Garlic\n3 cups Wild Garlic Olive Oil\n6 sprigs Thyme\n3 sprigs Rosemary\nFocaccia:\n700 g Bread Flour\n680 g Lukewarm Water, 100 degrees F\n7 g Dry Yeast\n12 g Sea Salt\n1 tsp Honey\n60 g Extra Virgin Olive Oil\n2 sprigs Rosemary\n12 Garlic Confit Cloves\nSandwich Assembly:\nArugula\nParmesan, shaved\n1 Peach, sliced and grilled\nOlive Oil\nBalsamic Vinegar\nHot Honey\nProsciutto, sliced\nMozzarella, sliced",
+        "directions": "Wild Garlic Confit: Preheat the oven to 250°F.\nPeel the garlic by breaking the cloves away and placing them into a heatproof bowl. Submerge in boiling hot water for 5 minutes and drain. The skin will become loose and easy to peel away.\nPlace the garlic cloves, thyme and rosemary into an ovenproof dish and fully submerge in olive oil. It's important the garlic is fully submerged in the olive oil so it does not burn. Bake for 2 hours or until the garlic has browned in color.\nAllow to cool and store in an airtight container or jar with the garlic cloves fully submerged in the olive oil for up to several weeks in the fridge.\nFocaccia: Start by stirring lukewarm water, yeast, and honey in a medium bowl with a whisk. Wait for about 5 minutes until the mixture becomes frothy, signaling that the yeast is ready.\nIn a different large bowl, whisk flour and salt. Then, pour in the yeast mixture, stirring with a spoon or your hands to form a wet, sticky dough without dry spots. Cover the bowl with plastic or a damp cloth for 10 minutes.\nSandwich Assembly: Slice focaccia for sandwich and filling.\nMix arugula, shaved parmesan, salt and pepper. Drizzle with olive oil and balsamic vinegar, mix.\nSlice 1 peach and grill.\nTo assemble the sandwich, take 3-4 Garlic Confit cloves and mush into the bottom slice of bread and spread. Add a layer of Prosciutto, grilled peach slices, mozzarella, a drizzle of hot honey, arugula salad, and top with the other bread slice.",
+        "notes": "",
+        "yields": "",
+        "category": "Sides, Salads, and Breads",
+        "original_author": "Daen’s Kitchen",
+        "imageUrl": "https://cdn-lbppn.nitrocdn.com/TIvUOgkSVuwIZbJQMoNKauSIODDirNaR/assets/images/optimized/rev-3600644/daenskitchen.com/wp-content/uploads/2022/07/Rich-Glen-Focaccia-Daens-Kitchen-High-Res-3-1153x1536.jpg"
+    },
+    {
         "name": "Wontons",
         "ingredients": "Wontons:\n1 lb. Ground Pork or chicken\n4 Dried Shiitake Mushrooms, soaked until tender, diced small\n2 Tbsp Fresh Ginger, minced\n8 oz can Water Chestnuts, drained and diced small\n3 Scallions, sliced\n1 Egg\n1 Tbsp Soy Sauce\n1 Tbsp Sesame Oil\n1 tsp Salt\n1/2 tsp Sugar\n1/2 tsp Pepper\n2 Tbsp Cornstarch\n1/4 cup Water\n2 packages Wonton Skins\nWonton Sauce:\n3 Tbsp Soy Sauce\n2 Tbsp Rice Vinegar\n1 Tbsp Sesame Oil\n1 tsp Sesame Seeds\n1 Tbsp Chili Oil or Chili Garlic Sauce",
         "directions": "Wontons: Mix together the ingredients for the sauce and set aside Add the pork, shiitake mushrooms, ginger, water chestnuts, scallions, egg, soy sauce, sesame oil, sugar, salt, and pepper to a bowl and mix.\nCombine the 2 Tbsp cornstarch with 1/4 cup water and stir until cornstarch dissolves; pour into the meat mixture and mix.\nFill a small bowl with water; orient the wonton skin in your palm in a diamond shape, and place ~1 tsp of the meat mixture in the bottom corner of the skin; roll the corner up and over the meat mixture about halfway and then wet the skin to the right of the meat; holding the skin on both sides of the meat between your thumbs and pointer fingers (fingers facing towards you), pinch your fingers together and tuck the damp skin on the left onto the right to seal shut (the water will act as an adhesive)\nBring a large pot of water to a boil\nPlace wontons in boiling water in batches (you can usually cook 10-15 at a time depending on the size of pot) and cook until they begin to float; check with a meat thermometer to ensure internal temp is 165F or higher, then remove the wontons from the water with a mesh strainer (shake off excess water before adding them to a bowl).\nSpoon some of the sauce on the wontons (leave some on the side) and top with some more scallions and sesame seeds - enjoy!",
@@ -4570,6 +4870,16 @@
         "category": "Dinner",
         "original_author": "@Maxiskitchen",
         "imageUrl": "https://www.lifesambrosia.com/wp-content/uploads/Shrimp-and-Pork-Wontons-in-Spicy-Sauce-Recipe-Photo-1-scaled.jpg"
+    },
+    {
+        "name": "Yaki Onigiri",
+        "ingredients": "Sushi Rice\n1½ cup Sushi Rice\n2 cups Water\n2 tsp Toasted Black Sesame Seeds\n2 tsp Sesame Oil\nSoy Glaze\n¼ cup Soy Sauce\n2 Tbsp Mirin\n1 tsp Sugar",
+        "directions": "Cook the sushi rice in a rice cooker. Then while warm, season with seasoning ingredients above.\nMake the onigiri triangle shapes with a mold. **Optionally fill the onigiri with your favorite filling at this step.**\nMix together the soy sauce, sugar, and mirin for the soy glaze mixture.\nLightly oil a medium skillet and heat it over medium heat. Sear each side of every onigiri until golden brown.\nWorking QUICKLY, brush each onigiri with the soy glaze and flip to caramelize the onigiri for 10 seconds.",
+        "notes": " You can opt for the classic seasoned rice style or fill it with your favorite fillings like tuna mayo, spicy salmon, etc.",
+        "yields": "Makes 6",
+        "category": "Dinner",
+        "original_author": "@TakesTwoEggs",
+        "imageUrl": "https://static01.nyt.com/images/2020/04/22/dining/22Cookbook-Onigiri/22Cookbook-Onigiri-superJumbo.jpg"
     },
     {
         "name": "Yucatan Citrus Chicken Bowls with Poblano, Smoky Red Pepper Crema & Pickled Onion",
